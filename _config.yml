@@ -15,7 +15,7 @@ permalink: /:title/
 authors:
   marketing:
     name: REMAKE.AI Marketing
-    display_name: remake_ai_marketing
+    display_name: marketing
 #    gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: marketing@remake.ai
     web: https://remake.ai
