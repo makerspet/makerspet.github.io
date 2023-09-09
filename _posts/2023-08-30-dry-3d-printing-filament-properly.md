@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to dry your 3D printing filament properly"
-author: marketing
+author: iliao
 categories: [ 3D-printing, tutorial ]
 image: assets/images/webp/PXL_20230828_023941587_cropped-795x1024.webp
 ---
@@ -15,6 +15,8 @@ as the print goes on.
 - Noticing atypically lots of stringing in your print.
 
 I'm using an 1700W electric air fryer oven that I "borrowed" from my wife. The air fryer oven vendor and model are GoWISE USA AG89B. The oven has 1700W of power and a built-in air circulation fan. I'm not associated with GoWISE USA, I'm just describing my personal experience. I'm sure you can find similar fryers from other vendors - just try searching Amazon.
+
+{% include signup-form.html %}
 
 Here are instructions on using this oven to dry filament:
 

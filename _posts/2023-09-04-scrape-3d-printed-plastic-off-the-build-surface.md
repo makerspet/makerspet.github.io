@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "How to scrape 3D-printed plastic off the build surface properly"
-author: marketing
+author: iliao
 categories: [ 3D-printing, tutorial ]
 # tags: [red, yellow]
-image: assets/images/webp/PXL_20230905_005016755-scaled.webp
+image: assets/images/webp/PXL_20230905_005016755-cropped.webp
 description: "Use a plastic scraper and control build surface temperature to remove stuck plastic, printed parts"
 # featured: false
 # hidden: false
@@ -33,6 +33,8 @@ However, if your build surface adhesion is too high for these filament types, a 
 3D printers with a removable steel sheet build surface - e.g., Prusa MK3S. Removable build surfaces, generally, are pleasure to use - as opposed, say, to stock Voron 2.4 non-removable build surfaces.All you usually have to do is take the build surface off the 3D printer, bend the surface slightly - which is usually a steel sheet that bends and springs right back nicely - and the part pops off effortlessly, usually.
 
 Usually is the key word - sometimes the part sticks to the build surface so hard as if glued. In this case, try scraping the part off the build surface using the scraper below - with the build surface hot, warm or cold. Again, be careful when choosing the build surface temperature! A part printed with a filament that's prone to warping can warp your build surface and damage it as your build surface cools down - for example by ripping the PEI layer off your build surface, if your build surface has PEI.
+
+{% include signup-form.html %}
 
 N.B. I've seen removable build surfaces for Voron 2.4 - you may want to consider using those if you own a Voron 2.4.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Keep 3D printing filament dry properly with molecular sieve desiccant"
-author: marketing
+author: iliao
 categories: [ 3D-printing, tutorial ]
 image: assets/images/webp/PXL_20230828_023915240-740x831.webp
 description: "Keep 3D printing filament dry in an airtight container with with molecular seive desiccant and a hygrometer"
@@ -30,6 +30,8 @@ At this point I searched for silica gel alternatives and found "molecular sieve"
 
 - With molecular sieve I can repeatedly achieve 10% humidity at room temperature in my airtight filament containers.
 - The hygrometer keeps showing 10% relative humidity during 3D prints even when I leave the airtight filament container inside the printer enclosure.
+
+{% include signup-form.html %}
 
 This is the desiccant brand that I use, purchased off Amazon. I am not associated with the desiccant seller or manufacturer.
 
