@@ -2,7 +2,7 @@
 layout: post
 title:  "How to dry your 3D printing filament properly"
 author: iliao
-categories: [ 3D-printing, tutorial ]
+categories: [ 3D-printing, Tutorial ]
 image: assets/images/webp/PXL_20230828_023941587_cropped-795x1024.webp
 comments: false
 ---

@@ -2,8 +2,10 @@
 layout: post
 title:  "Keep 3D printing filament dry properly – make an airtight spool container"
 author: iliao
-categories: [ 3D-printing, tutorial ]
+categories: [ 3D-printing, Tutorial, Mods ]
 image: assets/images/webp/PXL_20230828_025257957-1024x771.webp
+featured: true
+hidden: true
 comments: false
 ---
 If you print only PLA filament, I don't think you need any of this "nonsense". Otherwise, if you print just about everything else including PETG, ABS, ASA, Nylon, TPU, polycarbonate and so on - read on!

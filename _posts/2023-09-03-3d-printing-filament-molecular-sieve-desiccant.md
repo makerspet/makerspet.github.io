@@ -2,7 +2,7 @@
 layout: post
 title:  "Keep 3D printing filament dry properly with molecular sieve desiccant"
 author: iliao
-categories: [ 3D-printing, tutorial ]
+categories: [ 3D-printing, Tutorial ]
 image: assets/images/webp/PXL_20230828_023915240-740x831.webp
 description: "Keep 3D printing filament dry in an airtight container with with molecular seive desiccant and a hygrometer"
 # tags: [red, yellow]
