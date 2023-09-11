@@ -21,9 +21,9 @@ Unlike other nozzle brush mods, this one does not have a bucket. I decided to om
 - Align the brush to be almost flush with the bed, so the nozzle does get scrubbed, but the extruder body doesn't touch the brush - even at Z height of zero.
 - The brush itself is made by taking a regular nozzle brush - e.g., search Amazon for “3D printer brush” - and cutting off the brush head to match the size of the holder.
 
-![Voron 2.4 with the "crash-free" nozzle brush mod](/assets/images/webp/pxl_20230825_075432974.webp)
+![A Voron 2.4 with the "crash-free" nozzle brush mod](/assets/images/webp/pxl_20230825_075432974.webp 'A Voron 2.4 with the "crash-free" nozzle brush mod'){:class="zoom-image"}
 
-|![Nozzle brush - view from the back](/assets/images/webp/nozzle-brush-mount.webp)|![Nozzle brush - placement relative to the Euclid probe](/assets/images/webp/pxl_20230430_110139062.webp)|
+|![Nozzle brush - view from the back](/assets/images/webp/nozzle-brush-mount.webp 'Nozzle brush - view from the back'){:class="zoom-image"}|![Nozzle brush - placement relative to the Euclid probe](/assets/images/webp/pxl_20230430_110139062.webp 'Nozzle brush - placement relative to the Euclid probe'){:class="zoom-image"}|
 
 <p></p>
 Please find all files in this Maker's Pet GitHub [repository](https://github.com/makerspet/voron2_nozzle_brush/) available for download.

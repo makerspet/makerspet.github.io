@@ -21,7 +21,7 @@ I'm using an 1700W electric air fryer oven that I "borrowed" from my wife. The a
 
 Here are instructions on using this oven to dry filament:
 
-![The air fryer oven set at 125ºF](/assets/images/webp/PXL_20230828_024221446-771x1024.webp)
+![The air fryer oven set at 125ºF](/assets/images/webp/PXL_20230828_024221446-771x1024.webp){:class="zoom-image"}
 
 - Place your filament into the dryer. This oven has enough capacity to dry two 1Kg filament spools at the same time. 
 - Press the power button - the oven will beep - and set the temperature using the "^" and "v" buttons on the left. Choose the temperature to match your filament.
@@ -64,7 +64,9 @@ I recommend getting a thermometer you can trust to verify your real temperatures
 
 I use an infrared spot thermometer (from Amazon) to check the spool's temperature. You have to open the oven's door, point the thermometer at the spool, take a measurement, rotate the spool and take a measurement again - to see what the actual temperature is and whether it stays uniform around the spool during the drying process.
 
-![My table's surface temperature is 23.4 degrees Celsius according to this infrared handheld temperature sensor](/assets/images/webp/infrared-thermometer-504x1024.webp)
+<div class="text-center">
+![My table's surface temperature is 23.4 degrees Celsius according to this infrared handheld temperature sensor](/assets/images/webp/infrared-thermometer-504x1024.webp){:class="zoom-image"}
+</div>
 
 Keep in mind that the filament loops closer to the center of the spool take longer to dry. What I usually do is - I run the oven for 24 hours, take the filament out and try printing it. If the filament is still wet (you can hear the popcorn sound), put the filament back into the oven and dry it for another 24 hours.
 

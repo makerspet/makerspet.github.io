@@ -6,6 +6,7 @@ categories: [ 3D-printing, Tutorial, Voron24, Mods ]
 image: assets/images/webp/PXL_20230825_075201542-771x1024.webp
 # rating: .5
 featured: true
+hidden: true
 comments: false
 ---
 Voron 2.4 print volume height comes up short of the advertised 350mm (or 300mm, 250mm) - quite a bit - especially when using the StealthBurner extruder and/or PTFE filament tubing. Here is a "top hat" volume height extension that you can 3D-print and mount on top of your Voron 2.4 (or Voron 2.4r2). The max Z in my setup increases from 310mm to the full 350mm - without replacing vertical rails!
@@ -16,9 +17,9 @@ This mod sits between your Voron 2 frame and its top see-through plastic sheet. 
 
 The top hat's exhaust opening has the same size and position as the one on the "standard" Voron 2.4. You can try mounting a Voron 2.4 exhaust filter proper or affix one of the many available exhaust cover plates.
 
-|![Voron 2.4 with top hat - view from the top](/assets/images/webp/PXL_20230825_075209553-771x1024.webp)|![Voron 2.4 with top hat - view from the side](/assets/images/webp/PXL_20230825_075243794-771x1024.webp)|![Voron 2.4 with top hat - view from the back](/assets/images/webp/PXL_20230825_075301291-771x1024.webp)|
+|![Voron 2.4 with top hat - view from the top](/assets/images/webp/PXL_20230825_075209553-771x1024.webp 'Voron 2.4 with top hat - view from the top'){:class="zoom-image"}|![Voron 2.4 with top hat - view from the side](/assets/images/webp/PXL_20230825_075243794-771x1024.webp 'Voron 2.4 with top hat - view from the side'){:class="zoom-image"}|![Voron 2.4 with top hat - view from the back](/assets/images/webp/PXL_20230825_075301291-771x1024.webp 'Voron 2.4 with top hat - view from the back'){:class="zoom-image"}|
 
-|![Voron 2.4 top hat Fusion 360 design](/assets/images/webp/Top-hat-Voron-2.4-350mm-1024x576.webp)|![Exhaust cover with BTT sensor mount, PTFE tube support](/assets/images/webp/Exhaust-cover-BTT-CAN-bus-1024x576.webp)|
+|![Voron 2.4 top hat Fusion 360 design](/assets/images/webp/Top-hat-Voron-2.4-350mm-1024x576.webp 'Voron 2.4 top hat Fusion 360 design'){:class="zoom-image"}|![Exhaust cover with BTT sensor mount, PTFE tube support](/assets/images/webp/Exhaust-cover-BTT-CAN-bus-1024x576.webp 'Exhaust cover with BTT sensor mount, PTFE tube support'){:class="zoom-image"}|
 
 <p></p>
 
@@ -70,10 +71,10 @@ The max Z in my setup increases to 355mm. Beyond that the carriage starts slidin
 
 Word of caution - <b>when printing above ~310mm</b>, your <b>minimum Y must be 20mm</b> (vs. zero), otherwise Stealthburner can collide with the frame.
 
-|![In my setup, the maximum Z height increases to 355mm from 310mm](/assets/images/webp/PXL_20230826_083607565.MP_-771x1024.webp)|![Important - make sure your minimum Y is 20mm, otherwise Stealthburner can collide with the frame](/assets/images/webp/PXL_20230826_083912343-771x1024.webp)|
+|![In my setup, the maximum Z height increases to 355mm from 310mm](/assets/images/webp/PXL_20230826_083607565.MP_-771x1024.webp 'In my setup, the maximum Z height increases to 355mm from 310mm'){:class="zoom-image"}|![Important - make sure your minimum Y is 20mm, otherwise Stealthburner can collide with the frame](/assets/images/webp/PXL_20230826_083912343-771x1024.webp 'Important - make sure your minimum Y is 20mm, otherwise Stealthburner can collide with the frame'){:class="zoom-image"}|
 
 
-![Stealthburner raised to Z=355mm](/assets/images/webp/PXL_20230826_075541128-1024x771.webp)
+![Stealthburner raised to Z=355mm](/assets/images/webp/PXL_20230826_075541128-1024x771.webp 'Stealthburner raised to Z=355mm'){:class="zoom-image"}
 
 ## Custom Voron 2.4 frame size
 

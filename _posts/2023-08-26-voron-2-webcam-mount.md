@@ -9,9 +9,9 @@ I use this mount for my Voron 2.4. This mount fits many common webcams - specifi
 
 Here are build instructions and 3MF/STL files. I have included the Autodesk Fusion 360 model.
 
-![Webcam holder - view from the top](/assets/images/webp/webcam_photo1.webp)
+![Webcam holder - view from the top](/assets/images/webp/webcam_photo1.webp 'Webcam holder - view from the top'){:class="zoom-image"}
 
-|![2020 extrusion mount](/assets/images/webp/webcam_holder_2020_extrusion_mount.webp)|![Right arm](/assets/images/webp/webcam_holder_arm_r_v3.webp)|![Left arm](/assets/images/webp/webcam_holder_arm_l_v5.webp)|
+|![2020 extrusion mount](/assets/images/webp/webcam_holder_2020_extrusion_mount.webp '2020 extrusion mount'){:class="zoom-image"}{:class="zoom-image"}|![Right arm](/assets/images/webp/webcam_holder_arm_r_v3.webp 'Right arm'){:class="zoom-image"}|![Left arm](/assets/images/webp/webcam_holder_arm_l_v5.webp 'Left arm'){:class="zoom-image"}|
 
 <p></p>
 

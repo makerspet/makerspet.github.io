@@ -18,7 +18,7 @@ Most 3d printing filaments, except PLA, are hygroscopic, i.e., they absorb moist
 
 Once, when I didn't know any better, I tried 3D-printing a tire using a newly purchased flexible TPE filament. I took off the packaging of the filament spool, hoisted the spool on top of my Prusa MK3S and started the print. After 5-10 minutes, I started hearing the popping sound, the print got stringy, and the tire started getting riddled with conspicuous pockmarks. That's how quickly your filament can go bad!
 
-|![Moist ABS filament shows stringing, pockmarks - especially at the bottom](/assets/images/webp/stringing-1.webp)|![Another example of moist ABS filament](/assets/images/webp/stringing-1.webp)|
+|![Moist ABS filament shows stringing, pockmarks - especially at the bottom](/assets/images/webp/stringing-1.webp 'Moist ABS filament shows stringing, pockmarks - especially at the bottom'){:class="zoom-image"}|![Another example of moist ABS filament](/assets/images/webp/stringing-1.webp 'Another example of moist ABS filament'){:class="zoom-image"}|
 
 If your print looks similar to the pictures above, moisture may have ruined your filament - and you need a few things to keep your filament dry:
 
@@ -37,7 +37,7 @@ Tip: your filament being wet is only one of several reasons for stringy prints. 
 
 ## Build Instructions
 
-|![Airtight filament spool container connected to a Prusa MK3S (Caribou 420 frame) 3D printer](/assets/images/webp/PXL_20230828_025257957-1024x771.webp)|![Airtight filament spool container connected to a Voron 2.4 3D printer](/assets/images/webp/PXL_20230222_235706238-771x1024.webp)|
+|![An airtight filament spool container connected to a Prusa MK3S (Caribou 420 frame) 3D printer](/assets/images/webp/PXL_20230828_025257957-1024x771.webp 'An airtight filament spool container connected to a Prusa MK3S (Caribou 420 frame) 3D printer'){:class="zoom-image"}|![An airtight filament spool container connected to a Voron 2.4 3D printer](/assets/images/webp/PXL_20230222_235706238-771x1024.webp 'An airtight filament spool container connected to a Voron 2.4 3D printer'){:class="zoom-image"}|
 
 First, get yourself an airtight container that fits a typical 1KG spool of filament:
 
@@ -53,15 +53,15 @@ Second, get yourself the items below. Search Amazon if needed.
 
 There are at least two types of PTFE tube fitting - PC4-M10 and PC4-M6. Use the one with the thicker base - shown below on the left - so that the PTFE tube can go through the fitting all the way. A fitting with a narrow base ends up scratching filament when the filament comes in at an angle. The scratched-off filament debris clog up the fitting and block the filament's motion.
 
-![Use PC4-M10 feed-through PTFE tube fitting (left) to avoid clogging](/assets/images/webp/PXL_20230828_025111877_cropped-1024x756.webp)
+![Use PC4-M10 feed-through PTFE tube fitting (left) to avoid clogging](/assets/images/webp/PXL_20230828_025111877_cropped-1024x756.webp 'Use PC4-M10 feed-through PTFE tube fitting (left) to avoid clogging'){:class="zoom-image"}
 
 Next, [download](https://github.com/makerspet/filament_spool_holder/) and 3D-print:
 
 - A "spool insert", see CAD screenshots below.
 - Two spool insert "side holders".
 
-|![Spool insert assembly.](/assets/images/webp/spool-holder-assembly-1024x576.webp)|![Spool inserts for filament spools having different center hole diameter.](/assets/images/webp/PXL_20230905_004921284-1024x771.webp)|
-|![Spool insert side holder](/assets/images/webp/spool-holder-axle-1024x576.webp)|![Spool insert](/assets/images/webp/spool-insert-1024x576.webp)|
+|![Spool insert assembly](/assets/images/webp/spool-holder-assembly-1024x576.webp 'Spool insert assembly'){:class="zoom-image"}|![Spool inserts for filament spools having different center hole diameters](/assets/images/webp/PXL_20230905_004921284-1024x771.webp 'Spool inserts for filament spools having different center hole diameters'){:class="zoom-image"}|
+|![Spool insert side holder](/assets/images/webp/spool-holder-axle-1024x576.webp 'Spool insert side holder'){:class="zoom-image"}|![Spool insert](/assets/images/webp/spool-insert-1024x576.webp 'Spool insert'){:class="zoom-image"}|
 
 Choose a spool insert's outer diameter that fits into your filament spool. Choose the largest insert diameter that still makes your spool rotate effortlessly over the spool insert. 
 
@@ -86,7 +86,7 @@ Make sure the holes are centered on the container's side and aligned with respec
 
 Your assembled filament container should look like the pictures below:
 
-|![Assembled airtight container - without the spool](/assets/images/webp/PXL_20230827_211419899_cropped-1024x894.webp)|![Your airtight filament container should look like this.](/assets/images/webp/PXL_20230827_211120454-771x1024.webp)|
+|![Assembled airtight container - without the spool](/assets/images/webp/PXL_20230827_211419899_cropped-1024x894.webp 'Assembled airtight container - without the spool'){:class="zoom-image"}|![Your airtight filament container should look like this](/assets/images/webp/PXL_20230827_211120454-771x1024.webp 'Your airtight filament container should look like this'){:class="zoom-image"}|
 
 Lastly:
 
@@ -96,12 +96,12 @@ Lastly:
 
 Here are Prusa MK3S and Voron 2.4 examples. In case of Prusa 2.5S/3S/4 and its clones, just let the PTFE tubing's end touch the extruder - don't force the tube inside the extruder's top opening.
 
-|![Let your PTFE tube touch your Prusa MK3S printer's extruder](/assets/images/webp/PXL_20230827_212045194-771x1024.webp)|![Connect your PTFE tube to your Voron 2.4 printer](/assets/images/webp/PXL_20230222_235726106-771x1024.webp)|
+|![Let your PTFE tube touch your Prusa MK3S printer's extruder](/assets/images/webp/PXL_20230827_212045194-771x1024.webp 'Let your PTFE tube touch your Prusa MK3S printer extruder'){:class="zoom-image"}|![Connect your PTFE tube to your Voron 2.4 printer](/assets/images/webp/PXL_20230222_235726106-771x1024.webp 'Connect your PTFE tube to your Voron 2.4 printer'){:class="zoom-image"}|
 
 <p></p>
 Word of caution, once you've inserted your spool inside the container, watch out for filament slipping off the spool - it can jam our print!
 
-![Watch out for filament slipping off the spool - it can jam our print](/assets/images/webp/PXL_20230828_025724476-771x1024.webp)
+![Watch out for filament slipping off the spool - it can jam your print](/assets/images/webp/PXL_20230828_025724476-771x1024.webp 'Watch out for filament slipping off the spool - it can jam your print'){:class="zoom-image"}
 
 Great, you've made it to the end of the article! In the next article we will talk about which kind of desiccant to use in your spool container.
 

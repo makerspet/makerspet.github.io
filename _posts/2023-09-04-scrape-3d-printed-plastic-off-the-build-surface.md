@@ -46,7 +46,7 @@ You can find it on Amazon by searching for "Plastic Razor Blade Scrapers with 10
 
 I did manage to damage the PEI surface when scraping off 3D printed plastic - before I know better - but only because the filament got stuck to the PEI surface really badly. In a case like that, try re-warming the build surface until the filament gets soft - and try scraping it off again.
 
-![Plastic scraper]({{ site.baseurl }}/assets/images/webp/PXL_20230905_005022942-scaled.webp)
+![Plastic scraper]({{ site.baseurl }}/assets/images/webp/PXL_20230905_005022942-scaled.webp 'Plastic scraper'){:class="zoom-image"}
 
 ## Prolong your building surface's life
 
