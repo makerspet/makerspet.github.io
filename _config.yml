@@ -19,6 +19,12 @@ facebook_group_url: https://www.facebook.com/groups/243730868651472/
 by: REMAKE.AI
 by_url: https://remake.ai
 
+# safe: true
+
+whitelist:
+  - jekyll-redirect-from
+  - jekyll-webp
+
 # Authors
 authors:
   marketing:
@@ -48,7 +54,8 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-webp
-    
+  - jekyll-redirect-from
+
 # Archives
 jekyll-archives:
   enabled:
