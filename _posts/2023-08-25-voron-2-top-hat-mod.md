@@ -13,7 +13,7 @@ Voron 2.4 print volume height comes up short of the advertised 350mm (or 300mm, 
 
 This mod sits between your Voron 2 frame and its top see-through plastic sheet. Specifically, this top hat fits into the existing 2020 aluminum extrusion slots on top of your Voron2 - and reproduces 2020 extrusion slots (in plastic) on its own top, so you can re-affix the see-through plastic sheet.
 
-{% include signup-form.html %}
+<blockquote>{% include signup-form.html %}</blockquote>
 
 The top hat's exhaust opening has the same size and position as the one on the "standard" Voron 2.4. You can try mounting a Voron 2.4 exhaust filter proper or affix one of the many available exhaust cover plates.
 

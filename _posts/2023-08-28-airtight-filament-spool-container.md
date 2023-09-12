@@ -26,7 +26,7 @@ If your print looks similar to the pictures above, moisture may have ruined your
 - desiccant of a certain type
 - a hygrometer
 
-{% include signup-form.html %}
+<blockquote>{% include signup-form.html %}</blockquote>
 
 Tip: your filament being wet is only one of several reasons for stringy prints. Other reasons may include
 
@@ -37,7 +37,7 @@ Tip: your filament being wet is only one of several reasons for stringy prints. 
 
 ## Build Instructions
 
-|![An airtight filament spool container connected to a Prusa MK3S (Caribou 420 frame) 3D printer](/assets/images/webp/PXL_20230828_025257957-1024x771.webp 'An airtight filament spool container connected to a Prusa MK3S (Caribou 420 frame) 3D printer'){:class="zoom-image"}|![An airtight filament spool container connected to a Voron 2.4 3D printer](/assets/images/webp/PXL_20230222_235706238-771x1024.webp 'An airtight filament spool container connected to a Voron 2.4 3D printer'){:class="zoom-image"}|
+|![An airtight filament spool container connected to a Prusa MK3S (Caribou 420 frame) 3D printer](/assets/images/webp/PXL_20230828_025257957-1024x771.webp 'An airtight filament spool container connected to a Prusa MK3S (Caribou 420 frame) 3D printer'){:class="zoom-image"}|![An airtight filament spool container connected to a Voron 2.4 3D printer](/assets/images/webp/PXL_20230222_235706238-771x1024.webp 'An airtight filament spool container connected to a Voron 2.4 3D printer'){:class="zoom-image" width="75.3%"}|
 
 First, get yourself an airtight container that fits a typical 1KG spool of filament:
 
@@ -60,7 +60,7 @@ Next, [download](https://github.com/makerspet/filament_spool_holder/) and 3D-pri
 - A "spool insert", see CAD screenshots below.
 - Two spool insert "side holders".
 
-|![Spool insert assembly](/assets/images/webp/spool-holder-assembly-1024x576.webp 'Spool insert assembly'){:class="zoom-image"}|![Spool inserts for filament spools having different center hole diameters](/assets/images/webp/PXL_20230905_004921284-1024x771.webp 'Spool inserts for filament spools having different center hole diameters'){:class="zoom-image"}|
+|![Spool insert assembly](/assets/images/webp/spool-holder-assembly-1024x576.webp 'Spool insert assembly'){:class="zoom-image"}|![Spool inserts for filament spools having different center hole diameters](/assets/images/webp/PXL_20230905_004921284-1024x576.webp 'Spool inserts for filament spools having different center hole diameters'){:class="zoom-image"}|
 |![Spool insert side holder](/assets/images/webp/spool-holder-axle-1024x576.webp 'Spool insert side holder'){:class="zoom-image"}|![Spool insert](/assets/images/webp/spool-insert-1024x576.webp 'Spool insert'){:class="zoom-image"}|
 
 Choose a spool insert's outer diameter that fits into your filament spool. Choose the largest insert diameter that still makes your spool rotate effortlessly over the spool insert. 
@@ -86,7 +86,7 @@ Make sure the holes are centered on the container's side and aligned with respec
 
 Your assembled filament container should look like the pictures below:
 
-|![Assembled airtight container - without the spool](/assets/images/webp/PXL_20230827_211419899_cropped-1024x894.webp 'Assembled airtight container - without the spool'){:class="zoom-image"}|![Your airtight filament container should look like this](/assets/images/webp/PXL_20230827_211120454-771x1024.webp 'Your airtight filament container should look like this'){:class="zoom-image"}|
+|![Assembled airtight container - without the spool](/assets/images/webp/PXL_20230827_211419899_cropped-1024x894.webp 'Assembled airtight container - without the spool'){:class="zoom-image"}|![Your airtight filament container should look like this](/assets/images/webp/PXL_20230827_211120454-771x1024.webp 'Your airtight filament container should look like this'){:class="zoom-image" width="87.3%"}|
 
 Lastly:
 

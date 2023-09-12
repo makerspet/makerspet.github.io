@@ -11,7 +11,7 @@ When searching for a Voron 2.4 nozzle brush mod I noticed that the available mod
 
 This nozzle brush sits almost flush with bed - so the extruder never crashes into the brush.
 
-{% include signup-form.html %}
+<blockquote>{% include signup-form.html %}</blockquote>
 
 Unlike other nozzle brush mods, this one does not have a bucket. I decided to omit the bucket because the bucket tends to take up too much space that may be needed for other mods - and because under normal conditions there is hardly any plastic brushed from the nozzle anyway.
 

@@ -4,6 +4,7 @@ title:  "Voron 2.4 webcam mount for common webcams"
 author: iliao
 categories: [ 3D-printing, Tutorial, Voron24, Mods ]
 image: assets/images/webcam_photo2.jpg
+comments: false
 ---
 I use this mount for my Voron 2.4. This mount fits many common webcams - specifically, those webcams that have a horizontal tube-like hole in the back.
 
@@ -24,7 +25,7 @@ Here are build instructions and 3MF/STL files. I have included the Autodesk Fusi
 - Tighten the long M3 screw gently. Don't overtighten. The webcam should stay firmly in place - not droop down but be adjustable by hand without straining your fingers.
 - Adjust the webcam holder arms angle for best (even) picture.
 
-{% include signup-form.html %}
+<blockquote>{% include signup-form.html %}</blockquote>
 
 Please find all files in this Maker's Pet GitHub [repository](https://github.com/makerspet/voron2_webcam_mount/) available for download.
 

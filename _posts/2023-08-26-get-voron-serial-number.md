@@ -3,7 +3,7 @@ layout: post
 title:  "Get a serial number for your Voron 3D printer"
 author: iliao
 categories: [ 3D-printing, Tutorial, Voron24 ]
-image: assets/images/webp/v2-5212.webp
+image: assets/images/webp/v2-5212-two-logos.webp
 # beforetoc: "Markdown editor is a very powerful thing. In this article I'm going to show you what you can actually do with it, some tricks and tips while editing your post."
 # toc: true
 comments: false
@@ -12,7 +12,7 @@ Now that you have assembled your Voron printer, did you know that you can get a 
 
 Here is how you can request and obtain your serial number:
 
-{% include signup-form.html %}
+<blockquote>{% include signup-form.html %}</blockquote>
 
 - Head over to VoronCoreXY Reddit. This Reddit's sole purpose is to submit serial number requests. This Reddit is not for discussion or Q&A of any kind.
 - Read the Reddit's pinned announcements - they contain instructions on how to obtain a serial number.

@@ -6,8 +6,6 @@ categories: [ 3D-printing, Tutorial ]
 image: assets/images/webp/PXL_20230828_023915240-740x831.webp
 description: "Keep 3D printing filament dry in an airtight container with with molecular seive desiccant and a hygrometer"
 # tags: [red, yellow]
-# featured: false
-# hidden: false
 comments: false
 # rating: 3
 ---
@@ -31,7 +29,7 @@ At this point I searched for silica gel alternatives and found "molecular sieve"
 - With molecular sieve I can repeatedly achieve 10% humidity at room temperature in my airtight filament containers.
 - The hygrometer keeps showing 10% relative humidity during 3D prints even when I leave the airtight filament container inside the printer enclosure.
 
-{% include signup-form.html %}
+<blockquote>{% include signup-form.html %}</blockquote>
 
 This is the desiccant brand that I use, purchased off Amazon. I am not associated with the desiccant seller or manufacturer.
 
@@ -46,7 +44,7 @@ I've looked up silica gel and molecular sieve desiccant datasheets and here is s
 
 By the way, here is the 10% relative humidity hygrometer reading that I have mentioned. That's what I call "dry"!
 
-|![A PETG spool in an airtight filament container with molecular sieve bead reads 10% humidity]({{ site.baseurl }}/assets/images/webp/PXL_20230903_091949193-771x1024.webp 'A PETG spool in an airtight filament container with molecular sieve bead reads 10% humidity'){:class="zoom-image"}|![That's what I call dry!]({{ site.baseurl }}/assets/images/webp/PXL_20230827_211419899_cropped-1024x894.webp 'That''s what I call dry!'){:class="zoom-image"}|
+|![That's what I call dry!]({{ site.baseurl }}/assets/images/webp/PXL_20230827_211419899_cropped-1024x894.webp 'That''s what I call dry!'){:class="zoom-image"}|![A PETG spool in an airtight filament container with molecular sieve bead reads 10% humidity]({{ site.baseurl }}/assets/images/webp/PXL_20230903_091949193-771x1024.webp 'A PETG spool in an airtight filament container with molecular sieve bead reads 10% humidity'){:class="zoom-image" width="87.2%"}|
 
 The hygrometer does show 10%. However, I'm not actually sure it is 10% because many inexpensive hygrometers have low accuracy - as well as low resolution, especially at low humidity. I have at 5 hygrometer models. If I put them next to each other, they usually show ridiculously different results - emphasis on ridiculous.
 

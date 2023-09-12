@@ -17,7 +17,7 @@ as the print goes on.
 
 I'm using an 1700W electric air fryer oven that I "borrowed" from my wife. The air fryer oven vendor and model are GoWISE USA AG89B. The oven has 1700W of power and a built-in air circulation fan. I'm not associated with GoWISE USA, I'm just describing my personal experience. I'm sure you can find similar fryers from other vendors - just try searching Amazon.
 
-{% include signup-form.html %}
+<blockquote>{% include signup-form.html %}</blockquote>
 
 Here are instructions on using this oven to dry filament:
 

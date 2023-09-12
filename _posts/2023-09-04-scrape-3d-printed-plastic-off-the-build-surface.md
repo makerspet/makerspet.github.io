@@ -6,8 +6,6 @@ categories: [ 3D-printing, Tutorial ]
 # tags: [red, yellow]
 image: assets/images/webp/PXL_20230905_005016755-cropped.webp
 description: "Use a plastic scraper and control build surface temperature to remove stuck plastic, printed parts"
-# featured: false
-# hidden: false
 comments: false
 # rating: 4.5
 ---
@@ -34,7 +32,7 @@ However, if your build surface adhesion is too high for these filament types, a 
 
 Usually is the key word - sometimes the part sticks to the build surface so hard as if glued. In this case, try scraping the part off the build surface using the scraper below - with the build surface hot, warm or cold. Again, be careful when choosing the build surface temperature! A part printed with a filament that's prone to warping can warp your build surface and damage it as your build surface cools down - for example by ripping the PEI layer off your build surface, if your build surface has PEI.
 
-{% include signup-form.html %}
+<blockquote>{% include signup-form.html %}</blockquote>
 
 N.B. I've seen removable build surfaces for Voron 2.4 - you may want to consider using those if you own a Voron 2.4.
 
