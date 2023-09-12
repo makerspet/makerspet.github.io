@@ -9,7 +9,7 @@ google_analytics: 'G-3MP1M90FGZ'
 disqus: 'makerspet-com'
 mailchimp-list: 'https://remake.us4.list-manage.com/subscribe?u=ce7793379be11c5c705d99df0&id=62f859271b'
 include: ["_pages"]
-permalink: /:title/
+permalink: /blog/:title/
 github_url: https://github.com/makerspet
 youtube_url: https://youtube.com/@remakeai/
 twitter_url: https://twitter.com/@remakeai/
