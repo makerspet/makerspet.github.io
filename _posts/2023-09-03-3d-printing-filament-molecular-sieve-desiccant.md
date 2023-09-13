@@ -37,7 +37,7 @@ This is the desiccant brand that I use, purchased off Amazon. I am not associate
 
 <p></p>
 
-I've looked up silica gel and molecular sieve desiccant datasheets and here is summary comparison of those desiccant types - sourced from [cilicant.com](cilicant.com). I am not associated with cilicant.com This comparison does appear to match my subjective experience - and the readings of my (cheapo) hygrometer.
+I've looked up silica gel and molecular sieve desiccant datasheets and here is summary comparison of those desiccant types - sourced from [cilicant.com](https://cilicant.com). I am not associated with cilicant.com This comparison does appear to match my subjective experience - and the readings of my (cheapo) hygrometer.
 
 - Silica gel works best - and outperforms molecular sieve - at higher humidity (RH>40%, 25°C) and room temperatures. Silica gel performance drops as the temperature rises.
 - Molecular sieve outperforms silica gel at lower humidity (RH<40%, 25%) and markedly more so at higher temperatures.
