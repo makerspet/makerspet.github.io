@@ -5,6 +5,8 @@ author: iliao
 categories: [ 3D-printing, Tutorial, Voron24, Mods ]
 image: assets/images/webp/nozzle-brush-next-to-bed.webp
 # rating: 3
+featured: true
+hidden: true
 comments: false
 ---
 When searching for a Voron 2.4 nozzle brush mod I noticed that the available mods stick up from the bed high enough to interfere with the extruder's movement - when the extruder moves at the very back of the bed, including knocking the Klicky/Euclid probe off the extruder.
