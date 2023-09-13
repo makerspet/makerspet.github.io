@@ -11,7 +11,7 @@ comments: false
 ---
 Once you have made your airtight filament spool container - as described in this post - let's take care of two more things:
 
-- Fill the airtight filament spool container with desiccant.
+- Fill the [airtight filament spool container](/blog/airtight-filament-spool-container/) with desiccant.
 - Put a hygrometer-and-thermometer combo into the container.
 
 Pop quiz question - what type of desiccant are you going to use? Will it be the silica gel beads desiccant type?
@@ -26,7 +26,7 @@ Also, I noticed that no matter how much fresh silica gel I stuffed into the airt
 
 At this point I searched for silica gel alternatives and found "molecular sieve". Molecular sieve desiccant also comes in shape of small beads and costs comparably to silica gel - yet, after some experimentation, I feel - hands down - molecular sieve desiccant's performance beats that of silica gel.
 
-- With molecular sieve I can repeatedly achieve 10% humidity at room temperature in my airtight filament containers.
+- With molecular sieve I can repeatedly achieve 10% humidity at room temperature in my [airtight filament containers](/blog/airtight-filament-spool-container/).
 - The hygrometer keeps showing 10% relative humidity during 3D prints even when I leave the airtight filament container inside the printer enclosure.
 
 <blockquote>{% include signup-form.html %}</blockquote>
@@ -34,6 +34,8 @@ At this point I searched for silica gel alternatives and found "molecular sieve"
 This is the desiccant brand that I use, purchased off Amazon. I am not associated with the desiccant seller or manufacturer.
 
 |![A can of molecular sieve desiccant - front]({{ site.baseurl }}/assets/images/webp/PXL_20230827_211028553-771x1024.webp 'A can of molecular sieve desiccant - front'){:class="zoom-image"}|![A can of molecular sieve desiccant - back]({{ site.baseurl }}/assets/images/webp/PXL_20230827_211021660-771x1024.webp 'A can of molecular sieve desiccant - back'){:class="zoom-image"}|
+
+<p></p>
 
 I've looked up silica gel and molecular sieve desiccant datasheets and here is summary comparison of those desiccant types - sourced from [cilicant.com](cilicant.com). I am not associated with cilicant.com This comparison does appear to match my subjective experience - and the readings of my (cheapo) hygrometer.
 
@@ -46,6 +48,8 @@ By the way, here is the 10% relative humidity hygrometer reading that I have men
 
 |![That's what I call dry!]({{ site.baseurl }}/assets/images/webp/PXL_20230827_211419899_cropped-1024x894.webp 'That''s what I call dry!'){:class="zoom-image"}|![A PETG spool in an airtight filament container with molecular sieve bead reads 10% humidity]({{ site.baseurl }}/assets/images/webp/PXL_20230903_091949193-771x1024.webp 'A PETG spool in an airtight filament container with molecular sieve bead reads 10% humidity'){:class="zoom-image" width="87.2%"}|
 
+<p></p>
+
 The hygrometer does show 10%. However, I'm not actually sure it is 10% because many inexpensive hygrometers have low accuracy - as well as low resolution, especially at low humidity. I have at 5 hygrometer models. If I put them next to each other, they usually show ridiculously different results - emphasis on ridiculous.
 
 The mismatching readings caused me to search Amazon for a hygrometer that I can trust at least somewhat. I ended up buying 4-packs of hygrometer that looks like above. It doesn't have a particular brand name or model number - you can find it on Amazon by searching for "4-pack mini digital humidity temperature meters gauge indoor hygrometer thermometer" or something like that. It is obvious this hygrometer has a low resolution for dry air - it shows 10% or 17% humidity and nothing in between, go figure. But others that I have seem worse. At least, when I put a few of them next to each other and leave them alone for an hour or so, their readings seem to be identical or almost identical. Here is an example:
@@ -54,7 +58,7 @@ The mismatching readings caused me to search Amazon for a hygrometer that I can 
 
 ## Hygrometer pedestal
 
-Before placing a hygrometer into the airtight filament container, let's make a pedestal - please see below. You can find the link to the pedestal 3D-printable files at the bottom of this page.
+Before placing a hygrometer into the [airtight filament container](/blog/airtight-filament-spool-container/), let's make a pedestal - please see below. You can find the link to the pedestal 3D-printable files at the bottom of this page.
 
 ![A hygrometer mounted on a pedestal]({{ site.baseurl }}/assets/images/webp/PXL_20230903_082047157-1024x771.webp 'A hygrometer mounted on a pedestal'){:class="zoom-image"}
 ![A hygrometer pedestal design in Fusion 360]({{ site.baseurl }}/assets/images/webp/Hygrometer-pedestal-1024x576.webp 'A hygrometer pedestal design in Fusion 360'){:class="zoom-image"}
@@ -62,7 +66,7 @@ Before placing a hygrometer into the airtight filament container, let's make a p
 ## Tips
 
 - If this hydrometer model's reading exceeds 17%, consider replacing the desiccant and drying out the filament. Don't discard the desiccant - you can dry it out just like your filament.
-- I have noticed time and again that thin plastic wrapping can slowly let moisture in over time. When you receive a shipping of filament - all nicely packaged and shrink-wrapped, I recommend you placing the spools in airtight containers as well, once you get your package. Plain vanilla containers - i.e., not rigged up with a spool holder and PTFE tubing - should do.
+- I have noticed time and again that thin plastic wrapping can slowly let moisture in over time. When you receive a shipping of filament - all nicely packaged and shrink-wrapped, I recommend you placing the spools in [airtight containers](/blog/airtight-filament-spool-container/) as well, once you get your package. Plain vanilla containers - i.e., not rigged up with a spool holder and PTFE tubing - should do.
 - You can keep your filament dry and ready-to-go in non-modified airtight cereal containers on the shelf practically indefinitely.
 - Lastly, when not in use, be sure to close off the PTFE tube's end with a piece of sticky tape.
 

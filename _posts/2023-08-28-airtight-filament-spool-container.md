@@ -23,8 +23,8 @@ Once, when I didn't know any better, I tried 3D-printing a tire using a newly pu
 If your print looks similar to the pictures above, moisture may have ruined your filament - and you need a few things to keep your filament dry:
 
 - an airtight filament container
-- desiccant of a certain type
-- a hygrometer
+- [desiccant](/blog/3d-printing-filament-molecular-sieve-desiccant/) of a certain type
+- a [hygrometer](/blog/3d-printing-filament-molecular-sieve-desiccant/)
 
 <blockquote>{% include signup-form.html %}</blockquote>
 
@@ -103,7 +103,7 @@ Word of caution, once you've inserted your spool inside the container, watch out
 
 ![Watch out for filament slipping off the spool - it can jam your print](/assets/images/webp/PXL_20230828_025724476-771x1024.webp 'Watch out for filament slipping off the spool - it can jam your print'){:class="zoom-image"}
 
-Great, you've made it to the end of the article! In the next article we will talk about which kind of desiccant to use in your spool container.
+Great, you've made it to the end of the article! In the [next article](/blog/3d-printing-filament-molecular-sieve-desiccant/) we will talk about which kind of desiccant to use in your spool container.
 
 Please find all files in this Maker's Pet GitHub [repository](https://github.com/makerspet/filament_spool_holder/) available for download.
 
