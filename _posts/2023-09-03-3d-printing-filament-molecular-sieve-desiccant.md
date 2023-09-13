@@ -9,7 +9,7 @@ description: "Keep 3D printing filament dry in an airtight container with with m
 comments: false
 # rating: 3
 ---
-Once you have made your airtight filament spool container - as described in this post - let's take care of two more things:
+Once you have made your airtight filament spool container - as described in [this post](/blog/airtight-filament-spool-container/) - let's take care of two more things:
 
 - Fill the [airtight filament spool container](/blog/airtight-filament-spool-container/) with desiccant.
 - Put a hygrometer-and-thermometer combo into the container.
