@@ -9,7 +9,7 @@ hidden: true
 comments: false
 # tags: [red, yellow]
 # rating: .5
-comments: false
+# comments: false
 ---
 Meet Kiddo - an open-source DIY 3D-printable home companion robot!
 

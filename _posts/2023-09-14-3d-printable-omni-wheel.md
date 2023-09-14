@@ -7,7 +7,7 @@ image: assets/images/webp/kiddo_omniwheel_coated_cropped.webp
 # rating: 3
 # featured: true
 # hidden: true
-comments: false
+# comments: false
 ---
 This is a 12-roller robot 3D-printed DIY omni-wheel - a part of [Kiddo companion robot](/blog/2023-09-12-meet-kiddo-pet-robot-model/). This open-source design incudes 3MF, STL, STEP and SolidWorks files.
 

@@ -6,7 +6,7 @@ categories: [ 3D-printing, Tutorial ]
 image: assets/images/webp/PXL_20230828_023915240-740x831.webp
 description: "Keep 3D printing filament dry in an airtight container with with molecular seive desiccant and a hygrometer"
 # tags: [red, yellow]
-comments: false
+# comments: false
 # rating: 3
 ---
 Once you have made your airtight filament spool container - as described in [this post](/blog/airtight-filament-spool-container/) - let's take care of two more things:
