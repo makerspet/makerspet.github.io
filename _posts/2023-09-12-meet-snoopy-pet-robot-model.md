@@ -45,6 +45,11 @@ Please keep in mind that we are still in product development phase - please sign
  - 3MF files [here](https://github.com/makerspet/kaiaai_snoopy/tree/main/hardware/3mf/)
  - Fusion 360 source files [here](https://github.com/makerspet/kaiaai_snoopy/tree/main/hardware/fusion360)
 
+## DIY Electronics
+- KiCAD schematic [here](https://github.com/makerspet/kaiaai_snoopy/tree/main/hardware/kicad)
+  - PDF schematic [here](https://github.com/makerspet/kaiaai_snoopy/tree/main/hardware/kicad/snoopy_schematic_09_2023.pdf)
+- Electronics BOM [here](https://github.com/makerspet/kaiaai_snoopy/tree/main/hardware/kicad/snoopy_bom_09_2023.pdf)
+
 ## Software Setup
 - PC setup for [end users](https://github.com/kaiaai/docker/tree/main/kaia-ros)
 - Firmware [here](https://github.com/makerspet/kaiaai_snoopy/tree/main/firmware/)
