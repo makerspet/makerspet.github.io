@@ -42,3 +42,9 @@ We placed this design on hold for now because it comes with extra complexity and
 - Fully autonomous indoor navigation (ROS1-based).
 
 |![Kiddo companion robot - base front electronics](/assets/images/webp/PXL_20210505_205818115.webp 'Kiddo companion robot - base front electronics'){:class="zoom-image"}|![Kiddo companion robot - base rear electronics](/assets/images/webp/PXL_20210428_063404653.webp 'Kiddo companion robot - base rear electronics'){:class="zoom-image"}|
+
+<p></p>
+
+Please find all files in this Maker's Pet GitHub [repository](https://github.com/makerspet/kiddo) available for download.
+
+Happy 3D printing!
