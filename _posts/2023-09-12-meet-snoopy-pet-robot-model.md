@@ -26,7 +26,7 @@ Please keep in mind that we are still in product development phase - please sign
 - 2 bumpers, 4 bumper sensors, 5 cliff sensors.
 - A smartphone or a 7" tablet acts as as a head display.
 - ESP32 micro-controller.
-- Arduino [firmware](https://github.com/makerspet/kaiaai_snoopy/tree/main/firmware)
+- Arduino [firmware](https://github.com/makerspet/makerspet_snoopy/tree/main/firmware)
 - Room mapping using a 360-degree laser distance sensor (ROS2-based).
 - Fully autonomous indoor navigation (ROS2-based).
 - Kaia.ai software platform compatible:
@@ -40,19 +40,19 @@ Please keep in mind that we are still in product development phase - please sign
 
 ## DIY Hardware Build
 - 3D printing:
- - Instructions [here](https://github.com/makerspet/kaiaai_snoopy/tree/main/hardware/)
- - STL files [here](https://github.com/makerspet/kaiaai_snoopy/tree/main/hardware/stl/)
- - 3MF files [here](https://github.com/makerspet/kaiaai_snoopy/tree/main/hardware/3mf/)
- - Fusion 360 source files [here](https://github.com/makerspet/kaiaai_snoopy/tree/main/hardware/fusion360)
+ - Instructions [here](https://github.com/makerspet/makerspet_snoopy/tree/main/hardware/)
+ - STL files [here](https://github.com/makerspet/makerspet_snoopy/tree/main/hardware/stl/)
+ - 3MF files [here](https://github.com/makerspet/makerspet_snoopy/tree/main/hardware/3mf/)
+ - Fusion 360 source files [here](https://github.com/makerspet/makerspet_snoopy/tree/main/hardware/fusion360)
 
 ## DIY Electronics
-- KiCAD schematic [here](https://github.com/makerspet/kaiaai_snoopy/tree/main/hardware/kicad)
-  - PDF schematic [here](https://github.com/makerspet/kaiaai_snoopy/tree/main/hardware/kicad/snoopy_schematic_09_2023.pdf)
-- Electronics BOM [here](https://github.com/makerspet/kaiaai_snoopy/tree/main/hardware/kicad/snoopy_bom_09_2023.pdf)
+- KiCAD schematic [here](https://github.com/makerspet/makerspet_snoopy/tree/main/hardware/kicad)
+  - PDF schematic [here](https://github.com/makerspet/makerspet_snoopy/tree/main/hardware/kicad/snoopy_schematic_09_2023.pdf)
+- Electronics BOM [here](https://github.com/makerspet/makerspet_snoopy/tree/main/hardware/kicad/snoopy_bom_09_2023.pdf)
 
 ## Software Setup
 - PC setup for [end users](https://github.com/kaiaai/docker/tree/main/kaia-ros)
-- Firmware [here](https://github.com/makerspet/kaiaai_snoopy/tree/main/firmware/)
+- Firmware [here](https://github.com/makerspet/makerspet_snoopy/tree/main/firmware/)
 - Kaia.ai TODO
 
 |![Maker''s Pet Snoopy's head being 3D-printed on a Voron 2.4 350mm](/assets/images/webp/PXL_20230529_041408418-771x1024.webp 'Maker''s Pet Snoopy's head being 3D-printed on a Voron 2.4 350mm'){:class="zoom-image"}|![Maker''s Pet Snoopy's head completed 3D-print](/assets/images/webp/PXL_20230530_021024946-771x1024.webp 'Maker''s Pet Snoopy's head completed 3D-print'){:class="zoom-image"}|
@@ -62,9 +62,9 @@ Please keep in mind that we are still in product development phase - please sign
 ## Develop and Mod
 - PC setup for [developers](https://github.com/kaiaai/docker/tree/main/kaia-ros-dev)
 - ROS2 robot description package
-  - config [here](https://github.com/makerspet/kaiaai_snoopy/tree/main/config)
-  - instructions and robot model [here](https://github.com/makerspet/kaiaai_snoopy/tree/main/urdf)
-- Firmware mod instructions [here](https://github.com/makerspet/kaiaai_snoopy/tree/main/firmware/)
+  - config [here](https://github.com/makerspet/makerspet_snoopy/tree/main/config)
+  - instructions and robot model [here](https://github.com/makerspet/makerspet_snoopy/tree/main/urdf)
+- Firmware mod instructions [here](https://github.com/makerspet/makerspet_snoopy/tree/main/firmware/)
 - Kaia.ai TODO
 
 |![Maker''s Pet Snoopy robot in Fusion 360](/assets/images/webp/screenshot2-1024x576.webp 'Maker''s Pet Snoopy robot in Fusion 360'){:class="zoom-image"}|![Maker''s Pet Snoopy robot in Fusion 360 - bottom view](/assets/images/webp/screenshot3-1024x576.webp 'Maker''s Pet Snoopy robot in Fusion 360 - bottom view'){:class="zoom-image"}|
