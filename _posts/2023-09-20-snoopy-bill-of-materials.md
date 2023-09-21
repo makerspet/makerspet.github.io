@@ -4,9 +4,9 @@ title: Snoopy BoM Cost Breakdown
 author: iliao
 categories: [ Snoopy-pet-robot, Robot-models, Electronics, ESP32 ]
 image: assets/images/webp/PXL_20230916_012313227.webp
-featured: true
-hidden: true
-comments: false
+# featured: true
+# hidden: true
+comments: true
 # tags: [red, yellow]
 # rating: .5
 # comments: false

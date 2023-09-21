@@ -6,7 +6,7 @@ categories: [ Kiddo-companion-robot, Robot-models ]
 image: assets/images/webp/kiddos.webp
 featured: true
 hidden: true
-comments: false
+# comments: false
 # tags: [red, yellow]
 # rating: .5
 # comments: false
