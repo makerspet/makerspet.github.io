@@ -42,4 +42,5 @@ Let's add up part costs as of 09/2023. You can get these parts, for example, on 
 | | | |
 | Total | | $199.60 |
 
+<p></p>
 Snoopy is designed to also accomodate 5 cliff and 4 bumper *optional* sensors. These sensors cost around $1 each.
