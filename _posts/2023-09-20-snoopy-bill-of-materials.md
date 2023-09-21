@@ -25,22 +25,27 @@ Let's add up part costs as of 09/2023. You can get these parts, for example, on 
     }
 </style>
 
-| Part | Quantity | Approximage Cost |
+| Part | Quantity | Approx. Cost per Unit|
 |:--------|:-------:|--------:|
-| ESP32 ESP-WROOM-32 | 1 | ~$10 |
-| Voltage regulator module | 1 | ~$5 |
-| Battery with cable | 1 | ~$50 |
-| Laser scanner YDLIDAR X4 with cable| 1 | ~$80 |
-| Resistors 0603 | 4 | ~$0.10 |
-| Connectors | 4 | ~$1 |
-| Motor CHR-GM25-BLDC2418 with cable | 2  | ~$11 |
-| 65mm tire with shaft adapter | 2  | ~$4 |
-| PETG or PLA filament, ~1Kg | 1  | ~$20 |
+| ESP32 ESP-WROOM-32 | 1 | $5 |
+| Voltage regulator module | 1 | $5 |
+| Battery with cable | 1 | $50 |
+| Laser scanner YDLIDAR X4 with cable| 1 | $80 |
+| Resistors 0603 | 4 | $0.10 |
+| Connectors | 4 | $0.50 |
+| Motor CHR-GM25-BLDC2418 with cable | 2  | $11 |
+| 65mm tire with shaft adapter | 2  | $4 |
+| Breakout PCB | 1 | $4 |
+| PETG or PLA filament, 1Kg | 1  | $20 |
 | Bring-your-own smartphone | 1  | $0 |
 | Bring-your-own local PC | 1 | $0 |
 | Bring-your-own 3D printer | 1 | $0 |
 | | | |
-| Total | | $199.60 |
+| Parts and supplies total | | $199.60 |
 
 <p></p>
-Snoopy is designed to also accomodate 5 cliff and 4 bumper *optional* sensors. These sensors cost around $1 each.
+Please note:
+- The motors are BLDC (brushless), rated at 2.5W.
+- Each motor includes a built-in encoder *and* a built-in BLDC
+controller.
+- Snoopy is designed to accomodate 5 cliff and 4 bumper *optional* sensors. These sensors cost around $1 each.
