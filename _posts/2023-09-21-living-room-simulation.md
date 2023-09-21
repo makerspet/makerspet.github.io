@@ -6,7 +6,7 @@ categories: [ ROS2, Gazebo Simulation ]
 image: assets/images/webp/gazebo_maldives.webp
 # featured: true
 # hidden: true
-comments: true
+# comments: true
 # tags: [red, yellow]
 # rating: .5
 # comments: false
