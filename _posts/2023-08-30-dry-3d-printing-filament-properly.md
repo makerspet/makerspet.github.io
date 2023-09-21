@@ -31,10 +31,10 @@ Here are instructions on using this oven to dry filament:
 Here are recommended 3D printing filament drying temperatures:
 
 {::options parse_block_html="true" /}
-<div style="background-color: silver; width: 100%;">
 <style>
     table {
     width: 100%;
+    background-color: whitesmoke;
     }
 </style>
 
@@ -48,7 +48,6 @@ Here are recommended 3D printing filament drying temperatures:
 | Nylon | 176°F - 194°F | 80°C - 90°C |
 | Polycarbonate | 176°F | 80°C |
 
-</div>
 <p></p>
 From my experience it takes 24-48 hours to dry a spool of filament. This time depends on how wet the filament is, how much filament is there on the spool and the type of the filament.
 
