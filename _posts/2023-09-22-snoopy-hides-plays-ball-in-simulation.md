@@ -33,5 +33,6 @@ Disclaimer - I drive Snoopy manually here. I will be adding fully automatic beha
 
 ## Will you play with me?
 Snoopy wants attention from humans. Disclaimer - I drive Snoopy manually here. I will be adding fully automatic behaviors like this at a later time.
+<div class="text-center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SZCuKf61_6E?si=Kgpx6dZA5Uen28eZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
