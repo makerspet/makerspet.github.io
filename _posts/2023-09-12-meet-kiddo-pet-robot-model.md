@@ -2,10 +2,10 @@
 layout: post
 title: Meet Kiddo companion omni-wheeled robot!
 author: iliao
-categories: [ Kiddo-companion-robot, Robot-models ]
+categories: [ Kiddo-companion-robot, omniwheels, Robot-models ]
 image: assets/images/webp/kiddos.webp
-featured: true
-hidden: true
+# featured: true
+# hidden: true
 # comments: false
 # tags: [red, yellow]
 # rating: .5

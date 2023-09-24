@@ -2,7 +2,7 @@
 layout: post
 title: Snoopy BoM Cost Breakdown
 author: iliao
-categories: [ Snoopy-pet-robot, Robot-models, Electronics, ESP32 ]
+categories: [ Snoopy-pet-robot, 300mm, Robot-models, Electronics, ESP32 ]
 image: assets/images/webp/PXL_20230916_012313227.webp
 # featured: true
 # hidden: true
