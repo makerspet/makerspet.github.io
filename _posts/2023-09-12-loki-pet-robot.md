@@ -19,7 +19,7 @@ Once finished, Loki will act as a pet - look cute, play ball, hide-and-seek and 
 demand its owners' attention and greet its owners happily at the door.
 To get a feel of what Maker's Pet robots will do, watch Loki's big (300mm) brother
 Snoopy (in a simulation)
-- [play ball and hide ]({{ site.base_url }}/blog/snoopy-hides-plays-ball-in-simulation/)
+- [play ball and hide ](https://kaia.ai/blog/snoopy-hides-plays-ball-in-simulation/)
 under a table
 - [self-drive, map and navigate]({{ site.base_url }}/blog/gazebo-mapping-navigation-demo/) a living room, all automatically.
 
