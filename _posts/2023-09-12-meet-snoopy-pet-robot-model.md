@@ -15,8 +15,8 @@ Meet Snoopy, an open-source pet robot! Snoopy is a 300mm, round-base, mid-size D
 
 Snoopy was designed in Fusion 360 in 05/2023 and printed using a Voron 2.4r2 350mm.
 
-Once finished, Snoopy will act as a pet - look cute, play ball, play hide-and-seek and chase,
-demand its owners' attention and greet its owners happily at the door and so on.
+Once finished, Snoopy will act as a pet - look cute, play ball, hide-and-seek and chase,
+demand its owners' attention and greet its owners happily at the door.
 Watch Snoopy [here]({{ site.base_url }}/blog/snoopy-hides-plays-ball-in-simulation/)
 playing ball and hiding under a table - in a simulation - to get a feel.
 
