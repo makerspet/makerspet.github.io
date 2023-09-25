@@ -15,6 +15,16 @@ Just a heads-up - I'm designing a 200mm (and a 250mm) pet robot right now.
 Loki, the 200mm robot, will be small enough to fit the widely used 210x250mm
 3D print volumes, so you don't have to invest in a bigger 3D printer.
 
+Once finished, Loki will act as a pet - look cute, play ball, hide-and-seek and chase,
+demand its owners' attention and greet its owners happily at the door.
+To get a feel of what Maker's Pet robots will do, watch Loki's big (300mm) brother
+Snoopy (in a simulation)
+- [play ball and hide ]({{ site.base_url }}/blog/snoopy-hides-plays-ball-in-simulation/)
+under a table
+- [self-drive, map and navigate]({{ site.base_url }}/blog/gazebo-mapping-navigation-demo/) a living room, all automatically.
+
+Utilitary functions will include patrolling the house.
+
 Loki's Arduino firmware and software (ROS2) are ready - you can download the
 files [here](https://github.com/makerspet/makerspet_loki).
 Loki's Fusion 360, STL and 3MF files are in the works.

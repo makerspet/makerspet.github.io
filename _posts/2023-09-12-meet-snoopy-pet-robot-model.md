@@ -17,8 +17,10 @@ Snoopy was designed in Fusion 360 in 05/2023 and printed using a Voron 2.4r2 350
 
 Once finished, Snoopy will act as a pet - look cute, play ball, hide-and-seek and chase,
 demand its owners' attention and greet its owners happily at the door.
-Watch Snoopy [here]({{ site.base_url }}/blog/snoopy-hides-plays-ball-in-simulation/)
-playing ball and hiding under a table - in a simulation - to get a feel.
+To get a feel of what Maker's Pet robots will do, watch Snoopy (in a simulation)
+- [play ball and hide]({{ site.base_url }}/blog/snoopy-hides-plays-ball-in-simulation/)
+under a table
+- [self-drive, map and navigate]({{ site.base_url }}/blog/gazebo-mapping-navigation-demo/) a living room, all automatically.
 
 Utilitary functions will include patrolling the house.
 
