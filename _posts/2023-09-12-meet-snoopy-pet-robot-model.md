@@ -22,7 +22,7 @@ To get a feel of what Maker's Pet robots will do, watch Snoopy (in a simulation)
 under a table
 - [self-drive, map and navigate](https://kaia.ai/blog/gazebo-mapping-navigation-demo/) a living room, all automatically.
 
-Utilitary functions will include patrolling the house.
+Utility functions will include patrolling the house.
 
 Please keep in mind that we are still in product development phase - please sign up for the mailing list below to be notified about product launch. You are also welcome to join our [Facebook group]({{ site.facebook_group_url }}) and [Reddit]({{ site.reddit_group_url }}).
 

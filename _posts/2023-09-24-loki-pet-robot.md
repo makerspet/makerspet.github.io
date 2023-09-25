@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 200mm pet robot in the works!
+title: A 200mm pet robot in the works!
 author: iliao
 categories: [ Loki-pet-robot, 200mm ]
 image: assets/images/webp/Loki2.webp
@@ -23,7 +23,7 @@ Snoopy (in a simulation)
 under a table
 - [self-drive, map and navigate](https://kaia.ai/blog/gazebo-mapping-navigation-demo/) a living room, all automatically.
 
-Utilitary functions will include patrolling the house.
+Utility functions will include patrolling the house.
 
 Please follow our project on [Facebook]({{ site.facebook_group_url }})
 [Reddit]({{ site.reddit_group_url }}), [Twitter]({{ site.twitter_url }}) 
@@ -36,7 +36,7 @@ Loki's Fusion 360, STL and 3MF files are in the works.
 I'm designing Loki
 - to be easily scalable to different sizes, including 250mm.
 - to be modular - similar to Snoopy, but simplified
-  - the side body will be segmented and modular, unlike Snoopy's.
+  - the side body will be segmented and modular, unlike Snoopy's,
   so you can add body sensors - including ultrasonic, optical proximity,
   collision, touch, laser pointer, optical distance - without reprinting
   the entire Loki's body. I would also venture a guess that - for now -
@@ -45,5 +45,5 @@ I'm designing Loki
   - the assembly becomes simplified because, unlike Snoopy, by default,
   Loki doesn't have a bumper (to sense collisions), yet you can add
   a bumper and collision sensors later if you wish so.
-  - the CAD design becomes simpler (including myself)
+  - the CAD design becomes simpler (including for myself)
 - to be sturdier than Snoopy. The side walls now support upper plates.
