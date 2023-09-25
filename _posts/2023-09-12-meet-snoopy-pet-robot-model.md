@@ -20,11 +20,11 @@ demand its owners' attention and greet its owners happily at the door.
 To get a feel of what Maker's Pet robots will do, watch Snoopy (in a simulation)
 - [play ball and hide]({{ site.base_url }}/blog/snoopy-hides-plays-ball-in-simulation/)
 under a table
-- [self-drive, map and navigate]({{ site.base_url }}/blog/gazebo-mapping-navigation-demo/) a living room, all automatically.
+- [self-drive, map and navigate](https://kaia.ai/blog/gazebo-mapping-navigation-demo/) a living room, all automatically.
 
 Utilitary functions will include patrolling the house.
 
-Please keep in mind that we are still in product development phase - please sign up for the mailing list below to be notified about product launch. You are also welcome to join our [Facebook group]({{ site.facebook_group_url }}).
+Please keep in mind that we are still in product development phase - please sign up for the mailing list below to be notified about product launch. You are also welcome to join our [Facebook group]({{ site.facebook_group_url }}) and [Reddit]({{ site.reddit_group_url }}).
 
 <blockquote>{% include signup-form.html %}</blockquote>
 

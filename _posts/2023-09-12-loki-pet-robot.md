@@ -25,6 +25,10 @@ under a table
 
 Utilitary functions will include patrolling the house.
 
+Please follow our project on [Facebook]({{ site.facebook_group_url }})
+[Reddit]({{ site.reddit_group_url }}), [Twitter]({{ site.twitter_url }}) 
+or [YouTube]({{ site.youtube_url }}) where I post regular updates and tutorials.
+
 Loki's Arduino firmware and software (ROS2) are ready - you can download the
 files [here](https://github.com/makerspet/makerspet_loki).
 Loki's Fusion 360, STL and 3MF files are in the works.
