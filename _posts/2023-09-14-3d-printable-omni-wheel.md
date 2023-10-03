@@ -13,7 +13,7 @@ This is a 12-roller robot 3D-printed DIY omni-wheel - a part of [Kiddo companion
 
 Included are 3 verions - as the omni-wheel design evolved:
 
-1. Rollers coated in silicon rubber, 130mm OD - recommended
+1. Rollers [coated in urethane rubber]({{ site.base_url }}/blog/vermold-3d-printable-parts/), 130mm OD - recommended
 2. v2 - rollers in a 3D-printed TPU soft jacket, 130mm OD
 3. v1 - rollers in a 3D-printed TPU soft jacket
 
@@ -27,10 +27,10 @@ All three omni-wheel version were 3D-printed on a Prusa MK3S.
 - 130mm OD
 - 2mm OD 50mm length steel shafts for rollers
 
-Applying silicon rubber overmolding to omni-wheel rollers has produced - in my opinion - hands-down best
+Applying urethane rubber overmolding to omni-wheel rollers has produced - in my opinion - hands-down best
 performing and professionally looking omni-wheels compared to using soft TPU as roller jackets. That includes my experimens with cutting soft tubing (a samples kit ordered from McMaster-Carr) to use it as roller jackets.
 
-The roller coating process does take extra effort, but it seems worth it. I will write up instructions on DIY silicon rubber overmolding in a separate article.
+The roller coating process does take extra effort, but it seems worth it. I will write up instructions on DIY urethane rubber overmolding in a [separate article]({{ site.base_url }}/blog/vermold-3d-printable-parts/).
 
 Soft silicon rubber overmolding seems to work best if the wheel load is relatively light - perhaps one pound of weight per omni-wheel, which may be appropriate for a 3D-printed omni-wheel design. Omni-wheel rollers coated with Shore 60A silicon rubber have floor traction "just right" for my purposes.
 
