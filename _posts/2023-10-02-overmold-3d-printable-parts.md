@@ -224,7 +224,7 @@ i.e. around the roller's waist.
 ## Molding defects and quality control
 
 As I have mentioned, it is important to avoid bubbles and dust when prepping and pouring the rubber.
-Here is an example of a defect in the coatin - some voids in the coating remained after I poured the resin mix into the mould.
+Here is an example of a defect in the coating - some voids in the coating remained after I poured the resin mix into the mould.
 
 Talking about quality control, I also got a durometer off Amazon to measure Shore hardness of the coated parts.
 That said, I think having a professional durometer may be optional for a DIY hobbyist - you can feel the softness with your own
