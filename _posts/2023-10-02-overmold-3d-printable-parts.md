@@ -189,6 +189,9 @@ Don't fill up the entire mold with the resin mix. Pour just enough to make the c
 Carefully insert the roller core into the lower mold. Press on the roller core to make it rest
 firmly inside the mold.
 
+{::options parse_block_html="false" /}
+<blockquote>{% include signup-form.html %}</blockquote>
+
 Place the upper half of the mold on top of the roller. Press on the mold top to close up the mold.
 
 Wrap the mold with a napkin and put it in a clamp.
@@ -235,9 +238,6 @@ fingers, after all.
 <p></p>
 
 ## Tips
-
-{::options parse_block_html="false" /}
-<blockquote>{% include signup-form.html %}</blockquote>
 
 - Mind the temperature! The resins are sensitive to the temperature.
 A warmer room and/or warmer resins reduces the resin's viscosity - so your resin can get into tighter nooks and crannies -
