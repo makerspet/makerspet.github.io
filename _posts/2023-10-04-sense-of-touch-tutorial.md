@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tutorial: pet robot gets a sense of touch!
+title: "Tutorial: pet robot gets a sense of touch!"
 author: iliao
 categories: [ Loki-pet-robot, Snoopy-pet-robot, Fido-pet-robot ]
 image: assets/images/webp/Loki2.webp
