@@ -23,6 +23,17 @@ Snoopy (in a simulation)
 under a table
 - [self-drive, map and navigate](https://kaia.ai/blog/gazebo-mapping-navigation-demo/) a living room, all automatically.
 
+The 200mm Loki - and 250mm Fido - designs are about half done by now.
+I'm making both designs simple to 3D print, assemble and mod.
+The designs are also (nearly) identical except for sizing.
+
+Here is CAD design animation (Fusion 360).
+
+<div class="text-center">
+<iframe width="473" height="840" src="https://www.youtube.com/embed/cdvADZQeDnA" title="Designing my home robot in CAD Fusion 360 - Arduino, ESP32, ROS, 3D printed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+<p></p>
+
 Utility functions will include patrolling the house.
 
 Please follow our project on [Facebook]({{ site.facebook_group_url }})
