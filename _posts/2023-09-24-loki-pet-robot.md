@@ -27,21 +27,25 @@ Snoopy (in a simulation)
 under a table
 - [self-drive, map and navigate](https://kaia.ai/blog/gazebo-mapping-navigation-demo/) a living room, all automatically.
 
+Utility functions will include patrolling the house.
+
+
 Here is CAD design animation (Fusion 360).
 
 <div class="text-center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_hDMFZ_Ny5s?si=CyJjd7Vz9T6qbCYG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 <p></p>
 
-Utility functions will include patrolling the house.
+Here is Loki's head getting 3D printed using a silk red PLA on a Prusa MK3S.
 
-Please follow our project on [Facebook]({{ site.facebook_group_url }})
-[Reddit]({{ site.reddit_group_url }}), [Twitter]({{ site.twitter_url }}) 
-or [YouTube]({{ site.youtube_url }}) where I post regular updates and tutorials.
+<div class="text-center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MUxyDBdmDjE?si=3Ntay33aPRWOy4wE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+<p></p>
 
-Loki's Arduino firmware and software (ROS2) are ready - you can download the
-files [here](https://github.com/makerspet/makerspet_loki).
-Loki's Fusion 360, STL and 3MF files are in the works.
+You can download Loki's design including Fusion 360 CAD, STL, 3MF, Arduino firmware,
+ROS software and Docker development environment [here](https://github.com/makerspet/makerspet_loki).
 
 Loki is designed
 - to be easily scalable to different sizes, including 250mm.
