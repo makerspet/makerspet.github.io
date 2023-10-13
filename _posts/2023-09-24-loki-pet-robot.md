@@ -3,7 +3,7 @@ layout: post
 title: A 200mm pet robot in the works!
 author: iliao
 categories: [ Loki-pet-robot, 200mm ]
-image: assets/images/webp/Loki2.webp
+image: assets/images/webp/Loki-v200.webp
 featured: true
 hidden: true
 # comments: false
