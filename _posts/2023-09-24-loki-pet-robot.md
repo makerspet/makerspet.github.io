@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A 200mm pet robot!
+title: Loki 200mm, Fido pet robot designs released (alpha)
 author: iliao
 categories: [ Loki-pet-robot, 200mm ]
 image: assets/images/webp/Loki-v200.webp
@@ -29,6 +29,17 @@ under a table
 
 Utility functions will include patrolling the house.
 
+You can download design files here:
+- Loki 200mm on [GitHub](https://github.com/makerspet/makerspet_loki)
+- Fido 250mm on [GitHub](https://github.com/makerspet/makerspet_fido)
+
+Each design repository includes:
+- Fusion 360 3D CAD design files
+- 3MF, STL files for 3D printing
+- Arduino firmware source code
+- ROS2 robot description package, configuraiton files and a Gazebo simulation model
+- KiCad electronics schematics, BoM; PCB layout is in the works
+- Assembly documentation is in the works, including assembly and bringup videos
 
 Here is CAD design animation (Fusion 360).
 
