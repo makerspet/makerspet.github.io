@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Loki 200mm, Fido pet robot designs released (alpha)
+title: Loki 200mm, Fido pet robot assembly instructions
 author: iliao
-categories: [ Loki-pet-robot, 200mm ]
+categories: [ Loki-pet-robot, 200mm, Fido-pet-robot, 250mm ]
 image: assets/images/webp/Loki-v200.webp
 featured: true
 hidden: true
@@ -41,6 +41,14 @@ Each design repository includes:
 - KiCad electronics schematics, BoM; PCB layout is in the works
 - Assembly documentation is in the works, including assembly and bringup videos
 
+Here are step-by-step assembly instructions.
+
+<div class="text-center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WPB2B1DPf_s?si=vKl0UPY-jvC7vU5l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+<p></p>
+
+
 Here is CAD design animation (Fusion 360).
 
 <div class="text-center">
@@ -54,9 +62,6 @@ Here is Loki's head getting 3D printed using a silk red PLA on a Prusa MK3S.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MUxyDBdmDjE?si=3Ntay33aPRWOy4wE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 <p></p>
-
-You can download Loki's design including Fusion 360 CAD, STL, 3MF, Arduino firmware,
-ROS software and Docker development environment [here](https://github.com/makerspet/makerspet_loki).
 
 Loki is designed
 - to be easily scalable to different sizes, including 250mm.
