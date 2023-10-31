@@ -56,7 +56,7 @@ Here is CAD design animation (Fusion 360).
 </div>
 <p></p>
 
-Here is Loki's head getting 3D printed using a silk red PLA on a Prusa MK3S.
+Here is Loki's head getting 3D printed using a silk red PLA on a Prusa MK3.5S.
 
 <div class="text-center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MUxyDBdmDjE?si=3Ntay33aPRWOy4wE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

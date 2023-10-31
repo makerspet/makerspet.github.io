@@ -12,7 +12,7 @@ image: assets/images/webp/snoopy-mapping-screenshot.webp
 # rating: 4.5
 ---
 Watch Snoopy the pet robot map the house and navigate around the house using the newly-created map.
-This is fraction of what your robot will be able to do.
+This is a fraction of what your robot will be able to do.
 
 The full step-by-step tutorial is [here](https://kaia.ai/blog/real-time-mapping-navigation-tutorial/).
 
