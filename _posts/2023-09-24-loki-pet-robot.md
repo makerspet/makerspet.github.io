@@ -55,6 +55,12 @@ Each design repository includes:
 </div>
 <p></p>
 
+## Bring-up instructions video
+<div class="text-center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L_XbkA4pwRc?si=xbA206g8rESLKRwt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+<p></p>
+
 ## CAD design animation (Fusion 360).
 
 <div class="text-center">
