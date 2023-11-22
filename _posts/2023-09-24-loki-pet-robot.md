@@ -42,33 +42,36 @@ Each design repository includes:
 - Assembly documentation is in the works, including assembly and bringup videos
 
 ## Step-by-step assembly instructions.
-
 <div class="text-center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WPB2B1DPf_s?si=vKl0UPY-jvC7vU5l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 <p></p>
 
 ## One-time robot and PC setup instructions.
-
 <div class="text-center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XOc5kCE3MC0?si=Ea7-jGM7AQ_eJeUj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 <p></p>
 
-## Bring-up instructions video
+## Robot bring-up instructions video
 <div class="text-center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L_XbkA4pwRc?si=xbA206g8rESLKRwt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 <p></p>
 
-## CAD design animation (Fusion 360).
+## Robot 3D printing instructions
+<div class="text-center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4k6W1QyJMMw?si=GYVRPQU3Z1ohQ-Zg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+<p></p>
 
+## CAD design animation (Fusion 360).
 <div class="text-center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_hDMFZ_Ny5s?si=CyJjd7Vz9T6qbCYG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 <p></p>
 
-## Loki's head getting 3D printed 
+## Loki's head 3D printed 
 
 Loki's head gets 3D printed using a silk red PLA on a Prusa MK3.5S.
 
