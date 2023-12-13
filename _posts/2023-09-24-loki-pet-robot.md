@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Loki 200mm, Fido pet robot assembly instructions
+title: Loki 200mm, Fido pet robot build, bring-up instructions
 author: iliao
 categories: [ Loki-pet-robot, 200mm, Fido-pet-robot, 250mm ]
 image: assets/images/webp/Loki-v200.webp
@@ -62,6 +62,12 @@ Each design repository includes:
 ## Robot 3D printing instructions
 <div class="text-center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4k6W1QyJMMw?si=GYVRPQU3Z1ohQ-Zg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+<p></p>
+
+## Robot's Arduino ESP32 breakout board setup instructions
+<div class="text-center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zizGI8MjANU?si=I52Exhl3NUy_7eSQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 <p></p>
 
