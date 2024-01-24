@@ -2,7 +2,7 @@
 layout: post
 title: "$15 LiDAR sensor is now supported!"
 author: iliao
-categories: [ LiDAR, LDS, LDS02RR ]
+categories: [ LiDAR, LDS, LDS02RR, ROS, Arduino ]
 image: assets/images/webp/Loki-LDS02RR-LiDAR-cropped.webp
 # featured: true
 # hidden: true
