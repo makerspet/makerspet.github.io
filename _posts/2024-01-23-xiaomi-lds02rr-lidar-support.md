@@ -17,7 +17,7 @@ This is a big deal for me because you can purchase LDS02RR off AliExpress for ju
 
 This means that the total cost of parts for Maker's Pet robot kits has dropped to under $100! Compare that to, say, a ROS robot kit like Turtlebot3 Burger, with a price tag (as of today) of $659.30.
 
-I'd like to emphasize that I want Maker's Pet Arduion/ROS2 robot kits to be affordable for everyone.
+I'd like to emphasize that I want Maker's Pet Arduino/ROS2 robot kits to be affordable for everyone.
 
  Why Xiaomi LDS02RR is so inexpensive? As far as I understand, this is because AliExpress sellers take used Xiaomi 1st gen Roborock vacuum cleaners (that users throw away when they, say, upgrade to a newer model), take the discarded robots apart and sell the (used) laser sensor.
 
