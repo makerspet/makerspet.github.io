@@ -21,4 +21,4 @@ The video below shows YDLIDAR X3 PRO streaming the distance data live to ROS2 Rv
 
 YDLIDAR X3 PRO connects to the [ESP32 breakout board](https://github.com/makerspet/pcb/) directly using a cable, without any adapter board.
 
-Last but not the lease - the LDS support firmware. Please find the LDS Arduino library source code here https://github.com/kaiaai/LDS. You can install this library using the Arduino IDE Library Manager.
+Last but not the lease - the LDS support firmware. Please find the LDS Arduino library [source code here](https://github.com/kaiaai/LDS). You can install this library using the Arduino IDE Library Manager.
