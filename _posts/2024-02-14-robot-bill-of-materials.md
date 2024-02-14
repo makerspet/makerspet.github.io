@@ -28,11 +28,11 @@ I've upgraded the robot's Kaia.ai firmware to support a variety of motors and Li
 ### Motors
 Let's start with the robot's motors. The robot's [Arduino firmware](https://github.com/kaiaai/firmware) supports these motors:
 
-- ChiHai Motor CHR-GM25-BL2418 200RPM. [AliExpress link.](https://www.aliexpress.us/item/2251832633601682.html) off AliExpress. The model you want is `24v 200rpm i45`.
-- Far Along JGA25-BL2418 245RPM. [AliExpress link.](https://www.aliexpress.us/item/2255799833885046.html). The model you want is `Package A 24v 245rpm`.
-- Recommended by default, ChiHai Motor CHR-GM25-BL2418 260RPM. [AliExpress link.](https://www.aliexpress.us/item/2251832633601682.html) off AliExpress. The model you want is `24v 260rpm i34`.
-- Bringsmart JGA25-BL2418 408RPM. [AliExpress link.](https://www.aliexpress.us/item/2251832759774935.html). The model you want is `24v 408rpm`, although it seems to be out-of-stock.
-- Far Along JGA25-BL2418 408RPM. [AliExpress link.](https://www.aliexpress.us/item/2255799833885046.html). The model you want is `Package A 24v 408rpm`.
+- ChiHai Motor CHR-GM25-BL2418 200RPM. [AliExpress link.](https://www.aliexpress.us/item/2251832633601682.html) The model you want is `24v 200rpm i45`.
+- Far Along JGA25-BL2418 245RPM. [AliExpress link.](https://www.aliexpress.us/item/2255799833885046.html) The model you want is `Package A 24v 245rpm`.
+- Recommended by default, ChiHai Motor CHR-GM25-BL2418 260RPM. [AliExpress link.](https://www.aliexpress.us/item/2251832633601682.html) The model you want is `24v 260rpm i34`.
+- Bringsmart JGA25-BL2418 408RPM. [AliExpress link.](https://www.aliexpress.us/item/2251832759774935.html) The model you want is `24v 408rpm`, although it seems to be out-of-stock.
+- Far Along JGA25-BL2418 408RPM. [AliExpress link.](https://www.aliexpress.us/item/2255799833885046.html) The model you want is `Package A 24v 408rpm`.
 - ChiHai Motor CHR-GM25-BL2418 450RPM 120PPR. [AliExpress link.](https://www.aliexpress.us/item/2251832633601682.html) The model you want is `24v 450rpm i20`.
 
 ![Supported 2418 BLDC motors and 65mm wheels](/assets/images/webp/motors_and_wheels.webp 'Supported 2418 BLDC motors and 65mm wheels'){:class="zoom-image"}
