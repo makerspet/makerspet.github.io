@@ -35,7 +35,7 @@ Let's start with the robot's motors. The robot's [Arduino firmware](https://gith
 - Far Along JGA25-BL2418 408RPM. [AliExpress link.](https://www.aliexpress.us/item/2255799833885046.html). The model you want is `Package A 24v 408rpm`.
 - ChiHai Motor CHR-GM25-BL2418 450RPM 120PPR. [AliExpress link.](https://www.aliexpress.us/item/2251832633601682.html) The model you want is `24v 450rpm i20`.
 
-![Supported 2418 BLDC motors and 65mm wheels](/assets/images/webp/motors-and-wheels.webp 'Supported 2418 BLDC motors and 65mm wheels'){:class="zoom-image"}
+![Supported 2418 BLDC motors and 65mm wheels](/assets/images/webp/motors_and_wheels.webp 'Supported 2418 BLDC motors and 65mm wheels'){:class="zoom-image"}
 
 All of these motors are brushless (BLDC) with a built-in controller. All of them have the identical 2418 size, connector and same or similar BLDC "motor core". The difference between these motors is mainly in their gearbox gear ratio:
 - use slower (but stronger) motors - those with a lower RPM - if you want your robot to be "strong". You need strong motors
