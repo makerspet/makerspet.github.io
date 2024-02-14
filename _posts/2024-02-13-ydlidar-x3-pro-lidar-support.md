@@ -3,7 +3,7 @@ layout: post
 title: "YDLIDAR X3 PRO LDS sensor is now supported"
 author: iliao
 categories: [ LiDAR, LDS, YDLIDAR, ROS, ROS2, Arduino ]
-image: assets/images/webp/Loki-LDS02RR-LiDAR-cropped.webp
+image: assets/images/webp/Loki-YDLIDAR-X3-PRO.webp
 # featured: true
 # hidden: true
 # comments: false
