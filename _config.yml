@@ -11,7 +11,7 @@ mailchimp-list: 'https://remake.us4.list-manage.com/subscribe?u=ce7793379be11c5c
 include: ["_pages"]
 permalink: /blog/:title/
 github_url: https://github.com/makerspet
-youtube_url: https://youtube.com/@remakeai/
+youtube_url: https://youtube.com/@makerspet/
 twitter_url: https://twitter.com/makerspet/
 instagram_url: https://www.instagram.com/makerspet_com/
 facebook_url: https://www.facebook.com/profile.php?id=61550661555594
