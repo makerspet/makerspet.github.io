@@ -3,7 +3,7 @@ layout: post
 title: Support Forum Launched
 author: iliao
 categories: [ Support ]
-image: assets/images/webp/bot_support.webp
+image: assets/images/webp/support_bot.webp
 featured: true
 hidden: true
 # comments: true
