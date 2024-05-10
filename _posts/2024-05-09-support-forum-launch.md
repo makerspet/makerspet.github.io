@@ -12,7 +12,7 @@ hidden: true
 # comments: false
 ---
 
-We have launch a [support form](https://github.com/makerspet/support/discussions/) for Maker's Pet and Kaia.ai 🙋‍♂️🙋‍♀️!
+We have launch a [support forum](https://github.com/makerspet/support/discussions/) for Maker's Pet and Kaia.ai 🙋‍♂️🙋‍♀️!
 
 Please visit the [support forum](https://github.com/makerspet/support/discussions/) to
 
