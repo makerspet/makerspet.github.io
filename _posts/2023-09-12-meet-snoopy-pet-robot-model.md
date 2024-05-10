@@ -4,8 +4,8 @@ title: Meet Snoopy the pet robot!
 author: iliao
 categories: [ Snoopy-pet-robot, Robot-models ]
 image: assets/images/webp/screenshot1-1024x576.webp
-featured: true
-hidden: true
+# featured: true
+# hidden: true
 # comments: false
 # tags: [red, yellow]
 # rating: .5
