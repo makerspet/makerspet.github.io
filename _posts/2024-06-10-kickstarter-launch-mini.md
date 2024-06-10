@@ -27,12 +27,27 @@ Specifically, you will be able to do these activities:
   - your Mini will automatically compute a path and drive to the location specified
   - you can send Mini to another room and Mini will follow the map accordingly
   - you will troubleshoot issues, if any, where Mini fails to reach its destination
+- learn and practice LiDAR sensing
+- run Mini in 3D real-time simulation (Gazebo)
 
-![Room mapping with LiDAR illustration](/assets/images/webp/snoopy-mapping-screenshot.webp 'Room mapping with LiDAR illustration'){:class="zoom-image"}
+![Room mapping with LiDAR illustration](/assets/images/webp/mini_top.webp 'Room mapping with LiDAR illustration'){:class="zoom-image"}
 
 We have crafted Maker's Pet Mini to be incredibly affordable - for all Arduino fans, robotics students and makers🌎. Mini's design was guided by user feedback that we have received for our Maker's Pet Loki 200mm model.
 
+Maker's Pet Mini will be available as open source:
+- 3D design (link TBD)
+- PCB board schematic (link TBD)
+- [Arduino firmware](https://github.com/kaiaai/firmware/) by KAIA.AI
+- [PC robotics software bundle](https://github.com/kaiaai/install) provided by KAIA.AI
+- ROS2 Mini package (link TBD)
+
 We hope Maker's Pet Mini will be a great starter robot kit for teaching and learning both Arduino and robotics, including ROS2.
+
+## Support
+
+Maker's Pet Mini will come with
+- abundant step-by-step beginner-friendly instruction videos on Maker's Pet YouTube [video channel](https://www.youtube.com/@makerspet)
+- Maker's Pet [support forum](https://github.com/makerspet/support/discussions/)
 
 ## Product Configurations
 
@@ -49,6 +64,7 @@ Maker's Pet Mini will come in these configurations
 The fully-assembled and kit products will include:
 - 1x Maker's Pet Mini board
 - 1x LiDAR sensor (model TBD)
+- 1x ESP32 module
 - 2x 42mm wheels, 3mm D-shaft
 - 2x N20 motors with encoder (RPM TBD)
 - plastic components including
@@ -90,17 +106,21 @@ You will need the following equipment in order to use Maker's Pet Mini:
   - your WiFi signal must strong wherever your robot goes
   - your WiFi must not be "busy" transmitting data while your robot operates
 
+## Upgrades
+
+When you purchase a Maker’s Pet Mini, you can reuse its LiDAR sensor with Maker's Pet larger-size robots - while saving you some money. Maker's Pet larger robots bring additional capabilities including color camera, sound, animated face display and so on.
+
 ## Plans
 
-In 2025 we plan to upgrade Maker's Pet robot software. The new software will enable Maker's Pet robots (including the Mini) act as pets. Let Mini pet
+Maker's Pet robots run on [KAIA.AI](https://github.com/kaiaai/firmware/) robot software platform. In 2025 KAIA.AI plans to release its newest software that will enable Maker's Pet robots (including the Mini) to act as pets. Once the KAIA.AI software upgrade comes out, let your Mini pet
 - delight you as it plays with toys or hide-and-seek
 - help you by patrolling your place
 
 Accompanied with abundant step-by-step video tutorials, you will be able to code and publish new robot skills, behaviors, and  learn and make use of latest AI.
 
-## Upgrades
+## ROS2 Compatibility
 
-When you purchase a Maker’s Pet Mini, you can reuse its LiDAR sensor with Maker's Pet larger-size robots - while saving you some money. Maker's Pet larger robots bring additional capabilities including color camera, sound, animated face display and so on.
+Maker's Pet Mini is a ROS2 compatible robot based on Micro-ROS.
 
 ## Acknowledgements
 
