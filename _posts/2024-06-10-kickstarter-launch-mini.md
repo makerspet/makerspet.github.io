@@ -30,7 +30,7 @@ Specifically, you will be able to do these activities:
 - learn and practice LiDAR sensing
 - run Mini in 3D real-time simulation (Gazebo)
 
-![Room mapping with LiDAR illustration](/assets/images/webp/mini_top.webp 'Room mapping with LiDAR illustration'){:class="zoom-image"}
+![Room mapping with LiDAR illustration](/assets/images/webp/snoopy-mapping-screenshot.webp 'Room mapping with LiDAR illustration'){:class="zoom-image"}
 
 We have crafted Maker's Pet Mini to be incredibly affordable - for all Arduino fans, robotics students and makers🌎. Mini's design was guided by user feedback that we have received for our Maker's Pet Loki 200mm model.
 
@@ -83,7 +83,7 @@ The board-only option can save you some money if you already have the necessary 
   - 4 AA battery holder
   - (optional) ultrasound range sensor (US-100 recommended)
 
-![Maker's Pet Mini board](/assets/images/webp/snoopy-mapping-screenshot.webp 'Maker''s Pet Mini board'){:class="zoom-image"}
+![Maker's Pet Mini board](/assets/images/webp/mini_top.webp 'Maker''s Pet Mini board'){:class="zoom-image"}
 
 You will also need to 3D print these plastic components:
   - motor/LiDAR mounts
