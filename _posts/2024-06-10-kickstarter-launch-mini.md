@@ -15,7 +15,7 @@ We will be launching Maker's Pet Mini on Kickstarter - sometime in July 2024!
 
 Loki's little brother, Maker's Pet Mini is a 120mm Arduino educational robot that maps rooms and navigates autonomously using a LiDAR and the widely-popular ROS2 robotics software.
 
-## Arduino-based Educational Robot with LiDAR
+## Arduino-based Robot with LiDAR
 
 Accompanied by our abundant beginner-friendly step-by-step instruction videos, the Mini robot will take robotic students on an exciting, yet easy-to-follow, journey of learning the basics of Arduino and professional-grade robotics (ROS2).
 
@@ -46,12 +46,32 @@ Maker's Pet Mini will come in these configurations
 - board only
   - You will provide your own components.
 
+The fully-assembled and kit products will include:
+- 1x Maker's Pet Mini board
+- 1x LiDAR sensor (model TBD)
+- 2x 42mm wheels, 3mm D-shaft
+- 2x N20 motors with encoder (RPM TBD)
+- plastic components including
+  - mounts for motor, LiDAR, battery, caster
+  - caster
+  - enclosure
+- 4 AA battery holder and cable
+- ultrasonic distance sensor US-100 (TBD possibly as reward) with a spacer connector
+- screws for DIY assembly (kit only)
+
 The board-only option can save you some money if you already have the necessary components listed below. Usually, these components can be purchased easily online:
   - motors (N20 with encoder)
   - wheels (42mm diameter)
   - ESP32 (DEVKIT v1 or compatible)
   - LiDAR
+  - 4 AA battery holder
   - (optional) ultrasound range sensor (US-100 recommended)
+
+You will also need to 3D print these plastic components:
+  - motor/LiDAR mounts
+  - caster and its mounts
+  - battery mount
+  - (optional) front bumper and enclosure
 
 ## Plans
 
