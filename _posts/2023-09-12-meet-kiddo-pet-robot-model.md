@@ -9,7 +9,6 @@ image: assets/images/webp/kiddos.webp
 # comments: false
 # tags: [red, yellow]
 # rating: .5
-# comments: false
 ---
 Meet Kiddo - an open-source DIY 3D-printable home companion robot!
 

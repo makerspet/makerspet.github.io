@@ -9,7 +9,6 @@ image: assets/images/webp/network_architecture.webp
 # comments: true
 # tags: [red, yellow]
 # rating: .5
-# comments: false
 ---
 Here is the current network connections architecture for Kaia.ai platform.
 

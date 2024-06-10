@@ -9,7 +9,6 @@ image: assets/images/webp/screenshot1-1024x576.webp
 # comments: false
 # tags: [red, yellow]
 # rating: .5
-# comments: false
 ---
 Meet Snoopy, an open-source pet robot! Snoopy is a 300mm, round-base, mid-size DIY 3D-printable indoor pet robot compatible with [Kaia.ai](https://kaia.ai) software platform.
 

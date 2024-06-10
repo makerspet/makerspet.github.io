@@ -9,7 +9,6 @@ image: assets/images/webp/loki_parts.webp
 # comments: true
 # tags: [red, yellow]
 # rating: .5
-# comments: false
 ---
 Let's take a look at:
 - the list of parts required for the robot assembly

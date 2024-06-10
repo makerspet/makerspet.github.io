@@ -9,7 +9,6 @@ image: assets/images/webp/Loki-LDS02RR-LiDAR-cropped.webp
 # comments: false
 # tags: [red, yellow]
 # rating: .5
-# comments: false
 ---
 A brief development update - Maker's Pet robots now work with Xiaomi 1st gen LDS02RR laser distance scan sensors.
 

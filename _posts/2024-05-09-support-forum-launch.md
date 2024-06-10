@@ -4,12 +4,11 @@ title: Support Forum Launched
 author: iliao
 categories: [ Support ]
 image: assets/images/webp/support_bot.webp
-featured: true
-hidden: true
+# featured: true
+# hidden: true
 # comments: true
 # tags: [red, yellow]
 # rating: .5
-# comments: false
 ---
 
 We have launch a [support forum](https://github.com/makerspet/support/discussions/) for Maker's Pet and Kaia.ai 🙋‍♂️🙋‍♀️!

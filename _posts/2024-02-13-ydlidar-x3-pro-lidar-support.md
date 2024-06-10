@@ -9,7 +9,6 @@ image: assets/images/webp/Loki-YDLIDAR-X3-PRO.webp
 # comments: false
 # tags: [red, yellow]
 # rating: .5
-# comments: false
 ---
 A brief development update - Maker's Pet robots now work with YDLIDAR X3 PRO laser distance scan sensors.
 

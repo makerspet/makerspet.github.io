@@ -9,7 +9,6 @@ image: assets/images/webp/PXL_20230916_012313227.webp
 # comments: true
 # tags: [red, yellow]
 # rating: .5
-# comments: false
 ---
 Snoopy's hardware [BoM](https://github.com/makerspet/makerspet_snoopy/tree/main/hardware/kicad/snoopy_bom_09_2023.pdf) (bill of materials) adds up to around $200. Here is the minimum BoM breakdown!
 

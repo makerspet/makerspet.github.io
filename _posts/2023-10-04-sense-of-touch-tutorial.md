@@ -9,7 +9,6 @@ image: assets/images/webp/snoopy-head-touch-palm.webp
 # comments: false
 # tags: [red, yellow]
 # rating: .5
-# comments: false
 ---
 [Loki]({{ site.base_url }}/blog/loki-pet-robot/) (200mm),
 Fido (250mm), and
