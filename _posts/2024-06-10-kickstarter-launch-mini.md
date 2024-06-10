@@ -67,11 +67,28 @@ The board-only option can save you some money if you already have the necessary 
   - 4 AA battery holder
   - (optional) ultrasound range sensor (US-100 recommended)
 
+![Maker's Pet Mini board](/assets/images/webp/snoopy-mapping-screenshot.webp 'Maker''s Pet Mini board'){:class="zoom-image"}
+
 You will also need to 3D print these plastic components:
   - motor/LiDAR mounts
   - caster and its mounts
   - battery mount
   - (optional) front bumper and enclosure
+
+## PC Requirements
+
+You will need the following equipment in order to use Maker's Pet Mini:
+- A PC computer
+  - Windows PC or Linux PC (laptop/notebook or desktop)
+  - 4GB RAM minimum
+  - 20GB disk space minimum
+  - a display, full HD resolution or higher recommended
+  - WiFi
+  - internet access to download software
+- Strong Wifi
+  - your WiFi must provide 2.4GHz connection
+  - your WiFi signal must strong wherever your robot goes
+  - your WiFi must not be "busy" transmitting data while your robot operates
 
 ## Plans
 
