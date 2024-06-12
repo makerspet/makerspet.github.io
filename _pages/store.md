@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: store
 title: Online Store
 permalink: /store
 comments: false
