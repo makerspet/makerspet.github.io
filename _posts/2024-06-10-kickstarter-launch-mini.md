@@ -11,7 +11,7 @@ hidden: true
 # rating: .5
 ---
 
-We will be launching Maker's Pet Mini on Kickstarter - sometime in July 2024!
+We will be launching Maker's Pet Mini on Kickstarter - sometime in second half of 2024!
 
 Loki's little brother, Maker's Pet Mini is a 120mm Arduino educational robot that maps rooms and navigates autonomously using a LiDAR and the widely-popular ROS2 robotics software.
 
