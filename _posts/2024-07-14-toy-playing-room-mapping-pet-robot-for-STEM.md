@@ -43,8 +43,6 @@ Maker's Pet Mini will be available as open source:
 
 We hope Maker's Pet Mini will be a great starter robot kit for teaching and learning both Arduino and robotics, including ROS2.
 
-![Maker's Pet Mini 3D design illustration](/assets/images/webp/mapping-screenshot.webp 'Maker''s Pet Mini 3D design illustration'){:class="zoom-image"}
-
 ## Support
 
 Maker's Pet Mini will come with
