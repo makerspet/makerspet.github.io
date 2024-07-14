@@ -3,7 +3,7 @@ layout: post
 title: Kickstarter Launch for Maker's Pet Mini
 author: iliao
 categories: [ Kickstarter, Mini ]
-image: assets/images/webp/PXL_20240704_031632664_edite.webp
+image: assets/images/webp/PXL_20240704_031632664_edited.webp
 featured: true
 hidden: true
 # comments: true
@@ -43,7 +43,7 @@ Maker's Pet Mini will be available as open source:
 
 We hope Maker's Pet Mini will be a great starter robot kit for teaching and learning both Arduino and robotics, including ROS2.
 
-![Maker's Pet Mini 3D design illustration](/assets/images/webp/mapping-screenshot.webp 'Maker''s Pet Mini 3D design illustration'){:class="zoom-image"}
+![Maker's Pet Mini 3D design illustration](/assets/images/webp/mini-screenshot.webp 'Maker''s Pet Mini 3D design illustration'){:class="zoom-image"}
 
 ## Support
 
