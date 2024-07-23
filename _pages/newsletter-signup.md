@@ -5,6 +5,6 @@ permalink: /newsletter-signup
 comments: false
 ---
 
-<div class="col-md-12">
+<div class="col-md-12 text-center">
 {% include signup-form.html %}
 </div>
