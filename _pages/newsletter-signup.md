@@ -6,8 +6,8 @@ comments: false
 ---
 
 <div class="row">
-  <div class="text-center">
-    <div class="col-md-12">
+  <div class="col-md-12">
+    <div class="text-center">
       {% include signup-form.html %}
     </div>
   </div>
