@@ -5,7 +5,7 @@ permalink: /pages/terms-conditions
 comments: false
 ---
 
-<p>Welcome to our online store! REMAKE AI Statutory Trust, a Wyoming Business Trust, DBA Maker's Pet and its associates provide their services to you subject to the following conditions. If you visit or shop within this website, you accept these conditions. Please read them carefully. If you do not agree, please do not use this site. If you have any questions or concerns, feel free to contact us at support@makerspet.com</p>
+<p>Welcome to our online store! REMAKE AI Statutory Trust, a Wyoming Business Trust, DBA Maker's Pet and its associates provide their services to you subject to the following conditions. If you visit or shop within this website, you accept these conditions. Please read them carefully. If you do not agree, please do not use this site. If you have any questions or concerns, feel free to contact us (support at makerspet.com)</p>
 
 <h4 class="h4">SITE POLICIES, MODIFICATION, AND SEVERABILITY</h4>
 
@@ -159,7 +159,7 @@ Customer hereby acknowledges that the products and services delivered under thes
 
 <h4 class="h4">LIMITED WARRANTY</h4>
 
-<p>We warrant Maker's Pet manufactured products will be free from manufacturing defects for a period of thirty (30) days following the date of delivery to you. We will replace, repair or credit you for any confirmed defective product at our option. Please contact support@makerspet.com with any issues.</p>
+<p>We warrant Maker's Pet manufactured products will be free from manufacturing defects for a period of thirty (30) days following the date of delivery to you. We will replace, repair or credit you for any confirmed defective product at our option. Please contact support at makerspet.com with any issues.</p>
 
 <p>Products that are not manufactured by Maker's Pet may, or may not, be covered by original manufacturer warranty and passed through to you. Please contact support to confirm warranty period prior to purchase.</p>
 

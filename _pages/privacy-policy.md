@@ -90,12 +90,11 @@ comments: false
 <p></p>
 <h4 class="h4">Contact information</h4>
 
-<p>Email: <a href="mailto://support@makerspet.com">support@makerspet.com</a></p>
+<p>Email: support at makerspet.com</p>
 
 <p>Chat: Facebook Messenger at <a href="https://www.facebook.com/makerspet/">https://www.facebook.com/makerspet/</a></p>
 
 <p>Phone: we will provide a phone support hotline once our business size grows to a sufficient size</p>
 
-<p><em>Maker's Pet<br>
-400 Valencia Dr<br>
-Camarillo, CA 93010, USA</em></p>
+<p>Physical business address: we will publish the physical business address once the business is large enough to have an office.
+In the meantime, if you need to return an item, email us (support at makerspet.com) to get our return address.</p>
