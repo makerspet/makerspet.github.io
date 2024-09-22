@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Terms & Conditions
+title: Terms & Conditions of Use
 permalink: /pages/terms-conditions
 comments: false
 ---
-
-<h4 class="h4">Terms and Conditions of Use</h4>
 
 <p>Welcome to our online store! REMAKE AI Statutory Trust, a Wyoming Business Trust, DBA Maker's Pet and its associates provide their services to you subject to the following conditions. If you visit or shop within this website, you accept these conditions. Please read them carefully. If you do not agree, please do not use this site. If you have any questions or concerns, feel free to contact us at support@makerspet.com</p>
 
