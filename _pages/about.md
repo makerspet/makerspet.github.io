@@ -42,12 +42,11 @@ comments: false
 
 <div class="row justify-content-between">
 <div class="col-md-8 pt-4">
-    <h5 class="h5">Gods of mods</h5>
+<h5 class="h5">Gods of mods</h5>
 
 <p>Just like with pets, one breed or size or character does not fit all. We get that! That's why our product is a platform, not another social robot. The platform will enable DIY enthusiasts to mod (modify) our off-the-shelf models to craft a multitude of pet robot "breeds" and endow them with a character and skills of their choice.</p>
 
 <p>And, of course, the latest-and-bestest AI technologies including ChatGPT will be duly connected to the platform and available to the pet bots.</p>
-
 </div>
 
 <div class="col-md-4 pt-4">
