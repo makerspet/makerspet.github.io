@@ -24,14 +24,6 @@ of these conditions shall be deemed invalid, void, or for any reason unenforceab
 that condition shall be deemed severable and shall not affect the validity and 
 enforceability of any remaining condition.</p>
 
-<h4 class="h4">Privacy Policy</h4>
-
-<p>Please review our, which also governs your visit to our website, to understand our practices.</p>
-
-<h4 class="h4">Shipping, Payments and Returns Policy</h4>
-
-<p>Please review our.</p>
-
 <h4 class="h4">ELECTRONIC COMMUNICATIONS</h4>
 
 <p>When you visit Maker's Pet or send e-mails to us or reach us using a texting or
