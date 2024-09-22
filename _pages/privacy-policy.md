@@ -4,8 +4,6 @@ title: Privacy Policy
 permalink: /pages/privacy-policy
 comments: false
 ---
-<h5 class="h5">Maker's Pet Privacy Policy</h5>
-
 <div><em>Last Updated September 21, 2024</em></div>
 
 <div>This privacy policy governs how REMAKE AI Statutory Trust, a Wyoming Business Trust, DBA Maker's Pet collects, stores, uses, and discloses information about users of makerspet.com. This policy applies to the site, along with related products and services offered by Maker's Pet that link to this policy.
@@ -13,7 +11,7 @@ comments: false
 <div>We may update this this Privacy Notice as necessary without prior notification.
 </div>
 
-<h5 class="h5">Collecting personal information</h5>
+<h4 class="h4">Collecting personal information</h4>
 
 <div>We use <a href="https://ecwid.com">Ecwid</a> eCommerce solution to run our online store. We use <a href="https://analytics.google.com/">Google Analytics</a>, <a href="https://www.facebook.com/business/tools/meta-pixel">Meta Pixel</a>, <a href="https://business.reddithelp.com/helpcenter/s/article/reddit-pixel">Reddit Pixel</a> and Ecwid store analytics to collect and analyze information associated with makerspet.com visitors and customers. We use <a href="https://gmail.com">Google GMail</a> for individual email and <a href="https://mailchimp.com">MailChimp</a> for email automation. Currently we use <a href="https://usps.com">USPS</a>, <a href="https://ups.com">UPS</a> and <a href="https://www.pirateship.com/">Pirate Ship</a> for shipping. We also use third-party services including <a href="https://youtube.com">Google YouTube</a>, <a href="https://cloudflare.com">Cloudflare</a>, <a href="https://facebook.com">Facebook</a> (including <a href="https://www.messenger.com/">Facebook Messenger</a>, <a href="https://www.facebook.com/business/ads">Meta Ads</a> and <a href="https://instagram.com">Instagram</a>), <a href="https://x.com">X (Twitter)</a>, <a href="https://github.com/makerspet/">GitHub</a>, <a href="https://reddit.com">Reddit</a> (including <a href="https://ads.reddit.com">Reddit Ads</a>), <a href="https://tiktok.com">TikTok</a>.
 </div>
@@ -33,7 +31,7 @@ comments: false
 </div>
 <div>We may use web beacons (single-pixel gifs) that are contained within email. When your browser an email that contains a web beacon, it automatically connects to the web server that hosts the image (typically hosted by a third party). This allows that web server to log information about your device and to set and read its own cookies. We use web beacons, for example, to deliver cookies, count visits, understand if an email has been opened and acted upon.
 
-<h5 class="h5">Use of cookies</h5>
+<h4 class="h4">Use of cookies</h4>
 
 
 <div>We use cookies, mobile analytics, advertising IDs, and similar technologies to operate our website and online services and to help collect data, including other identifiers and device information and usage data.
@@ -41,7 +39,7 @@ comments: false
 <div>Many web browsers accept cookies by default. Users can usually change their browser's settings to reject and/or to remove many cookies. Please note also that choosing to reject or remove cookies may prevent certain features or services of our site from working properly.
 </div>
 
-<h5 class="h5">Sharing personal information</h5>
+<h4 class="h4">Sharing personal information</h4>
 
 <div>California Do Not Sell My Info</div>
 
@@ -60,26 +58,26 @@ comments: false
 <div>Most email clients have settings which allow you prevent the automatic downloading of images, which will disable web beacons in the email messages you read.
 </div>
 
-<h5 class="h5">Using personal information</h5>
+<h4 class="h4">Using personal information</h4>
 
 <div>We collect and process personal information about you with your consent and/or as necessary to provide the products you use, fulfil your order, provide you with support, operate our business, meet our contractual and legal obligations, to prevent fraud, abuse and protect the security of our systems and our customers, to send periodic emails and otherwise communicate with you through confirmations, invoices, notices, alerts, and administrative messages, for marketing and advertising and to fulfil other legitimate interests. We may/will also contact you in case we learn that our user data becomes compromised.
 </div>
 <div>We use a variety of third-party services including payment gateways, shipping providers, content-distribution networks, advertisers, analytics, and monitoring tools. Some of these services store information about users, and may track individuals across sites, applications, and services. These services may collect information in a similar manner as described above, including, for example, IP address, access times, browser type, language, device type, and device identifiers. They can also create inferences about you from this information. By interacting with our services, certain information about user devices may be exposed to third party advertising and analytics using cookies and other tracking mechanism, these third parties include the entities in the charts below.
 </div>
 
-<h5 class="h5">Retention of Personal Information</h5>
+<h4 class="h4">Retention of Personal Information</h4>
 
 <div>We retain personal information for as long as necessary to provide the products and fulfill the transactions you have requested, or for other essential purposes such as complying with our legal obligations, resolving disputes, and enforcing our agreements.
 </div>
 <div>Since we use GitHub Pages as our website provider, we do not have access or retain the web server log.
 </div>
 
-<h5 class="h5">Location of Personal Information</h5>
+<h4 class="h4">Location of Personal Information</h4>
 
 <div>Essentially all personal information that Maker's Pet collects - using its third-party services - is stored with Maker's Pet third-party services listed in this Privacy Notice. Maker's Pet business itself is located in the USA.
 </div>
 
-<h5 class="h5">Customer rights and choices with regards to your personal information</h5>
+<h4 class="h4">Customer rights and choices with regards to your personal information</h4>
 
 <div>We provide a variety of ways for you to control the personal data we hold about you.
 </div>
@@ -90,7 +88,7 @@ comments: false
 	<li>If you'd like to delete your online store account/data (created and maintained by <a href="https://ecwid.com">Ecwid</a>), please email us a request.</li>
 </ul>
 
-<h5 class="h5">Contact information</h5>
+<h4 class="h4">Contact information</h4>
 
 <div>Email: <a href="mailto://support@makerspet.com">support@makerspet.com</a>
 </div>
