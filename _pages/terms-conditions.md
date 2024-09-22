@@ -13,8 +13,8 @@ comments: false
 
 <p>Please review our other policies, such as our
 <ul>
-  <li><a href="{{ site.shipping_policy_url }}">Shipping, Payments and Returns Policy</a>
-  <li><a href="{{ site.privacy_policy_url }}">Privacy Policy</a>
+  <li><a href="{{ site.shipping_policy_url }}">Shipping, Payments and Returns Policy</a></li>
+  <li><a href="{{ site.privacy_policy_url }}">Privacy Policy</a></li>
 </ul>
 </p>
 
