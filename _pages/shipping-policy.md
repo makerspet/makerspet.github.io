@@ -57,7 +57,7 @@ For domestic orders, UPS is sometimes faster and a little more expensive, but ha
   <li>our <a href="https://www.facebook.com/groups/243730868651472/">Facebook group</a></li>
 </ul></p>
 
-<p>If don't see your question already answered, please consider creating a user account on the
+<p>If you don't see your question answered already, please consider creating a user account on the
 <a href="https://github.com/makerspet/support/discussions">Support forum</a> and posting your issue as a new topic.</p>
 
 
@@ -115,4 +115,4 @@ That said, we cannot guarantee the requested change or cancellation.</p>
 
 <h4 class="h4">Signature Requirements</h4>
 
-<p>All US orders are shipped "Signature Not Required"”" by default. However, the shipping company may decide to require a signature depending on the value or destination. If you want your order to require a signature for delivery, please contact Customer Support. If a "Signature Not Required" package is left at the door but isn’t there when you get home, neither Maker's Pet nor the shipping company can be held responsible.</p>
+<p>All US orders are shipped "Signature Not Required" by default. However, the shipping company may decide to require a signature depending on the value or destination. If you want your order to require a signature for delivery, please contact Customer Support. If a "Signature Not Required" package is left at the door but isn’t there when you get home, neither Maker's Pet nor the shipping company can be held responsible.</p>
