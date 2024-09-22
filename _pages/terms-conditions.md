@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Privacy Policy
+title: Terms & Conditions
 permalink: /pages/terms-conditions
 comments: false
 ---
