@@ -98,4 +98,4 @@ comments: false
 
 <p><em>Maker's Pet<br>
 400 Valencia Dr<br>
-Camarillo, CA 93010, USA</p>
+Camarillo, CA 93010, USA</em></p>
