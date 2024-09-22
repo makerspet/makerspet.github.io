@@ -1,6 +1,6 @@
 # Site
 name: "Maker's Pet"
-title: "Let's make awesome 3D-printable pet robots"
+title: "Let's make awesome pet robots"
 description: "Educational Pet Robots - built on Arduino, ROS2 and Kaia.ai"
 logo: 'assets/images/logo.png'
 favicon: 'favicon.ico'
@@ -20,7 +20,8 @@ facebook_group_url: https://www.facebook.com/groups/243730868651472/
 reddit_group_url: https://www.reddit.com/r/3dPrintedHomeRobots/
 mailchimp_signup_url: http://eepurl.com/gBV7tb
 support_url: https://github.com/makerspet/support/discussions
-privacy_policy_url: ./privacy_policy.html
+privacy_policy_url: ./pages/privacy-policy
+terms_conditions_url: ./pages/terms-conditions
 by: REMAKE AI
 by_url: https://remake.ai
 
@@ -67,7 +68,7 @@ jekyll-archives:
     - categories
   layout: archive
   permalinks:
-    category: '/category/:name/'
+    category: '/pages/category/:name/'
     
 # Pagination 
 paginate: 6
