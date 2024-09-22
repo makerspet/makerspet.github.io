@@ -7,7 +7,7 @@ comments: false
 
 <h4 class="h4">Conditions of Use</h4>
 
-<p>Welcome to our online store! REMAKE AI Statutory Trust, a Wyoming Business Trust, DBA Maker's Pet and its associates provide their services to you subject to the following conditions. If you visit or shop within this website, you accept these conditions. Please read them carefully.</p>
+<p>Welcome to our online store! REMAKE AI Statutory Trust, a Wyoming Business Trust, DBA Maker's Pet and its associates provide their services to you subject to the following conditions. If you visit or shop within this website, you accept these conditions. Please read them carefully. If you do not agree, please do not use this site. If you have any questions or concerns, feel free to contact us.</p>
 
 <p>These terms of service may be revised at any time. You should visit this page from time to time to review the current terms of service.</p>
 
@@ -15,9 +15,9 @@ comments: false
 
 <p>Please review our<a href="{{ site.privacy_policy_url }}">Privacy Notice</a>, which also governs your visit to our website, to understand our practices.</p>
 
-<h4 class="h4">Shipping Policy</h4>
+<h4 class="h4">Shipping, Payments and Returns Policy</h4>
 
-<p>Please review our<a href="{{ site.shipping_policy_url }}">Shipping Policy</a>.</p>
+<p>Please review our<a href="{{ site.shipping_policy_url }}">Shipping, Payments and Returns Policy</a>.</p>
 
 <h4 class="h4">ELECTRONIC COMMUNICATIONS</h4>
 
@@ -112,8 +112,7 @@ our delivery to the carrier.</p>
 
 <h4 class="h4">SAFETY</h4>
 
-<p>
-Maker's Pet sells technology kits, including DIY, robotic products and accessories that may require
+<p>Maker's Pet sells technology kits, including DIY, robotic products and accessories that may require
 the user to have certain skills in order to be assembled, operated and/or modified.
 These user skills may include understanding of and experience in electronics, software, mechanical,
 optical engineering as well as safety.</p>
@@ -143,9 +142,17 @@ ourselves and/or our third-party vendors and/or independent providers whos softw
 (including open source), it may not always be feasible to us to maintain documentation for every product up-to-date.
 We cannot, therefore, guarantee that all information on this site is complete or current.</p>
 
+<h4 class="h4">EXPORT COMPLIANCE</h4>
+Customer hereby acknowledges that the products and services delivered under these Agreement are subject to applicable export control and trade sanctions laws and regulations, including without limit those of the United States (e.g., the sanctions administered by the U.S. Department of Treasury’s Office of Foreign Assets Control (31 CFR Part 500 et seq.), the Export Administration Regulations ("EAR", 15 CFR Part 730 et seq.) administered by the U.S. Department of Commerce’s Bureau of Industry and Security, laws and regulations targeting proliferation activities, and the restricted parties lists maintained by the U.S. government (e.g., the Denied Persons List, Unverified List, Entity List, Specially Designated Nationals List, Debarred List and Non-proliferation Sanctions).</p>
+
+<p>Customer agrees to comply with these laws and regulations and certifies that it will not use, sell, resell, export, re-export, import, dispose of, disclose or otherwise deal with the products or services delivered under this Agreement, directly or indirectly, to any country, destination or party without first obtaining any required export license or other governmental approval, and completing such formalities as may be required. Customer further agrees to not do anything which would cause Maker's Pet to be in breach of the export control and trade sanctions laws and regulations.</p>
+
 <h4 class="h4">INDEMNIFICATION</h4>
 
 <p>Customer shall protect, defend, indemnify and hold harmless Maker's Pet, its shareholders, directors, officers, employees and agents from any fines, damages, costs, losses, liabilities, fees, penalties, claims and expenses (including legal fees and expenses) incurred by Maker's Pet as a result of the failure of the Customer or its agents, officers, directors or employees to comply with this Section.</p>
+
+<h4 class="h4">Third-Party Links</h4>
+<p>We may link to sites operated by third parties in order to provide you with additional information related to Maker's Pet products and related technologies. However, we have no control over these linked sites. If you use these links, you will leave makerspet.com, and we are not responsible for operation of or any content, materials or other information located on the linked website. Your use of the linked websites is entirely at your own risk.</p>
 
 <h4 class="h4">LIMITED WARRANTY</h4>
 

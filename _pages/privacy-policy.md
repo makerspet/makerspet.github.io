@@ -96,6 +96,6 @@ comments: false
 
 <p>Phone: we will provide a phone support hotline once our business size grows to a sufficient size</p>
 
-<p><em>Maker's Pet</em></p>
-<p><em>400 Valencia Dr</em></p>
-<p><em>Camarillo, CA 93010, USA</em></p>
+<p><em>Maker's Pet<br>
+400 Valencia Dr<br>
+Camarillo, CA 93010, USA</p>

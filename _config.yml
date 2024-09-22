@@ -21,6 +21,7 @@ reddit_group_url: https://www.reddit.com/r/3dPrintedHomeRobots/
 mailchimp_signup_url: http://eepurl.com/gBV7tb
 support_url: https://github.com/makerspet/support/discussions
 privacy_policy_url: ./pages/privacy-policy
+shipping_policy_url: ./pages/shipping-policy
 terms_conditions_url: ./pages/terms-conditions
 by: REMAKE AI
 by_url: https://remake.ai
@@ -34,14 +35,14 @@ whitelist:
 # Authors
 authors:
   marketing:
-    name: REMAKE.AI
+    name: REMAKE AI
     display_name: marketing
     avatar: 'assets/images/kaia_avatar.png'
 #    gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: marketing@makerspet.com
     web: https://remake.ai
     twitter: https://twitter.com/remakeai/
-    description: "REMAKE.AI"
+    description: "REMAKE AI"
   iliao:
     name: Ilia O.
     display_name: Ilia    
