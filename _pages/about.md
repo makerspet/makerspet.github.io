@@ -85,6 +85,10 @@ comments: false
 
 <p>We are located in Los Angeles, CA. Get in touch with us via <a href="{{ site.facebook_url }}">Facebook Messenger</a> or using this <a href="https://us4.list-manage.com/contact-form?u=ce7793379be11c5c705d99df0&form_id=1bc48ab0e8e259a853cd481de8a4f1b2">contact form</a>. We usually reply within 24 hours.</p>
 
+<p>Please refer to our <a href="{{ site.shipping_policy_url }}">Shipping and Returns</a>,
+<a href="{{ site.privacy_policy_url }}">Privacy</a> and
+<a href="{{ site.terms_conditions_url }}">Terms and Conditions of Use</a> policies.</p>
+
 <p><em>Wubba Lubba dub-dub!</em></p>
 </div>
 
