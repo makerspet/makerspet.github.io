@@ -157,13 +157,17 @@
 <footer class="footer">
     <div class="container">
         <div class="row">
-            <div class="col-md-6 col-sm-6 text-center text-lg-left">
+            <div class="col-md-4 col-sm-4 text-center text-lg-left">
                 Copyright © {{ site.time | date: "%Y" }} {{ site.name }}{% if site.by %} by <a href="{{ site.by_url }}">{{site.by}}</a>{% endif %}
             </div>
 
-            <div class="col-md-6 col-sm-6 text-center text-lg-right">    
+            <div class="col-md-4 col-sm-4 text-center">
+                <a href="{{ site.shipping_policy_url }}">Shipping/Returns</a>&nbsp;
                 <a href="{{ site.privacy_policy_url }}">Privacy</a>&nbsp;
-                <a href="{{ site.terms_conditions_url }}">Terms</a>&nbsp;
+                <a href="{{ site.terms_conditions_url }}">Terms</a>
+            </div>
+
+            <div class="col-md-4 col-sm-4 text-center text-lg-right">
                 {% include footer-buttons.html %}
             </div>
         </div>
