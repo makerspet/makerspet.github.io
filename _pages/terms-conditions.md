@@ -5,19 +5,32 @@ permalink: /pages/terms-conditions
 comments: false
 ---
 
-<h4 class="h4">Conditions of Use</h4>
+<h4 class="h4">Terms and Conditions of Use</h4>
 
-<p>Welcome to our online store! REMAKE AI Statutory Trust, a Wyoming Business Trust, DBA Maker's Pet and its associates provide their services to you subject to the following conditions. If you visit or shop within this website, you accept these conditions. Please read them carefully. If you do not agree, please do not use this site. If you have any questions or concerns, feel free to contact us.</p>
+<p>Welcome to our online store! REMAKE AI Statutory Trust, a Wyoming Business Trust, DBA Maker's Pet and its associates provide their services to you subject to the following conditions. If you visit or shop within this website, you accept these conditions. Please read them carefully. If you do not agree, please do not use this site. If you have any questions or concerns, feel free to contact us at support@makerspet.com</p>
 
-<p>These terms of service may be revised at any time. You should visit this page from time to time to review the current terms of service.</p>
+<h4 class="h4">SITE POLICIES, MODIFICATION, AND SEVERABILITY</h4>
+
+<p>Please review our other policies, such as our
+<ul>
+  <li><a href="{{ site.shipping_policy_url }}">Shipping, Payments and Returns Policy</a>
+  <li><a href="{{ site.privacy_policy_url }}">Privacy Policy</a>
+</ul>
+</p>
+
+<p>These policies also govern your visit to Maker's Pet. We reserve the right 
+to make changes to our site, policies, and these Terms and Conditions of Use at any time. If any 
+of these conditions shall be deemed invalid, void, or for any reason unenforceable, 
+that condition shall be deemed severable and shall not affect the validity and 
+enforceability of any remaining condition.</p>
 
 <h4 class="h4">Privacy Policy</h4>
 
-<p>Please review our<a href="{{ site.privacy_policy_url }}">Privacy Notice</a>, which also governs your visit to our website, to understand our practices.</p>
+<p>Please review our, which also governs your visit to our website, to understand our practices.</p>
 
 <h4 class="h4">Shipping, Payments and Returns Policy</h4>
 
-<p>Please review our<a href="{{ site.shipping_policy_url }}">Shipping, Payments and Returns Policy</a>.</p>
+<p>Please review our.</p>
 
 <h4 class="h4">ELECTRONIC COMMUNICATIONS</h4>
 
@@ -213,18 +226,3 @@ judgment in any court of competent jurisdiction. To the fullest extent permitted
 applicable law, no arbitration under this Agreement shall be joined to an arbitration 
 involving any other party subject to this Agreement, whether through class arbitration 
 proceedings or otherwise.</p>
-
-<h4 class="h4">SITE POLICIES, MODIFICATION, AND SEVERABILITY</h4>
-
-<p>Please review our other policies, such as our Shipping and Returns policy, posted on 
-this site. These policies also govern your visit to Maker's Pet. We reserve the right 
-to make changes to our site, policies, and these Conditions of Use at any time. If any 
-of these conditions shall be deemed invalid, void, or for any reason unenforceable, 
-that condition shall be deemed severable and shall not affect the validity and 
-enforceability of any remaining condition.</p>
-
-<h4 class="h4">QUESTIONS</h4>
-
-<p>Questions regarding our Conditions of Usage, Privacy Policy, or other policy related 
-material can be directed to our support staff by clicking on the "Contact Us" link in 
-the side menu. Or you can email us at: info@Maker's Pet.com</p>
