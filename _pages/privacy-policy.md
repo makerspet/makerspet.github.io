@@ -96,5 +96,9 @@ comments: false
 
 <p>Phone: we will provide a phone support hotline once our business size grows to a sufficient size</p>
 
-<p>Physical business address: we will publish the physical business address once the business is large enough to have an office.
+<p>Physical business address: we will publish the business street address once the business is large enough to have an office.
 In the meantime, if you need to return an item, email us (support at makerspet.com) to get our return address.</p>
+
+<p><em>Camarillo<br>
+California, 93010<br>
+USA</em></p>
