@@ -12,7 +12,7 @@ We will notify you if there is a considerable processing delay.</p>
 
 <p>Once we ship your order, we will send you an email with tracking information - if your choice of shipping comes with tracking. You can also check your order status by logging into your account.</p>
 
-<h4 class="h4">Shipping Options and Times</h4>
+<h4 class="h4">Domestic Shipping Options and Times</h4>
 
 <ul>
   <li>UPS 2nd Day Air</li>
@@ -102,9 +102,28 @@ That said, we cannot guarantee the requested change or cancellation.</p>
 
 <h4 class="h4">International Shipping</h4>
 
-<p>For the time being we ship in the USA only. We intend to start shipping internationally once we figure out the relevant certifications and logistics.</p>
+<ul>
+  <li>UPS Worldwide Express Saver</li>
+  <li>UPS Worldwide Expedited</li>
+  <li>USPS Express Mail International</li>
+</ul>
 
-<p>Once international shipping becomes available, you are responsible for any VAT, tariff, duty, taxes, handling fees, brokerage charges, customs clearance charges, etc. required by your country for importing consumer goods.</p>
+
+<p>Please note:</p>
+
+<ul>
+  <li>You are responsible for any VAT, tariff, duty, taxes, handling fees, brokerage charges, customs clearance charges, etc. required by your country for importing consumer goods.</li>
+  <li>For EU customers: if a product description does NOT mention CE certification - that product is NOT CE certified. Same goes for RoHS and REACH declarations.
+  <ul>
+    <li>Final products (e.g. a fully-functioning robot) and kits of final products must be CE certified in order to be sold in Europe. Therefore, we cannot sell/ship final non-CE-certified products to EU.</li>
+    <li>However, electronic components - including PCB boards, PCB accessories (e.g. cables), etc. - are sold as "sub-assemblies". We are not legal experts, but to the best of our knowledge, there are exemptions to having CE certification for sub-assemblies sold to EU. The onus of certifying the final product (one that contains the non-CE-marked sub-assembly) is on the sub-assembly purchaser. As far as we know, DIY hobbyists (also known as "radio amateurs") are typically exempt from certification requirements as long as the final product is not offered for sale or made in significant quantities. Please do consult an expert.</li>
+  </ul>
+  <li>FCC certification for US customers: if a product description does NOT mention FCC certification - that product is NOT FCC certified.
+  <ul>
+    <li>Similar to CE certification regulations, as far as we know, there are exemptions from FCC certification for sub-assemblies sold in USA. The sub-assembly purchaser has to take care of FCC certification - with the exceptions for DIY hobbyists mentioned above.</li>
+    <li>For example, Let's say you purchase an Arduino LiDAR/motor expansion board (a sub-assembly) and an ESP32 development board. Let's say you plug the ESP32 development board into the expansion board and place the whole thing into a plastic enclosure. Let's say this is your final product that you'd like to offer for sale in the US. If you take this product to an FCC-accredited EMC testing lab, your ESP32-and-expansion-board assembly may (will, according to our experience) fail at least some FCC tests and limits. However, if you enclose your assembly into an RF shield - say, while leaving the ESP32 RF antenna outside - now your assembly might pass FCC tests. Therefore, it is up to you - not the sub-assembly vendor - to correctly engineer, select components, test and certify your final product.</li>
+  </ul>
+</ul>
 
 <p>In general, Maker's Pet (the shipper) is unable to predict your country's customs/fee requirements. Therefore, be prepared to pay full VAT on the fully declared value of your order as well as any customs fees your country's postal system may charge you.</p>
 
