@@ -125,13 +125,20 @@ That said, we cannot guarantee the requested change or cancellation.</p>
   </ul>
 </ul>
 
-<p>In general, Maker's Pet (the shipper) is unable to predict your country's customs/fee requirements. Therefore, be prepared to pay full VAT on the fully declared value of your order as well as any customs fees your country's postal system may charge you.</p>
+<p>Since we are a US-based busines, we follow the relevant US export laws and regulations. Therefore:
+<ul>
+  <li>We are unable to ship anything to countries embargoed by the US government - including Iran, North Korea, Sudan, Syria, Russia, Cuba and specific regions of Ukraine (Crimea, Donetsk, and Luhansk). If you place an order to be shipped to a restricted country/region, we will have to cancel that order and issue a refund</li>
+  <li>Some of the items we may sell may be categorized as <a href="https://www.bis.gov/ear/title-15/subtitle-b/chapter-vii/subchapter-c/part-730/ss-7303-dual-use-and-other-types-items">dual-use technology</a>. If you order a dual-use item, we may have to reach out to you directly for further information before finalizing your order.</li>
+</ul>
+</p>
+
+<p>Our store software collects EU and UK VAT automatically for you. However, in general, we are unable to predict your country's specific customs/duty/fee requirements. Therefore, unless we have charged VAT to you during checkout, please be prepared to pay full VAT on the fully declared value of your order. Similarly, please be prepared to pay customs fees your country's postal system may charge you.</p>
 
 <p>We cannot issue any refunds if you do not pay the required brokerage fees, VAT, tariff, duty, taxes, handling fees, customs clearance charges, etc.</p>
 
 <p>Our customs forms will accurately describe the contents and cost of your order. We don't permit marking orders as "gift", "sample", "educational" or lower the values.</p>
 
 
-<h4 class="h4">Signature Requirements</h4>
+<h4 class="h4">Delivery Signature</h4>
 
 <p>All US orders are shipped "Signature Not Required" by default. However, the shipping company may decide to require a signature depending on the value or destination. If you want your order to require a signature for delivery, please contact Customer Support. If a "Signature Not Required" package is left at the door but isn’t there when you get home, neither Maker's Pet nor the shipping company can be held responsible.</p>
