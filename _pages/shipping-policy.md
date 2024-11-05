@@ -21,7 +21,7 @@ We will notify you if there is a considerable processing delay.</p>
   <li>UPS Standard</li>
   <li>USPS Priority Mail</li>
   <li>USPS Ground Advantage</li>
-  <li>USPS Express Mail</li>
+  <li>FedEx Ground</li>
 </ul>
 
 <p>USPS usually costs less and does not always provide detailed tracking. 
@@ -103,9 +103,10 @@ That said, we cannot guarantee the requested change or cancellation.</p>
 <h4 class="h4">International Shipping</h4>
 
 <ul>
-  <li>UPS Worldwide Express Saver</li>
-  <li>UPS Worldwide Expedited</li>
-  <li>USPS Express Mail International</li>
+  <li>UPS Worldwide Saver</li>
+  <li>UPS Standard (ships to Canada)</li>
+  <li>USPS Priority Mail International</li>
+  <li>FedEx Ground (ships to Canada)</li>
 </ul>
 
 
