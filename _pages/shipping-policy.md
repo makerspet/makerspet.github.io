@@ -24,8 +24,9 @@ We will notify you if there is a considerable processing delay.</p>
   <li>FedEx Ground</li>
 </ul>
 
-<p>USPS usually costs less and does not always provide detailed tracking. 
-For domestic orders, UPS is sometimes faster and a little more expensive, but has a high-quality tracking system. We recommend choosing UPS for your shipping.</p>
+<p>USPS usually costs less and does not always provide detailed tracking.
+For domestic orders, UPS is sometimes faster and a little more expensive,
+but has a high-quality tracking system. We recommend choosing UPS for your shipping.</p>
 
 <p>For UPS shipping services, the actual weight of the package is rounded up to the next whole pound. Shipping carriers also use "dimensional weight" that reflects package size to calculate shipping costs.</p>
 
@@ -105,6 +106,7 @@ That said, we cannot guarantee the requested change or cancellation.</p>
 <ul>
   <li>UPS Worldwide Saver</li>
   <li>UPS Standard (ships to Canada)</li>
+  <li>USPS First-Class Package International Service</li>
   <li>USPS Priority Mail International</li>
   <li>FedEx Ground (ships to Canada)</li>
 </ul>
@@ -124,6 +126,7 @@ That said, we cannot guarantee the requested change or cancellation.</p>
     <li>Similar to CE certification regulations, as far as we know, there are exemptions from FCC certification for sub-assemblies sold in USA. The sub-assembly user has to take care of FCC certification - with the exceptions for DIY hobbyists mentioned above.</li>
     <li>For example, Let's say you purchase an Arduino LiDAR/motor expansion board (a sub-assembly) and an ESP32 development board. Let's say you plug the ESP32 development board into the expansion board, add motors, wheels, a battery, a LiDAR and place the whole thing into a plastic enclosure. Let's say this is your final product that you'd like to offer for sale in the US. If you take this product to an FCC-accredited EMC testing lab, your ESP32-and-expansion-board assembly may (will, according to our experience) fail at least some FCC tests and limits. However, if you enclose your assembly into, say, an additional RF shield - say, while leaving the ESP32 RF antenna outside - now your final product might pass FCC tests. Therefore, it is up to you - not the sub-assembly vendor - to correctly engineer, select components, test and certify your final product.</li>
   </ul>
+  <li>USPS First-Class does not provide tracking or delivery estimate</li>
 </ul>
 
 <p>Since we are a US-based busines, we follow the relevant US export laws and regulations. Therefore:
