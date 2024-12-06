@@ -21,7 +21,7 @@ th, td {
 }
 </style>
 
-<table style="border: 1px solid gray; border-collapse: collapse;">
+<table style="border: 1px solid gray;">
 <thead>
 <tr class="header" style="background-color: #E5E4E2;">
 <th>GPIO</th>
