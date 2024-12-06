@@ -33,7 +33,7 @@ The took the list of ESP32 GPIO limitations from a [Randomnerd Tutorials post](h
 | 13 | OK | OK | |
 | 14 | Caution | Caution | Outputs a signal at boot. Toggles while Arduino IDE is waiting for the user to press the BOOT button to upload firmware code. |
 | 15 | Caution | Caution | Outputs a signal at boot. |
-| 16 | OK | OK | |
+| 16 | OK | OK | GPIO16 should be pulled up and left unused in ESP32-WROOM-32E modules using QSPI RAM ESP32D0WDR2V3 IC |
 | 17 | OK | OK | |
 | 18 | OK | OK | |
 | 19 | OK | OK | |
@@ -50,7 +50,7 @@ The took the list of ESP32 GPIO limitations from a [Randomnerd Tutorials post](h
 | 30 | OK | OK | |
 | 31 | OK | OK | |
 | 32 | OK | OK | |
-| 33 | OK | OK | |
+| 33 | Caution | Caution | Sometimes goes high (instead of normal low) during reset (EN button pressed) |
 | 34 | OK | x | Input only |
 | 35 | OK | x | Input only |
 | 36 | OK | x | Input only |
