@@ -11,7 +11,7 @@ image: assets/images/webp/ESP32_WROOM_32_DevKit_v1.webp
 # rating: .5
 ---
 
-(ESP32)[https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf] (and its DevKit boards) has a number of limitations with respect to its GPIOs. Here is a table of issues to keep in mind.
+[ESP32](https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf) (and its DevKit boards) has a number of limitations with respect to its GPIOs. Here is a table of issues to keep in mind.
 
 The took the list of ESP32 GPIO limitations from a [Randomnerd Tutorials post](https://randomnerdtutorials.com/esp32-pinout-reference-gpios/) and added a handful more limitations, unusual/undocumented behaviors, tips and tricks that we have noticed.
 
