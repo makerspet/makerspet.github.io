@@ -15,9 +15,9 @@ image: assets/images/webp/ESP32_WROOM_32_DevKit_v1.webp
 
 The took the list of ESP32 GPIO limitations from a [Randomnerd Tutorials post](https://randomnerdtutorials.com/esp32-pinout-reference-gpios/) and added a handful more limitations, unusual/undocumented behaviors, tips and tricks that we have noticed.
 
-<table>
+<table style="border: 1px solid gray; border-collapse: collapse;">
 <thead>
-<tr class="header">
+<tr class="header" style="background-color: light-gray;">
 <th>GPIO</th>
 <th>Input</th>
 <th>Output</th>
