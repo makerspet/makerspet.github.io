@@ -3,7 +3,7 @@ layout: post
 title: ESP32 GPIO Limitations
 author: iliao
 categories: [ ESP32 ]
-image: assets/images/webp/ESP32_WROOM_32_Dev_Board_v1.webp
+image: assets/images/webp/ESP32_WROOM_32_DevKit_v1.webp
 # featured: true
 # hidden: true
 # comments: true
