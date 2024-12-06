@@ -18,6 +18,7 @@ The took the list of ESP32 GPIO limitations from a [Randomnerd Tutorials post](h
 <style>
 th, td {
   border: 1px solid black;
+  padding: 2px;
 }
 </style>
 
