@@ -196,8 +196,8 @@ TO YOU, AND YOU MIGHT HAVE ADDITIONAL RIGHTS.</p>
 
 <h4 class="h4">APPLICABLE LAW</h4>
 
-<p>By visiting Maker's Pet, you agree that the laws of the state of DEFINE_STATE, 
-DEFINE_COUNTRY, without regard to principles of conflict of laws, will govern these 
+<p>By visiting Maker's Pet, you agree that the laws of the state of California, 
+USA, without regard to principles of conflict of laws, will govern these 
 Conditions of Use and any dispute of any sort that might arise between you and 
 Maker's Pet or its associates.</p>
 
@@ -205,10 +205,10 @@ Maker's Pet or its associates.</p>
 
 <p>Any dispute relating in any way to your visit to Maker's Pet or to products you 
 purchase through Maker's Pet shall be submitted to confidential arbitration in 
-DEFINE_STATE, DEFINE_COUNTRY, except that, to the extent you have in any 
-manner violated or threatened to violate Maker's Pets intellectual property rights, 
+the Ventura County, California, USA, except that, to the extent you have in any 
+manner violated or threatened to violate Maker Pet's intellectual property rights, 
 Maker's Pet may seek injunctive or other appropriate relief in any state or federal 
-court in the state of DEFINE_STATE, DEFINE_COUNTRY, and you consent to 
+court in the state of California, USA, and you consent to 
 exclusive jurisdiction and venue in such courts. Arbitration under this agreement 
 shall be conducted under the rules then prevailing of the American Arbitration 
 Association. The arbitrators award shall be binding and may be entered as a 
