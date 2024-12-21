@@ -302,3 +302,9 @@ th, td {
 
 </tbody>
 </table>
+
+## ESP32-S3 GPIO limitations
+
+ESP32-S3 seems to have less GPIO limitations compared to ESP32. That said, there still have been surprises.
+
+- `pinMode(26, INPUT);` in Arduino `setup()` function usually crashes my code built with Espressif Arduino compiler/SDK v2.0.17. Usually - not always.
