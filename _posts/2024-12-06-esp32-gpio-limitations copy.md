@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ESP32, ESP32-S3 GPIO Limitations
+title: ESP32 GPIO Limitations
 author: iliao
 categories: [ ESP32 ]
 image: assets/images/webp/ESP32_WROOM_32_DevKit_v1.webp
@@ -302,10 +302,3 @@ th, td {
 
 </tbody>
 </table>
-<p></p>
-
-## ESP32-S3 GPIO limitations
-
-ESP32-S3 seems to have less GPIO limitations compared to ESP32. That said, there still have been surprises.
-
-- `pinMode(26, INPUT);` in Arduino `setup()` function usually crashes my code built with Espressif Arduino compiler/SDK v2.0.17. Usually - not always.
