@@ -302,6 +302,7 @@ th, td {
 
 </tbody>
 </table>
+<p></p>
 
 ## ESP32-S3 GPIO limitations
 
