@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ESP32 GPIO Limitations
+title: ESP32, ESP32-S3 GPIO Limitations
 author: iliao
 categories: [ ESP32 ]
 image: assets/images/webp/ESP32_WROOM_32_DevKit_v1.webp
