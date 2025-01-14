@@ -19,5 +19,6 @@ image: assets/images/webp/ESP32_S3MINI_makerspet_mini_s3m.webp
 - GPIO45 is a strapping pin for VDD_SPI voltage
 - GPIO46 straps pin for ROM message printing
 - GPIO3 straps the JTAG signal source.
+- GPIO39 goes HIGH after reset, as opposed to the majority of GPIOs going LOW
 
 Please refer to the [ESP32-S3](https://www.espressif.com/sites/default/files/documentation/esp32-s3_datasheet_en.pdf) for details.
