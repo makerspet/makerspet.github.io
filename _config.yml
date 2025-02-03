@@ -25,6 +25,9 @@ shipping_policy_url: ./pages/shipping-policy
 terms_conditions_url: ./pages/terms-conditions
 by: REMAKE AI
 by_url: https://remake.ai
+store:
+  header:
+    msg: 'Free shipping on $150+ in contiguous US'
 
 # safe: true
 
