@@ -26,7 +26,7 @@ terms_conditions_url: ./pages/terms-conditions
 by: REMAKE AI
 by_url: https://remake.ai
 store:
-  url: https://makerspet.com/store
+  url: /store
   header:
     msg: 'Free shipping on $150+ in contiguous US'
 
