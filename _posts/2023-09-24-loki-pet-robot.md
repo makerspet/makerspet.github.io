@@ -4,8 +4,8 @@ title: Loki 200mm, Fido pet robot build, bring-up instructions
 author: iliao
 categories: [ Loki-pet-robot, 200mm, Fido-pet-robot, 250mm ]
 image: assets/images/webp/Loki-v200.webp
-featured: true
-hidden: true
+# featured: true
+# hidden: true
 # comments: false
 # tags: [red, yellow]
 # rating: .5
