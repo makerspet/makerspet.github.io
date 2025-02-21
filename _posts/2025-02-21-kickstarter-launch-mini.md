@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kickstarter Launch 2025
+title: Kickstarter Launch H1 2025
 author: iliao
 categories: [ Kickstarter, Mini ]
 image: assets/images/webp/PXL_20240704_031632664_edited.webp
@@ -11,7 +11,7 @@ hidden: true
 # rating: .5
 ---
 
-I will be launching Maker's Pet Mini on Kickstarter - sometime in ~~second half of 2024~~ 2025. Unfortunately, I've ran into delays and I apologize for the premature announcement.
+I will be launching Maker's Pet Mini on Kickstarter sometime in H1 2025 - not H2 2024 as originally planned. Unfortunately, I've ran into delays and I apologize for the premature announcement.
 
 Here are some of the issues that have ended up delaying the launch:
 
