@@ -11,7 +11,16 @@ image: assets/images/webp/PXL_20240704_031632664_edited.webp
 # rating: .5
 ---
 
-We will be launching Maker's Pet Mini on Kickstarter - sometime in second half of 2024!
+I will be launching Maker's Pet Mini on Kickstarter - sometime in ~~second half of 2024~~ 2025. Unfortunately, I've ran into delays and I apologize for the premature announcement.
+
+Here are some of the issues that have ended up delaying the launch:
+
+- FCC certification. The product must pass FCC EMC testing before it can be offered for sale in the USA. Some of the components failed the initial testing. Investigating the EMC issues and redesigning the product quite some time.
+- Manufacturing quality. Some electronic components in the original design were prone to assembly defects. It took several design iterations to flush out those problems.
+- Parts quality. As I played with product prototypes, I found quality issues with non-electronic parts. For example, low-cost wobbly wheels with mismatching diameter caused the robot to wander off the intended path. I had to resolve that while keeping the cost low.
+- Performance. The early prototypes had some performance issues, including motor power. It took several more design iterations for me to take care of that. This was important to address because I don't want to sell a low-quality product.
+
+## The Original Kickstarter Announcement
 
 Loki's little brother, Maker's Pet Mini is a 120mm Arduino educational robot that maps rooms and navigates autonomously using a LiDAR and the widely-popular ROS2 robotics software.
 
