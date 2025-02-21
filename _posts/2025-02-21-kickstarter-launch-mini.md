@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Kickstarter Launch for Maker's Pet Mini
+title: Kickstarter Launch 2025
 author: iliao
 categories: [ Kickstarter, Mini ]
 image: assets/images/webp/PXL_20240704_031632664_edited.webp
-# featured: true
-# hidden: true
+featured: true
+hidden: true
 # comments: true
 # tags: [red, yellow]
 # rating: .5
