@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Online Robotics Store is Open 🚀"
+title: "Online Robotics Store is Open"
 author: iliao
 categories: [ store ]
 image: assets/images/webp/shopping_cart_icon.webp
