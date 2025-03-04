@@ -28,7 +28,7 @@ The video below shows LDS02RR streaming the distance data live to ROS2 Rviz view
 
 In order to connect LDS02RR to Arduino, I had to design a tiny PCB board that plugs into Xiaomi LDS02RR LiDAR/LDS to connect the LiDAR to Arduino/ESP32 (and ROS2). This PCB has components that regulate the laser sensor's motor RPM.
 
-You can download the PCB design files are here https://github.com/makerspet/pcb under the lds02rr_adapter folder.
+You can download the PCB design files are [here](https://github.com/makerspet/pcb) under the lds02rr_adapter folder.
 
 The video below shows the LDS02RR adapter PCB I had to design.
 
@@ -38,4 +38,4 @@ The video below shows the LDS02RR adapter PCB I had to design.
 
 This Xiaomi LiDAR does not have a built-in control for its motor. So, I also had to write firmware that controls the Xiaomi LiDAR motor and keeps the motor RPM stable and accurate. Since Maker's Pet robots now support multiple LiDAR/LDS models (currently YDLIDAR X4 and LDS02RR), I've written and published an Arduino library that wraps LiDAR/LDS internals into a simple API. Now it is (relatively) easy to add other LiDAR/LDS models - without changing the robot firmware.
 
-You can find this LDS Arduino library source code here https://github.com/kaiaai/LDS.
+You can find this LDS Arduino library source code [here](https://github.com/kaiaai/LDS).
