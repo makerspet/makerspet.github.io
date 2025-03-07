@@ -24,8 +24,13 @@ Here is a schematic connecting TB6612FNG to ESP32 30-pin dev board.
 
 In the schematic
 - ESP32 GPIOs (configured as outputs) connect to TB6612FNG that drives two (left and right) DC brushed motors.
-- ESP32  GPIOs (configured as inputs) also connect to (quadrature) motor encoders. Each quadrature motor encoder has 2 signals called A and B (or C1, C2 or something like that).
+- ESP32 GPIOs (configured as inputs) also connect to (quadrature) motor encoders. Each quadrature motor encoder has 2 signals called A and B (or C1, C2 or something like that).
+- resistors in series with GPIO inputs protect ESP32 from 5V encoder signal levels
 
-The choice of GPIO numbers to connect TB6612FNG and encoders is up to you - subject to [ESP32 GPIO own limitations](https://makerspet.com/blog/esp32-gpio-limitations/). See also this post for [ESP32S3 GPIO limitations](https://makerspet.com/blog/esp32-s3-gpio-limitations/).
+The choice of GPIO numbers to connect TB6612FNG and encoders is up to you - subject to ESP32 GPIO own limitations. Read more about ESP32 GPIO limitations:
+- [GPIO limitations in ESP32 modules](https://makerspet.com/blog/esp32-gpio-limitations/)
+- [GPIO limitations in ESP32S3 modules](https://makerspet.com/blog/esp32-s3-gpio-limitations/)
 
-Kaia.ai firmware has a `config.yaml` file where you specify your GPIO assignments https://github.com/kaiaai/firmware/blob/iron/kaiaai-esp32/data/config.yaml . Kaia.ai firmware loads this file at boot time.
+Last, but not the least, Kaia.ai firmware has a special `config.yaml` [file](https://github.com/kaiaai/firmware/blob/iron/kaiaai-esp32/data/config.yaml)
+where you can specify your GPIO assignments. Kaia.ai firmware loads this file at boot time.
+Please see more `config.yaml` documentation [here](https://kaia.ai/blog/kaiaai-configuration-file/).
