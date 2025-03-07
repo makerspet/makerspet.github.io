@@ -2,7 +2,7 @@
 layout: post
 title: "100K+ Members in My Facebook Group"
 author: iliao
-categories: [ TB6612FNG, ESP32 ]
+categories: [ Arduino ]
 image: assets/images/webp/100k_fb_trimmed.webp
 # featured: true
 # hidden: true
