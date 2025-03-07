@@ -2,7 +2,7 @@
 layout: post
 title: "How to Connect TB6612FNG Motor Driver to Your ESP32 DIY Robot"
 author: iliao
-categories: [ store ]
+categories: [ TB6612FNG, ESP32 ]
 image: assets/images/webp/tb6612fng.webp
 # featured: true
 # hidden: true
