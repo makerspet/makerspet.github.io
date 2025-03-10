@@ -11,6 +11,6 @@ image: assets/images/webp/video_instructions_cover.webp
 # rating: .5
 ---
 
-Here is my [video instructions series](https://www.youtube.com/embed/videoseries?si=UG-gdWqQZZMGCvMy&amp;list=PLOSXKDW70aR8uA1IFahSKVuk5ODDfjTZV) with step-by-step explanations "How to Build an Arduino/ROS2 Self-driving Robot".
+Here is my [video instructions series](https://www.youtube.com/embed/videoseries?si=UG-gdWqQZZMGCvMy&amp;list=PLOSXKDW70aR8uA1IFahSKVuk5ODDfjTZV) with step-by-step explanations "How to Build an Arduino/ROS2 Self-driving Robot". Happy building!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=UG-gdWqQZZMGCvMy&amp;list=PLOSXKDW70aR8uA1IFahSKVuk5ODDfjTZV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
