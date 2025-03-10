@@ -43,37 +43,37 @@ Each design repository includes:
 
 ## Step-by-step assembly instructions.
 <div class="text-center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WPB2B1DPf_s?si=vKl0UPY-jvC7vU5l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WPB2B1DPf_s?si=vKl0UPY-jvC7vU5l&list=PLOSXKDW70aR8SA16wTB0ou9ClKhv7micy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 <p></p>
 
 ## One-time robot and PC setup instructions.
 <div class="text-center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XOc5kCE3MC0?si=Ea7-jGM7AQ_eJeUj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XOc5kCE3MC0?si=Ea7-jGM7AQ_eJeUj&list=PLOSXKDW70aR8SA16wTB0ou9ClKhv7micy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 <p></p>
 
 ## Robot bring-up instructions video
 <div class="text-center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L_XbkA4pwRc?si=xbA206g8rESLKRwt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L_XbkA4pwRc?si=xbA206g8rESLKRwt&list=PLOSXKDW70aR8SA16wTB0ou9ClKhv7micy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 <p></p>
 
 ## Robot 3D printing instructions
 <div class="text-center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4k6W1QyJMMw?si=GYVRPQU3Z1ohQ-Zg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4k6W1QyJMMw?si=GYVRPQU3Z1ohQ-Zg&list=PLOSXKDW70aR8SA16wTB0ou9ClKhv7micy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 <p></p>
 
 ## Robot's Arduino ESP32 breakout board setup instructions
 <div class="text-center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zizGI8MjANU?si=I52Exhl3NUy_7eSQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zizGI8MjANU?si=I52Exhl3NUy_7eSQ&list=PLOSXKDW70aR8SA16wTB0ou9ClKhv7micy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 <p></p>
 
 ## CAD design animation (Fusion 360).
 <div class="text-center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_hDMFZ_Ny5s?si=CyJjd7Vz9T6qbCYG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_hDMFZ_Ny5s?si=CyJjd7Vz9T6qbCYG&list=PLOSXKDW70aR8SA16wTB0ou9ClKhv7micy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 <p></p>
 
@@ -82,7 +82,7 @@ Each design repository includes:
 Loki's head gets 3D printed using a silk red PLA on a Prusa MK3.5S.
 
 <div class="text-center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MUxyDBdmDjE?si=3Ntay33aPRWOy4wE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MUxyDBdmDjE?si=3Ntay33aPRWOy4wE&list=PLOSXKDW70aR8SA16wTB0ou9ClKhv7micy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 <p></p>
 

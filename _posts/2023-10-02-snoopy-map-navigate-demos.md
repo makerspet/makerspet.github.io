@@ -21,7 +21,7 @@ The full step-by-step tutorial is [here](https://kaia.ai/blog/real-time-mapping-
 Disclaimer - I drive Snoopy manually here. I will be adding automatic mapping at a later time.
 
 <div class="text-center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SHtXhIqhDg?si=gsVLMJAHR4GQwYD2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SHtXhIqhDg?si=gsVLMJAHR4GQwYD2&list=PLOSXKDW70aR8SA16wTB0ou9ClKhv7micy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 <p></p>
 
@@ -30,6 +30,6 @@ Disclaimer - I drive Snoopy manually here. I will be adding automatic mapping at
 Snoopy self-drives itself here. I just give Snoopy the location of where to go.
 
 <div class="text-center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Pkl8GH2pfdA?si=DeZK4wG7MoH0Nw7c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Pkl8GH2pfdA?si=DeZK4wG7MoH0Nw7c&list=PLOSXKDW70aR8SA16wTB0ou9ClKhv7micy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 

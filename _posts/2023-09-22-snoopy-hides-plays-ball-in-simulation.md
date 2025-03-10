@@ -22,17 +22,17 @@ The 3D VR simulation runs in ROS2 Gazebo simulator. You can find the step-by-ste
 
 ## Snoopy self-drives around a simulated living room
 <div class="text-center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CwbzGkAYg1U?si=q3qjaU5NG91-VK5I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CwbzGkAYg1U?si=q3qjaU5NG91-VK5I&list=PLOSXKDW70aR8SA16wTB0ou9ClKhv7micy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 ## Snoopy plays ball, hides under the table
 Disclaimer - I drive Snoopy manually here. I will be adding fully automatic behaviors like this at a later time.
 <div class="text-center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p2q-DGV23C8?si=kZu9O23zMQeq5RyS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p2q-DGV23C8?si=kZu9O23zMQeq5RyS&list=PLOSXKDW70aR8SA16wTB0ou9ClKhv7micy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 ## Will you play with me?
 Snoopy wants attention from humans. Disclaimer - I drive Snoopy manually here. I will be adding fully automatic behaviors like this at a later time.
 <div class="text-center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SZCuKf61_6E?si=Kgpx6dZA5Uen28eZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SZCuKf61_6E?si=Kgpx6dZA5Uen28eZ&list=PLOSXKDW70aR8SA16wTB0ou9ClKhv7micy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>

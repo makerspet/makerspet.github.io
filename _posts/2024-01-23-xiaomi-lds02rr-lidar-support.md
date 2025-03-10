@@ -23,7 +23,7 @@ I'd like to emphasize that I want Maker's Pet Arduino/ROS2 robot kits to be affo
 The video below shows LDS02RR streaming the distance data live to ROS2 Rviz viewer using Maker's Pet Arduino ESP32 breakout board and Micro-ROS.
 
 <div class="text-center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/STbCVhdgLSw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/STbCVhdgLSw?list=PLOSXKDW70aR8123OC3843DO4hrjXEa4Tm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 In order to connect LDS02RR to Arduino, I had to design a tiny PCB board that plugs into Xiaomi LDS02RR LiDAR/LDS to connect the LiDAR to Arduino/ESP32 (and ROS2). This PCB has components that regulate the laser sensor's motor RPM.
@@ -33,7 +33,7 @@ You can download the PCB design files are [here](https://github.com/makerspet/pc
 The video below shows the LDS02RR adapter PCB I had to design.
 
 <div class="text-center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wes9GYomUdE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wes9GYomUdE?list=PLOSXKDW70aR8123OC3843DO4hrjXEa4Tm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 This Xiaomi LiDAR does not have a built-in control for its motor. So, I also had to write firmware that controls the Xiaomi LiDAR motor and keeps the motor RPM stable and accurate. Since Maker's Pet robots now support multiple LiDAR/LDS models (currently YDLIDAR X4 and LDS02RR), I've written and published an Arduino library that wraps LiDAR/LDS internals into a simple API. Now it is (relatively) easy to add other LiDAR/LDS models - without changing the robot firmware.
