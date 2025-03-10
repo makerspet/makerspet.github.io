@@ -11,6 +11,14 @@ image: assets/images/webp/video_instructions_cover.webp
 # rating: .5
 ---
 
-Here is my [video instructions series](https://www.youtube.com/embed/videoseries?si=UG-gdWqQZZMGCvMy&amp;list=PLOSXKDW70aR8uA1IFahSKVuk5ODDfjTZV) with step-by-step explanations "How to Build an Arduino/ROS2 Self-driving Robot". Happy building!
+Here is my [video instructions series](https://www.youtube.com/watch?v=6GtjAB19GP8&list=PLOSXKDW70aR8uA1IFahSKVuk5ODDfjTZV&si=UG-gdWqQZZMGCvMy) with step-by-step explanations "How to Build an Arduino/ROS2 Self-driving Robot". Happy building!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=UG-gdWqQZZMGCvMy&amp;list=PLOSXKDW70aR8uA1IFahSKVuk5ODDfjTZV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+There are five video lessons:
+
+1) Self-driving robot assembly
+2) Software and firmware setup
+3) Robot bring-up
+4) Create a map of your place (manual driving)
+5) Robot self-drives to create a map, navigate your place automatically
+
+![Build an Arduino self-driving robot - video instructions series](/assets/images/webp/arduino-self-driving-robot-assembly-with-playlist2.webp)
