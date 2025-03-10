@@ -21,4 +21,4 @@ There are five video lessons:
 4. [Create a map of your place](https://www.youtube.com/watch?v=7uo4BGxWHCA&list=PLOSXKDW70aR8uA1IFahSKVuk5ODDfjTZV&si=UG-gdWqQZZMGCvMy) video (manual driving)
 5. [Robot self-drives](https://www.youtube.com/watch?v=81-9q7QfkHs&list=PLOSXKDW70aR8uA1IFahSKVuk5ODDfjTZV&si=UG-gdWqQZZMGCvMy) video - create a map, navigate your place automatically
 
-![Build an Arduino self-driving robot - video instructions series](/assets/images/webp/arduino-self-driving-robot-assembly-with-playlist2.webp)
+[![Build an Arduino self-driving robot - video instructions series](/assets/images/webp/arduino-self-driving-robot-assembly-with-playlist2.webp)](https://www.youtube.com/watch?v=6GtjAB19GP8&list=PLOSXKDW70aR8uA1IFahSKVuk5ODDfjTZV&si=UG-gdWqQZZMGCvMy)
