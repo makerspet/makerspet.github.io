@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Build anb Arduino Self-Driving Robot - Video Instructions Series"
+title: "Build an Arduino Self-Driving Robot - Video Instructions Series"
 author: iliao
 categories: [ Arduino, Mini, self-driving ]
 image: assets/images/webp/video_instructions_cover.webp
