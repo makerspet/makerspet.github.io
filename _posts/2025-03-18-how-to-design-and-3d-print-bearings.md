@@ -27,4 +27,8 @@ And here is a complete from-scratch tutorial for absolute beginners showing step
 
 After posting this video on Reddit and Facebook I got (harsh) negative replies saying that 3D printed plastic bearings are of no use. I do beg to disagree. After extensive testing, I can recommend 3D printed bearings for use in light-duty applications including pan-and-tilt hardware - cameras, lights and R2D2-style robot heads. More specifically, the larger your light-duty bearing is, the more money you can save by 3D printing it istead of purchasing one (made from steel). Moreover, thanks to 3D printing you can make your large bearing of just about any custom size you want - as long as the bearing fits your 3D printer.
 
+I printed my bearings usint PETG plastic. If you want to level-up from very-light-duty to something more durable, consider using Nylon, Nylon reinforced with glass beads or Delrin (POM-H) self-lubricating plastic filament.
+
+Last, but not the least. There are radial bearings and there are axial load bearings. My DIY bearing tutorial shows the former, while your specific use case may need the latter.
+
 Happy 3D printing!
