@@ -20,7 +20,7 @@ There are five video lessons:
 3. [Robot bring-up](https://www.youtube.com/watch?v=tKfVU1n5TjA&list=PLOSXKDW70aR8uA1IFahSKVuk5ODDfjTZV&si=UG-gdWqQZZMGCvMy) video
 4. [Create a map of your place](https://www.youtube.com/watch?v=7uo4BGxWHCA&list=PLOSXKDW70aR8uA1IFahSKVuk5ODDfjTZV&si=UG-gdWqQZZMGCvMy) video (manual driving)
 5. [Robot self-drives](https://www.youtube.com/watch?v=81-9q7QfkHs&list=PLOSXKDW70aR8uA1IFahSKVuk5ODDfjTZV&si=UG-gdWqQZZMGCvMy) video - create a map, navigate your place automatically
-6. TODO Software and firmware setup on Linux PC
+6. [Software, firmware install and bring-up on Ubuntu PC](https://www.youtube.com/watch?v=fHPyjVdTNg4&list=PLOSXKDW70aR8uA1IFahSKVuk5ODDfjTZV&si=UG-gdWqQZZMGCvMy)
 
 Happy learning and building!
 
