@@ -5,4 +5,10 @@ permalink: /newsletter-signup-sender
 comments: false
 ---
 
-<div style="text-align: left" class="sender-form-field" data-sender-form-id="m8jv61zeb4xwdxq90n6"></div>
+<div class="row">
+  <div class="col-md-12">
+    <div class="text-center">
+      {% include signup-form-sender.html %}
+    </div>
+  </div>
+</div>
