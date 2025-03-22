@@ -19,11 +19,11 @@ Long story short, I have designed and 3D printed a small 60mm OD bearing as a st
 
 Here is a YouTube reel illustrating the concept.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/STbCVhdgLSw?list=PLOSXKDW70aR_rSlP3J9r-1iJqpjKVAsf3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/STbCVhdgLSw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 And here is a complete from-scratch tutorial for absolute beginners showing step-by-step how to design a radial bearing in Autodesk Fusion 360 (free for personal use as of the time of the writing), 3D printed on my glorious Voron 2.4 350mm (and my old reliable Prusa MK3S) and assembled by yours truly using 1/4" steel bearing balls I purchased on Amazon.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7-wJyKk90GI?list=PLOSXKDW70aR_rSlP3J9r-1iJqpjKVAsf3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7-wJyKk90GI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 After posting this video on Reddit and Facebook I got (harsh) negative replies saying that 3D printed plastic bearings are of no use. I do beg to disagree. After extensive testing, I can recommend 3D printed bearings for use in light-duty applications including pan-and-tilt hardware - cameras, lights and R2D2-style robot heads. More specifically, the larger your light-duty bearing is, the more money you can save by 3D printing it istead of purchasing one (made from steel). Moreover, thanks to 3D printing you can make your large bearing of just about any custom size you want - as long as the bearing fits your 3D printer.
 

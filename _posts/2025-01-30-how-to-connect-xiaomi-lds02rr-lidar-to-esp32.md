@@ -30,7 +30,7 @@ Why LDS02RR is so inexpensive? I believe this is because LDS02RR is taken from u
 Here are step-by-step instructions to make LDS02RR stream the distance data live using Arduino and ESP32.
 
 <div class="text-center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hQKBI_xcKxQ?list=PLOSXKDW70aR8123OC3843DO4hrjXEa4Tm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hQKBI_xcKxQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 Besides displaying live distance data in Arduino IDE, I have also forwarded the distance data to ROS/ROS2 for visualization, SLAM, mapping and automatic navigation (Nav2) using [Kaia.ai ROS2-compatible software](https://github.com/kaiaai/install) and [Kaia.ai Arduino-compatible firmware](https://github.com/kaiaai/firmware).
@@ -38,7 +38,7 @@ Besides displaying live distance data in Arduino IDE, I have also forwarded the 
 Here is a demo of LDS02RR streaming distance data live to ROS2 Rviz viewer using an older version of the adapter PCB and Kaia.ai ROS2/Arduino software suite.
 
 <div class="text-center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/STbCVhdgLSw?list=PLOSXKDW70aR8123OC3843DO4hrjXEa4Tm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/STbCVhdgLSw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 Happy DIY robotics!
