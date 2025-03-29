@@ -21,6 +21,7 @@ There are five video lessons:
 4. [Create a map of your place](https://www.youtube.com/watch?v=7uo4BGxWHCA&list=PLOSXKDW70aR8uA1IFahSKVuk5ODDfjTZV&si=UG-gdWqQZZMGCvMy) video (manual driving)
 5. [Robot self-drives](https://www.youtube.com/watch?v=81-9q7QfkHs&list=PLOSXKDW70aR8uA1IFahSKVuk5ODDfjTZV&si=UG-gdWqQZZMGCvMy) video - create a map, navigate your place automatically
 6. [Software, firmware install and bring-up on Ubuntu PC](https://www.youtube.com/watch?v=fHPyjVdTNg4&list=PLOSXKDW70aR8uA1IFahSKVuk5ODDfjTZV&si=UG-gdWqQZZMGCvMy)
+7. [Finished](https://www.youtube.com/watch?v=RCPUQmvS37Q&list=PLOSXKDW70aR8uA1IFahSKVuk5ODDfjTZV&si=UG-gdWqQZZMGCvMy)  self-driving robot
 
 Happy learning and building!
 
