@@ -2,8 +2,8 @@
 layout: post
 title: "How to Connect Delta-2G LiDAR to ESP32 and Maker's Pet Boards"
 author: iliao
-categories: [ TB6612FNG, ESP32 ]
-image: assets/images/webp/delta-2g_with_bdc-30p_marked_up.webp.webp
+categories: [ Delta-2G, ESP32 ]
+image: assets/images/webp/delta-2g_with_bdc-30p_marked_up.webp
 # featured: true
 # hidden: true
 # comments: false
