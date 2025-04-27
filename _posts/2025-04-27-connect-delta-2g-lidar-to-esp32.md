@@ -44,7 +44,7 @@ Edit your Kaia.ai firmware `config.yaml` configuration file. In the `lidar` sect
 
 Upload this edited configuration file to ESP32 as sketch data, see [video](https://www.youtube.com/watch?v=tKfVU1n5TjA&list=PLOSXKDW70aR8uA1IFahSKVuk5ODDfjTZV&index=4).
 
-Here is reference documentation `config.yaml` https://kaia.ai/blog/kaiaai-configuration-file/
+Here is [reference documentation](https://kaia.ai/blog/kaiaai-configuration-file/) for `config.yaml`.
 
 ```
 lidar:
@@ -103,9 +103,7 @@ When you get to running the Kaia.ai Docker image, edit `telem.yaml` file and cha
 pico /ros_ws/src/makerspet_mini/config/telem.yaml
 ```
 
-Changes to this file get lost when the `kaiaai/kaiaai` container shuts down, so you would have to edit this file again next time you launch the `kaiaai` Docker image.
-
-Future Kaia.ai releases are going to implement automatic ROS2 LiDAR configuration, so you will not have to edit the `telem.yaml` file.
+Keep in mind that changes to this file will get lost when the `kaiaai/kaiaai` container shuts down, so you would have to edit this file again next time you launch the `kaiaai` Docker image. However, future Kaia.ai releases are going to implement automatic ROS2 LiDAR configuration, so you will not have to edit the `telem.yaml` file.
 
 When you get to connecting your ESP32 to your local PC, your local PC should print something like this, including `LDS model 3IROBOTIX-DELTA-2G`.
 
