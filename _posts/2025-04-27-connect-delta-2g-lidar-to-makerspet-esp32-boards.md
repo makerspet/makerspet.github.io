@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Connect Delta-2G LiDAR to ESP32 and Maker's Pet Boards"
+title: "How to Connect Delta-2G LiDAR to Maker's Pet ESP32 Boards"
 author: iliao
 categories: [ Delta-2G, ESP32 ]
 image: assets/images/webp/3irobotix_delta_2g_1200px.webp
@@ -11,11 +11,23 @@ image: assets/images/webp/3irobotix_delta_2g_1200px.webp
 # rating: .5
 ---
 
-3irobotix Delta-2G is a low-cost 2D LiDAR 360-degree distance sensor used in smart vacuum cleaners for navigation. Here are instructions to connect Delta-2G to the LiDAR port on Maker's Pet [BDC-30P](https://makerspet.com/store#!/Driver-Board-for-ESP32-DOIT-DevKit-V1-Brushed-DC-Motors-and-LiDAR/p/724227009), [BDC-38P](https://makerspet.com/store#!/Driver-Board-for-ESP32-DevKitC-V4-Brushed-DC-Motors-and-LiDAR/p/724216505) boards.
+3irobotix Delta-2G is a low-cost 2D LiDAR 360-degree distance sensor used in smart vacuum cleaners for navigation. Here are instructions to connect Delta-2G to the LiDAR port on Maker's Pet [BDC-30P](https://makerspet.com/store#!/Driver-Board-for-ESP32-DOIT-DevKit-V1-Brushed-DC-Motors-and-LiDAR/p/724227009) and [BDC-38P](https://makerspet.com/store#!/Driver-Board-for-ESP32-DevKitC-V4-Brushed-DC-Motors-and-LiDAR/p/724216505) motor driver and ESP32 carrier boards.
 
 ## Hardware Wiring
 
-Delta-2G uses a JST PH 2.0mm 5-pin connector. The photo below shows the connector pinout (+5V/MOT+, MOT-, +5V, GND, TX) and connections to Maker's Pet [BDC-30P](https://makerspet.com/store#!/Driver-Board-for-ESP32-DOIT-DevKit-V1-Brushed-DC-Motors-and-LiDAR/p/724227009) board with a 30-pin ESP32 dev kit.
+Maker's Pet BDC-30P and BDC-38C4 motor driver and ESP32 carrier boards have an 8-pin LiDAR header connector. The LiDAR header can be connected to a large variety of 2D LiDARs. The LiDAR header pins include:
+- LiDAR TX
+- LiDAR RX
+- +5V power for LiDAR
+- GND ground for LiDAR
+- M- LiDAR's motor negative terminal
+- M+ LiDAR's motor positive terminal (connected to +5V power)
+- PWM for LiDAR motor speed control
+- EN for LiDAR enable/disable (used by YDLIDAR X4 only)
+
+Some LiDARs, including 3irobotix Delta-2G, do not have a built-in LiDAR motor control. Maker's Pet BDC-30 and BDC-38C4 have a special on-board circuit that drives the LiDAR motor directly. Kaia.ai Arduino ESP32 firmware controls that special circuit to perform real-time LiDAR motor speed control.
+
+3irobotix Delta-2G uses a JST PH 2.0mm 5-pin connector. The photo below shows the Delta-2G connector pinout and connections to Maker's Pet [BDC-30P](https://makerspet.com/store#!/Driver-Board-for-ESP32-DOIT-DevKit-V1-Brushed-DC-Motors-and-LiDAR/p/724227009) board with a 30-pin ESP32 dev kit.
 
 - connect Delta-2G TX to BDC-30P LiDAR TX
 - connect Delta-2G GND to BDC-30P LiDAR GND
@@ -27,7 +39,7 @@ Idential wiring applies to the Maker's Pet [BDC-38P](https://makerspet.com/store
 
 ![3irobotix Delta-2G LiDAR connected to Maker's Pet BDC-30P ESP32 Board](/assets/images/webp/delta-2g_with_bdc-30p_marked_up.webp '3irobotix Delta-2G LiDAR connected to Makers Pet BDC-30P ESP32 Board'){:class="zoom-image"}
 
-Optionally, put a resistor in series with TX (anything 100 Ohm to 10k, because Delta-2G TX outputs 5V signal, not 3.3V).
+Optionally, put a resistor in series with TX because Delta-2G TX outputs 5V signal, not 3.3V. A 100 Ohm to 10k resistor should work.
 
 Here are more high-resolution photos of the wiring.
 
@@ -41,8 +53,6 @@ Here are more high-resolution photos of the wiring.
 ## Firmware Configuration
 
 Edit your Kaia.ai firmware `config.yaml` configuration file. In the `lidar` section comment out everything except your LiDAR model `3IROBOTIX DELTA-2G`.
-
-Upload this edited configuration file to ESP32 as sketch data, see [video](https://www.youtube.com/watch?v=tKfVU1n5TjA&list=PLOSXKDW70aR8uA1IFahSKVuk5ODDfjTZV&index=4).
 
 Here is [reference documentation](https://kaia.ai/blog/kaiaai-configuration-file/) for `config.yaml`.
 
@@ -65,7 +75,24 @@ lidar:
 # model: YDLIDAR X4
 ```
 
-Boot your firmware and check the Arduino Serial Monitor. The firmware should print `LIDAR model 3IROBOTIX DELTA-2G`.
+Your board's `config.yaml` already contains ESP32 GPIO pin mapping to the board's LiDAR connector, including LiDAR TX, RX, PWM and EN:
+- [BDC-30P config.yaml](https://github.com/makerspet/store/blob/main/BDC-30P/v1.1.1/config.yaml)
+- [BDC-38C4 config.yaml](https://github.com/makerspet/store/blob/main/BDC-38C4/v1.2.0/config.yaml)
+
+For illustration purposes, here is the ESP32 GPIO pin assignment LiDAR from the [BDC-30P config.yaml](https://github.com/makerspet/store/blob/main/BDC-30P/v1.1.1/config.yaml).
+
+```
+lidar:
+  gpio:
+    tx: 35
+    rx: 27
+    pwm: 13
+    en: 32
+```
+
+Upload your edited configuration file to ESP32 as Arduino sketch data, see [video](https://www.youtube.com/watch?v=tKfVU1n5TjA&list=PLOSXKDW70aR8uA1IFahSKVuk5ODDfjTZV&index=4).
+
+Next, boot your firmware and check the Arduino Serial Monitor. The firmware should print `LIDAR model 3IROBOTIX DELTA-2G`.
 
 ```
 ets Jul 29 2019 12:21:46
