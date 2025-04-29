@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "How to Connect YDLIDAR X3, X3PRO, X2 and X2L to Maker's Pet ESP32 Boards"
+title: "How to Connect YDLIDAR X3, X3PRO, X2, X2L and SCL to Maker's Pet ESP32 Boards"
 author: iliao
-categories: [ YDLIDAR X3, ESP32 ]
+categories: [ YDLIDAR X3, YDLIDAR X3PRO, YDLIDAR X2, YDLIDAR X2L, YDLIDAR SCL, ESP32 ]
 image: assets/images/webp/ydlidar_x3_pro_1200px.webp
 # featured: true
 # hidden: true
