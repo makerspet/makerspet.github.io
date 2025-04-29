@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Connect Delta-2G LiDAR to Maker's Pet ESP32 Boards"
+title: "How to Connect Delta-2A, 2B and 2G LiDAR to Maker's Pet ESP32 Boards"
 author: iliao
 categories: [ Delta-2G, ESP32 ]
 image: assets/images/webp/3irobotix_delta_2g_1200px.webp
@@ -11,7 +11,7 @@ image: assets/images/webp/3irobotix_delta_2g_1200px.webp
 # rating: .5
 ---
 
-3irobotix Delta-2G is a low-cost 2D LiDAR 360-degree distance sensor used in smart vacuum cleaners for navigation. Here are instructions to connect Delta-2G to the LiDAR port on Maker's Pet [BDC-30P](https://makerspet.com/store#!/Driver-Board-for-ESP32-DOIT-DevKit-V1-Brushed-DC-Motors-and-LiDAR/p/724227009) and [BDC-38P](https://makerspet.com/store#!/Driver-Board-for-ESP32-DevKitC-V4-Brushed-DC-Motors-and-LiDAR/p/724216505) motor driver and ESP32 carrier boards.
+3irobotix Delta-2A, 2B and 2G are a low-cost 2D LiDAR 360-degree distance sensor used in smart vacuum cleaners for navigation. Here are instructions to connect Delta-2G to the LiDAR port on Maker's Pet [BDC-30P](https://makerspet.com/store#!/Driver-Board-for-ESP32-DOIT-DevKit-V1-Brushed-DC-Motors-and-LiDAR/p/724227009) and [BDC-38P](https://makerspet.com/store#!/Driver-Board-for-ESP32-DevKitC-V4-Brushed-DC-Motors-and-LiDAR/p/724216505) motor driver and ESP32 carrier boards.
 
 ## Hardware Wiring
 
@@ -27,19 +27,23 @@ Maker's Pet BDC-30P and BDC-38C4 motor driver and ESP32 carrier boards have an 8
 
 Some LiDARs, including 3irobotix Delta-2G, do not have a built-in LiDAR motor control. Maker's Pet BDC-30 and BDC-38C4 have a special on-board circuit that drives the LiDAR motor directly. Kaia.ai Arduino ESP32 firmware controls that special circuit to perform real-time LiDAR motor speed control.
 
-3irobotix Delta-2G uses a JST PH 2.0mm 5-pin connector. The photo below shows the Delta-2G connector pinout and connections to Maker's Pet [BDC-30P](https://makerspet.com/store#!/Driver-Board-for-ESP32-DOIT-DevKit-V1-Brushed-DC-Motors-and-LiDAR/p/724227009) board with a 30-pin ESP32 dev kit.
+3irobotix Delta-2A, 2B and 2G use a JST PH 2.0mm 5-pin connector. The photo below shows the Delta-2G connector pinout and connections to Maker's Pet [BDC-30P](https://makerspet.com/store#!/Driver-Board-for-ESP32-DOIT-DevKit-V1-Brushed-DC-Motors-and-LiDAR/p/724227009) board with a 30-pin ESP32 dev kit.
 
-- connect Delta-2G TX to BDC-30P LiDAR TX
-- connect Delta-2G GND to BDC-30P LiDAR GND
-- connect Delta-2G MOT- to BDC-30P LiDAR M-
-- connect Delta-2G +5V to BDC-30P LiDAR +5V
-- connect Delta-2G +5V/MOT+ to BDC-30P LiDAR +5V
+- connect Delta LiDAR TX to BDC-30P LiDAR TX
+- connect Delta LiDAR GND to BDC-30P LiDAR GND
+- connect Delta LiDAR MOT- to BDC-30P LiDAR M-
+- connect Delta LiDAR +5V to BDC-30P LiDAR +5V
+- connect Delta LiDAR +5V/MOT+ to BDC-30P LiDAR +5V
 
 Idential wiring applies to the Maker's Pet [BDC-38P](https://makerspet.com/store#!/Driver-Board-for-ESP32-DevKitC-V4-Brushed-DC-Motors-and-LiDAR/p/724216505) board with a 38-pin ESP32 dev kit as well.
 
 ![3irobotix Delta-2G LiDAR connected to Maker's Pet BDC-30P ESP32 Board](/assets/images/webp/delta-2g_with_bdc-30p_marked_up.webp '3irobotix Delta-2G LiDAR connected to Makers Pet BDC-30P ESP32 Board'){:class="zoom-image"}
 
 Optionally, put a resistor in series with TX because Delta-2G TX outputs 5V signal, not 3.3V. A 100 Ohm to 10k resistor should work.
+
+For easy connection, Maker's Pet sells a [breakout cable for 3irobotix Delta-2A and 2G](https://makerspet.com/store#!/Breakout-Cable-for-YDLIDAR-X2-X2L-X3-X3-PRO-SCL/p/746225737) with 2.54mm female DuPont connectors.
+
+![breakout cable for 3irobotix Delta-2A and 2G](/assets/images/webp/delta_2g_breakout_cable_1_cropped.webp 'breakout cable for 3irobotix Delta-2A and 2G'){:class="zoom-image"}
 
 Here are more high-resolution photos of the wiring.
 
@@ -52,7 +56,11 @@ Here are more high-resolution photos of the wiring.
 
 ## Firmware Configuration
 
-Edit your Kaia.ai firmware `config.yaml` configuration file. In the `lidar` section comment out everything except your LiDAR model `3IROBOTIX DELTA-2G`.
+Edit your Kaia.ai firmware `config.yaml` configuration file. In the `lidar` section comment out everything except your LiDAR model:
+- `3IROBOTIX DELTA-2A` for Delta-2A
+- `3IROBOTIX DELTA-2A` for Delta-2A that runs at 115200 baud (I'm not 100% sure of this LiDAR model name)
+- `3IROBOTIX DELTA-2B` for Delta-2B
+- `3IROBOTIX DELTA-2G` for Delta-2G
 
 Here is [reference documentation](https://kaia.ai/blog/kaiaai-configuration-file/) for `config.yaml`.
 
@@ -126,17 +134,22 @@ Connecting to WiFi NETGEAR48 ...
 
 Follow this step if you are using Kaia.ai ROS2 PC software for robot mapping, navigation, SLAM and visualization. Otherwise you can skip this step.
 
-When you get to running the Kaia.ai Docker image, edit `telem.yaml` file and change `lidar_model` to `"3IROBOTIX-DELTA-2G"`
+Override the default LiDAR model when you launch your robot using the `lidar_model` argument, see [more details](https://github.com/kaiaai/kaiaai#overriding-default-robot-and-lidar-models-per-launch):
+
+Set the `lidar_model` argument as follows:
+- `3IROBOTIX-DELTA-2A` for 3irobotix Delta-2A and the 115200 baud Delta-2A
+- `3IROBOTIX-DELTA-2B` for 3irobotix Delta-2B
+- `3IROBOTIX-DELTA-2G` for 3irobotix Delta-2G
 
 ```
-pico /ros_ws/src/makerspet_mini/config/telem.yaml
+ros2 launch kaiaai_bringup physical.launch.py robot_model:=makerspet_loki lidar_model:=YDLIDAR-X3-PRO
 ```
 
-Keep in mind that changes to this file will get lost when the `kaiaai/kaiaai` container shuts down, so you would have to edit this file again next time you launch the `kaiaai` Docker image. However, future Kaia.ai releases are going to implement automatic ROS2 LiDAR configuration, so you will not have to edit the `telem.yaml` file.
+The full list of supported `lidar_model` arguments is [here](https://github.com/kaiaai/kaiaai#list-of-supported-lidars).
 
-When you get to connecting your ESP32 to your local PC, your local PC should print something like this, including `LDS model 3IROBOTIX-DELTA-2G`.
+When your robot's ESP32 connects to your local ROS2 PC, your local PC should print your LiDAR model `LDS model 3IROBOTIX-DELTA-2G`.
 
-Your Delta-2G LiDAR should be powered on and spinning.
+Your Delta LiDAR should be powered on and spinning.
 
 ![3irobotix Delta-2G LiDAR connected to Maker's Pet BDC-30P ESP32 Board ROS2 Bash Terminal Output](/assets/images/powershell_delta-2g_connected.png '3irobotix Delta-2G LiDAR connected to Makers Pet BDC-30P ESP32 Board ROS2 Bash Terminal Output'){:class="zoom-image"}
 
@@ -151,8 +164,6 @@ Telem avg 46 max 52ms, LiDAR RPM 4.75, wheels RPM 0.00 0.00, battery 8.00V, RSSI
 Telem avg 46 max 52ms, LiDAR RPM 4.75, wheels RPM 0.00 0.00, battery 8.00V, RSSI -61dBm
 Telem avg 46 max 52ms, LiDAR RPM 4.75, wheels RPM 0.00 0.00, battery 8.00V, RSSI -62dBm
 ```
-
-Run the `ros2 launch kaiaai_bringup monitor_robot.launch.py` command in Docker to check your Lidar output. It should be something like this.
 
 <div class="text-center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K2i_wee3JU8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

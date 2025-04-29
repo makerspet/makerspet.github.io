@@ -33,6 +33,10 @@ The photo below shows the YDLIDAR X2/X2L connector pinout.
 
 ![YDLIDAR X2L connector pinout](/assets/images/webp/ydlidar_x2l_bottom_marked.webp 'YDLIDAR X2L connector pinout'){:class="zoom-image"}
 
+For easy connection, Maker's Pet sells a [breakout cable for YDLIDAR X2, X2L, X3, X3 PRO and SCL](https://makerspet.com/store#!/Breakout-Cable-for-YDLIDAR-X2-X2L-X3-X3-PRO-SCL/p/746225737) with 2.54mm female DuPont connectors.
+
+![Makers Pet breakout cable for YDLIDAR X2, X2L, X3, X3 PRO and SCL](/assets/images/webp/ydlidar_x2_breakout_cable_1_cropped.webp 'Makers Pet breakout cable for YDLIDAR X2, X2L, X3, X3 PRO and SCL'){:class="zoom-image"}
+
 Make the following connections between YDLIDAR X3/X3PRO X2/X2L Lidar and BDC-30P/BDC-38C4 board:
 
 - LiDAR TX to board LiDAR header TX
@@ -122,18 +126,20 @@ Connecting to WiFi NETGEAR48 ...
 
 Follow this step if you are using Kaia.ai ROS2 PC software for robot mapping, navigation, SLAM and visualization. Otherwise you can skip this step.
 
-When you get to running the Kaia.ai Docker image, edit `telem.yaml` file and change `lidar_model` to:
-- `"YDLIDAR-X3-PRO"` for YDLIDAR X3 PRO
-- `"YDLIDAR-X3"` for YDLIDAR X3
-- `"YDLIDAR-X2-X2L"` for YDLIDAR X2 and X2L
+Override the default LiDAR model when you launch your robot using the `lidar_model` argument, see [more details](https://github.com/kaiaai/kaiaai#overriding-default-robot-and-lidar-models-per-launch):
+
+Set the `lidar_model` argument as follows:
+- `YDLIDAR-X3` for YDLIDAR X3
+- `YDLIDAR-X3-PRO` for YDLIDAR X3 PRO
+- `YDLIDAR-X2-X2L` for YDLIDAR X2 and X2L
 
 ```
-pico /ros_ws/src/makerspet_mini/config/telem.yaml
+ros2 launch kaiaai_bringup physical.launch.py robot_model:=makerspet_loki lidar_model:=YDLIDAR-X3-PRO
 ```
 
-Keep in mind that changes to this file will get lost when the `kaiaai/kaiaai` container shuts down, so you would have to edit this file again next time you launch the `kaiaai` Docker image. However, future Kaia.ai releases are going to implement automatic ROS2 LiDAR configuration, so you will not have to edit the `telem.yaml` file.
+The full list of supported `lidar_model` arguments is [here](https://github.com/kaiaai/kaiaai#list-of-supported-lidars).
 
-When you get to connecting your ESP32 to your local PC, your local PC should print your LiDAR model `LDS model YDLIDAR-X3-PRO`.
+When your robot's ESP32 connects to your local ROS2 PC, your local PC should print your LiDAR model `LDS model YDLIDAR-X3-PRO`.
 
 Your YDLIDAR sensor should be powered on and spinning.
 
@@ -150,8 +156,6 @@ Telem avg 46 max 52ms, LiDAR RPM 4.75, wheels RPM 0.00 0.00, battery 8.00V, RSSI
 Telem avg 46 max 52ms, LiDAR RPM 4.75, wheels RPM 0.00 0.00, battery 8.00V, RSSI -61dBm
 Telem avg 46 max 52ms, LiDAR RPM 4.75, wheels RPM 0.00 0.00, battery 8.00V, RSSI -62dBm
 ```
-
-Run the `ros2 launch kaiaai_bringup monitor_robot.launch.py` command in Docker to check your Lidar output. It should be something like this.
 
 <div class="text-center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_VuRCiO55gA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
