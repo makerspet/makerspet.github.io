@@ -5,7 +5,7 @@ description: "Educational Pet Robots - built on Arduino, ROS2 and Kaia.ai"
 logo: 'assets/images/logo256.png'
 favicon: 'favicon.ico'
 baseurl: ''
-blogurl: '/'
+blogurl: '/blog/'
 google_analytics: 'G-3MP1M90FGZ'
 disqus: 'makerspet-com'
 mailchimp-list: 'https://remake.us4.list-manage.com/subscribe?u=ce7793379be11c5c705d99df0&id=62f859271b'
