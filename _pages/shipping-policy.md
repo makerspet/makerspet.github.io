@@ -21,7 +21,6 @@ We will notify you if there is a considerable processing delay.</p>
   <li>UPS Standard</li>
   <li>USPS Priority Mail</li>
   <li>USPS Ground Advantage</li>
-  <li>FedEx Ground</li>
 </ul>
 
 <p>USPS usually costs less and does not always provide detailed tracking.
@@ -30,7 +29,7 @@ but has a high-quality tracking system. We recommend choosing UPS for your shipp
 
 <p>For UPS shipping services, the actual weight of the package is rounded up to the next whole pound. Shipping carriers also use "dimensional weight" that reflects package size to calculate shipping costs.</p>
 
-<p>We do not offer "drop shipping".</p>
+<p>We ship from California, USA and do not offer "drop shipping".</p>
 
 <p>All of the quoted transit times are in business days, and do not include weekends, US holidays, etc.</p>
 
@@ -50,7 +49,9 @@ but has a high-quality tracking system. We recommend choosing UPS for your shipp
 
 <h4 class="h4">Customer Support</h4>
 
-<p>If you were looking to initiate a return for a potentially defective product please consider browsing Maker's Pet support resources:</p>
+<p>I personally test every board, LiDAR, motor and visually inspect all parts before shipping.<p>
+
+<p>If you are looking to initiate a return for a potentially defective product please consider browsing Maker's Pet support resources:</p>
 <p><ul>
   <li>our <a href="https://github.com/makerspet/support/discussions">Support forum</a></li>
   <li>instruction and troubleshooting videos on our <a href="https://youtube.com/@makerspet/">YouTube channel</a></li>
@@ -90,8 +91,7 @@ That said, we cannot guarantee the requested change or cancellation.</p>
 
 <h4 class="h4">Domestic Sales Tax</h4>
 
-<p>Domestic sales tax rates vary depending on location. Our online store solution provider
-<a href="https://ecwid.com">Ecwid</a> calculates domestic sales tax automatically for us.</p>
+<p>Domestic sales tax is applied only if the shipping destination address is in California. We do not collect any tax you live in any other state or outside USA.<p>
 
 <p>To get sales tax exemption, email us (support at makerspet.com) a fully-filled out copy of your most recent Tax Exempt Certificate, with our information included in the Seller Fields. Once process your data, your orders will be tax exempt.</p>
 
@@ -108,7 +108,6 @@ That said, we cannot guarantee the requested change or cancellation.</p>
   <li>UPS Standard (ships to Canada)</li>
   <li>USPS First-Class Package International Service</li>
   <li>USPS Priority Mail International</li>
-  <li>FedEx Ground (ships to Canada)</li>
 </ul>
 
 
@@ -136,7 +135,7 @@ That said, we cannot guarantee the requested change or cancellation.</p>
 </ul>
 </p>
 
-<p>Our store software collects EU and UK VAT automatically for you. However, in general, we are unable to predict your country's specific customs/duty/fee requirements. Therefore, unless we have charged VAT to you during checkout, please be prepared to pay full VAT on the fully declared value of your order. Similarly, please be prepared to pay customs fees your country's postal system may charge you.</p>
+<p>In general, we are unable to predict your country's specific customs/duty/fee requirements. Therefore, please be prepared to pay VAT on the fully declared value of your order. Similarly, please be prepared to pay customs fees your country's postal system may charge you.</p>
 
 <p>We cannot issue any refunds if you do not pay the required brokerage fees, VAT, tariff, duty, taxes, handling fees, customs clearance charges, etc.</p>
 
