@@ -4,8 +4,8 @@ title: "Build an Arduino Self-Driving Robot - Video Instructions Series"
 author: iliao
 categories: [ Arduino, Mini, self-driving ]
 image: assets/images/webp/video_instructions_cover.webp
-# featured: true
-# hidden: true
+featured: true
+hidden: true
 # comments: false
 # tags: [red, yellow]
 # rating: .5

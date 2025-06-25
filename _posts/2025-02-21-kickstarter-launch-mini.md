@@ -6,6 +6,7 @@ categories: [ Kickstarter, Mini ]
 image: assets/images/webp/PXL_20240704_031632664_edited.webp
 featured: true
 hidden: true
+published: false
 # comments: true
 # tags: [red, yellow]
 # rating: .5
