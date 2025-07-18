@@ -6,7 +6,7 @@ categories: [ LiDAR, LDS, LDS02RR, ROS, Arduino ]
 image: assets/images/webp/Loki-LDS02RR-LiDAR-cropped.webp
 # featured: true
 # hidden: true
-# comments: false
+comments: true
 # tags: [red, yellow]
 # rating: .5
 ---
