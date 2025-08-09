@@ -56,7 +56,7 @@ but has a high-quality tracking system. We recommend choosing UPS for your shipp
   <li>our <a href="https://github.com/makerspet/support/discussions">Support forum</a></li>
   <li>instruction and troubleshooting videos on our <a href="https://youtube.com/@makerspet/">YouTube channel</a></li>
   <li>issue trackers on our <a href="https://github.com/makerspet">GitHub repositories</a></li>
-  <li>our <a href="https://www.facebook.com/groups/243730868651472/">Facebook group</a></li>
+  <li>our <a href="https://www.facebook.com/groups/351994643955858">Facebook group</a></li>
 </ul></p>
 
 <p>If you don't see your question answered already, please consider creating a user account on the
