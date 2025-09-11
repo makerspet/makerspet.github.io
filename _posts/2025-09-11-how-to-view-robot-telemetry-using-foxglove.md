@@ -57,9 +57,11 @@ Open your Foxglove viewer
 
 As an alternative, you can use [Rosbridge](https://github.com/RobotWebTools/rosbridge_suite) ROS2 node instead of [Foxglove bridge](https://github.com/foxglove/ros-foxglove-bridge).
 
-Simply put, both these alternatives function identically as far as the user is concerned. Both of these are ROS2 nodes and both use WebSockets. According to Foxglove, Foxglove bridge should run a bit faster compared to Rosbridge.
+Both of these are ROS2 nodes and both use WebSockets. According to Foxglove, Foxglove bridge should run a bit faster compared to Rosbridge.
 
-Rosbridge uses port 9090 by defaul. Therefore, the Docker launch command should look like this:
+The key advantage of using Rosbridge is that you can use your own client with Rosbridge - instead of the Foxglove viewer.
+
+Rosbridge uses port 9090 by default. Therefore, the Docker launch command should look like this:
 
 ```
 docker run --name makerspet -it -v c:\maps:/root/maps --rm -p 8888:8888/udp -p 4430:4430/tcp -p 9090:9090/tcp -e DISPLAY=host.docker.internal:0.0 -e LIBGL_ALWAYS_INDIRECT=0 kaiaai/kaiaai:iron
