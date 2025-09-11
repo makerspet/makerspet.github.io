@@ -22,7 +22,7 @@ docker run --name makerspet -it -v c:\maps:/root/maps --rm -p 8888:8888/udp -p 4
 ```
 ## Install Foxglove
 
-In your ROS2 Bash shell run
+In your ROS2 Bash shell run the command below to install the [Foxglove bridge](https://github.com/foxglove/ros-foxglove-bridge) ROS2 node.
 
 ```
 apt update && apt install -y ros-iron-foxglove-bridge
@@ -52,5 +52,35 @@ Open your Foxglove viewer
 - click the Topics tab in the left sidebar. You should see `/scan` and `/tf` topics running.
 
 ![Foxglove viewer showing Maker's Pet Mini Arduino/ROS2 robot LiDAR scan](/assets/images/webp/foxglove2.webp 'Foxglove viewer showing Maker's Pet Mini Arduino/ROS2 robot LiDAR scan'){:class="zoom-image"}
+
+## Using Foxglove with Rosbridge
+
+As an alternative, you can use [Rosbridge](https://github.com/RobotWebTools/rosbridge_suite) ROS2 node instead of [Foxglove bridge](https://github.com/foxglove/ros-foxglove-bridge).
+
+Simply put, both these alternatives function identically as far as the user is concerned. Both these ROS2 nodes use WebSockets. According to Foxglove, Foxglove bridge should run a bit faster compared to Rosbridge.
+
+Rosbridge uses port 9090 by defaul. Therefore, the Docker launch command should look like this:
+
+```
+docker run --name makerspet -it -v c:\maps:/root/maps --rm -p 8888:8888/udp -p 4430:4430/tcp -p 9090:9090/tcp -e DISPLAY=host.docker.internal:0.0 -e LIBGL_ALWAYS_INDIRECT=0 kaiaai/kaiaai:iron
+```
+
+Install Rosbridge using your ROS2 Bash shell:
+
+```
+apt update && apt install -y ros-iron-rosbridge-server
+source /opt/ros/iron/setup.bash
+```
+
+Launch Rosbridge using your ROS2 Bash shell:
+
+```
+ros2 launch rosbridge_server rosbridge_websocket_launch.xml
+```
+
+Launch your Foxglove viewer
+- click Open Connection to a live robot or server
+- select Foxglove WebSocket `ws://localhost:9090`
+- your Foxglove viewer should connect and start displaying data
 
 Happy robot building!
