@@ -73,6 +73,8 @@ but has a high-quality tracking system. We recommend choosing UPS for your shipp
 
 <p>Customers are responsible for both the return shipping costs and shipping costs from the original order unless the product arrives damaged or defective.</p>
 
+<p>Refunds for goods originally using a free shipping method will be made less the actual carrier shipping cost.</p>
+
 <p>Please contact us <b>before</b> returning any package. Contact us if you have any issues and we will do our best to help you out.</p>
 
 
