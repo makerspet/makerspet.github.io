@@ -5,6 +5,8 @@ permalink: /pages/shipping-policy
 comments: false
 ---
 
+<p>Last updated October 1, 2025</p>
+
 <h4 class="h4">Processing Times</h4>
 
 <p>We process orders typically within 1-2 business days. Orders requiring 3D-printing a part may take some additional time.
