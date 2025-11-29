@@ -19,11 +19,16 @@ Copy the wiring from these photographs.
 
 TODO add schematic.
 
-|![ESP32 to L298N and N20 Motor Wiring](/assets/images/webp/esp32_to_l298n_to_n20_motor_wiring.webp 'ESP32 to L298N and N20 Motor Wiring'){:class="zoom-image"}|![ESP32 to L298N Wiring](/assets/images/webp/esp32_to_l298n_wiring_a.webp 'ESP32 to L298N Wiring'){:class="zoom-image"}|
+|![ESP32 to L298N and N20 Motor Wiring](/assets/images/webp/esp32_to_l298n_to_n20_motor_wiring_a.webp 'ESP32 to L298N and N20 Motor Wiring'){:class="zoom-image"}|![ESP32 to L298N Wiring](/assets/images/webp/esp32_to_l298n_wiring_a.webp 'ESP32 to L298N Wiring'){:class="zoom-image"}|
 
 |![ESP32 to L298N Wiring](/assets/images/webp/esp32_to_l298n_wiring_b.webp 'ESP32 to L298N Wiring'){:class="zoom-image"}|![ESP32 to L298N Wiring](/assets/images/webp/esp32_to_l298n_wiring_c.webp 'ESP32 to L298N Wiring'){:class="zoom-image"}|
 
-|![ESP32 to N20 Motor Wiring](/assets/images/webp/esp32_to_n20_motor_wiring.webp 'ESP32 to N20 Motor Wiring'){:class="zoom-image"}|![L298N Wiring](/assets/images/webp/l298n_wiring_a.webp 'L298N Wiring'){:class="zoom-image"}|
+|![L298N to N20 Motor Wiring](/assets/images/webp/l298n_to_n20_motor_wiring.webp 'L298N to N20 Motor Wiring'){:class="zoom-image"}|![L298N Wiring](/assets/images/webp/l298n_wiring_a.webp 'L298N Wiring'){:class="zoom-image"}|
+
+<div class="text-center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V_50bZ3S7bE?si=vKl0UPY-jvC7vU5l&list=PLOSXKDW70aR8SA16wTB0ou9ClKhv7micy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+<p></p>
 
 ## Firmware
 
