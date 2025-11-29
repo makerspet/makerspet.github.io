@@ -1,0 +1,46 @@
+---
+layout: post
+title: "How to Connect L298N Motor Driver to ESP32"
+author: iliao
+categories: [ L298N, ESP32 ]
+image: assets/images/webp/l298n.webp
+# featured: true
+# hidden: true
+# comments: false
+# tags: [red, yellow]
+# rating: .5
+---
+
+L298N is a popular, low-cost motor driver board. Here is how you can connect L298N to ESP32 and drive a ROS2 (Kaia.ai-compatible) differential robot.
+
+## Wiring
+
+Copy the wiring from these photographs.
+
+TODO add schematic.
+
+|![ESP32 to L298N and N20 Motor Wiring](/assets/images/webp/esp32_to_l298n_to_n20_motor_wiring.webp 'ESP32 to L298N and N20 Motor Wiring'){:class="zoom-image"}|![ESP32 to L298N Wiring](/assets/images/webp/esp32_to_l298n_wiring_a.webp 'ESP32 to L298N Wiring'){:class="zoom-image"}|
+
+|![ESP32 to L298N Wiring](/assets/images/webp/esp32_to_l298n_wiring_b.webp 'ESP32 to L298N Wiring'){:class="zoom-image"}|![ESP32 to L298N Wiring](/assets/images/webp/esp32_to_l298n_wiring_c.webp 'ESP32 to L298N Wiring'){:class="zoom-image"}|
+
+|![ESP32 to N20 Motor Wiring](/assets/images/webp/esp32_to_n20_motor_wiring.webp 'ESP32 to N20 Motor Wiring'){:class="zoom-image"}|![L298N Wiring](/assets/images/webp/l298n_wiring_a.webp 'L298N Wiring'){:class="zoom-image"}|
+
+## Firmware
+
+Use the [default firmware](https://github.com/kaiaai/firmware) with no changes.
+
+Use the [default config.yaml file](https://github.com/kaiaai/firmware/blob/iron/kaiaai-esp32/data/config.yaml) with no changes.
+
+## Power supply
+
+Make sure to power your L298N from a stable power supply.
+
+For example, if your robot runs on batteries, powering your L298N directly from the battery can cause problems when the battery gets low on charge. Specifically, your robot's motors may not be able to achieve their maximum RPM when the battery voltage is low.
+
+To work around this problem, you may want to put a DC-DC converter between your battery and L298N to stabilize the motor power.
+
+## Bringup instructions
+
+Follow [video instructions](https://m.youtube.com/watch?v=6GtjAB19GP8&list=PLOSXKDW70aR8uA1IFahSKVuk5ODDfjTZV) to build and bring-up your robot.
+
+Happy robot building!
