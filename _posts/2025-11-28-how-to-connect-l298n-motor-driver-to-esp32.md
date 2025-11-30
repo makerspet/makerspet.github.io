@@ -13,11 +13,13 @@ image: assets/images/webp/l298n.webp
 
 L298N is a popular, low-cost motor driver board. Here is how you can connect L298N to ESP32 and drive a ROS2 (Kaia.ai-compatible) differential robot.
 
+## Schematic
+
+![ESP32, L298N and N20 Motors Schematic](/assets/images/webp/esp32_lm298n_n20motors_connections.webp 'ESP32, L298N and N20 Motors Schematic'){:class="zoom-image"}
+
 ## Wiring
 
-Copy the wiring from these photographs.
-
-TODO add schematic.
+Refer to these wiring example illustrations.
 
 |![ESP32 to L298N Wiring](/assets/images/webp/esp32_to_l298n_wiring_b.webp 'ESP32 to L298N Wiring'){:class="zoom-image"}|![ESP32 to L298N Wiring](/assets/images/webp/esp32_to_l298n_wiring_a.webp 'ESP32 to L298N Wiring'){:class="zoom-image"}|
 
