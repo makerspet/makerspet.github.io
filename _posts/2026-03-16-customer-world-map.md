@@ -3,7 +3,7 @@ layout: post
 title: "World Map of Our Customers"
 author: iliao
 categories: [  ]
-image: assets/images/webp/customer_map_1200px.png
+image: assets/images/webp/customer_map_1200px.webp
 # featured: true
 # hidden: true
 # comments: false
